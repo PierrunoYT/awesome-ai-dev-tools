@@ -171,3 +171,8 @@ SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat and other useful
 ---
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
+
+## Git Clients
+
+- [GitBrain](https://gitbrain.dev/) — Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI.
+- [GitButler](https://gitbutler.com/) — Git client for simultaneous branches on top of your existing workflow. Defaults to OpenAI, can be changed to Perplexity for generating conventional commit messages.
