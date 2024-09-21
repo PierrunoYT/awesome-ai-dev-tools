@@ -16,6 +16,17 @@ A curated list of powerful and innovative development tools, including code edit
   - Privacy mode and SOC 2 certification for data security
   - Free version available, with a Pro version for $20 USD per month
 
+- [PearAI](https://pearai.com/): An open-source, AI-powered code editor forked from Visual Studio Code. Key features include:
+  - AI chat for natural language code queries and generation
+  - Inline code editing with CMD+I (or CTRL+I on Windows)
+  - Contextual understanding of folders, documentation, and files
+  - Codebase-wide interaction using @codebase
+  - AI-powered debugging assistance
+  - Support for existing VSCode extensions, themes, and keybindings
+  - Free and open-source
+  - Community-driven development
+  - Suitable for rapid feature development, code refactoring, and documentation
+
 ### AI Development Assistants
 
 - [Codeium](https://codeium.com/): An AI-powered coding assistant that enhances developer productivity. Key features include:
