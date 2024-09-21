@@ -282,6 +282,32 @@ A curated list of powerful and innovative development tools, including code edit
   - Free tier available to get started (no credit card required)
   - Suitable for individual developers and software engineering teams
 
+- [Tabnine](https://www.tabnine.com/): An AI-powered code assistant designed to enhance software development productivity while prioritizing privacy and security. Key features include:
+  - AI-Powered Code Assistance:
+    - Code Completion: Provides context-aware code suggestions and completions
+    - Code Generation: Assists in creating new code snippets and functions
+    - Code Explanations: Offers explanations for existing code to improve understanding
+    - Test Generation: Helps create unit tests for code
+    - Documentation Generation: Assists in writing code documentation
+    - Bug Fixing: Identifies and suggests fixes for potential bugs
+  - Privacy and Security Focus:
+    - Emphasizes keeping code private, secure, and compliant
+    - Offers a private AI solution that doesn't share or expose code externally
+  - Personalization:
+    - Adapts to individual coding styles and preferences over time
+    - Provides personalized suggestions based on the developer's coding patterns
+  - Wide Language Support: Supports multiple programming languages and frameworks
+  - Integration: Integrates with popular IDEs and fits into existing development workflows
+  - Enterprise-Grade Features:
+    - Suitable for development teams of all sizes, including enterprise-level organizations
+    - Provides tools for team collaboration and code sharing within organizations
+  - Deployment Options:
+    - Available as a cloud-based service
+    - Offers on-premises deployment options for enhanced security and compliance
+  - Pricing:
+    - Provides a free plan for individual developers
+    - Offers paid plans with additional features for professional and enterprise use
+
 - [Codejet](https://www.codejet.ai/): An AI-powered platform designed to streamline the process of converting design to code, enhancing productivity in software development. Key features include:
   - Design to Code Automation: Jet UI Design System for consistency, AI Code Generator, Figma Plugin Assistant for seamless conversion, and Visual Editor for complex code structures
   - Time-saving workflow automation
