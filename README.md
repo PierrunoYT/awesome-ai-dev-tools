@@ -171,6 +171,20 @@ A curated list of powerful and innovative development tools, including code edit
   - Customization and Flexibility: Users can likely customize the tool to fit specific development needs
   - User Control: Operates with user permission at every step, ensuring control and transparency
 
+- [Cody](https://sourcegraph.com/cody): An AI-powered coding assistant developed by Sourcegraph. Key features include:
+  - AI-Powered Coding Assistance: Helps developers write, fix, and maintain code more efficiently using advanced AI models
+  - Key Features:
+    - Code Generation and Editing: Assists in writing new code and modifying existing code
+    - Contextual Understanding: Utilizes OpenCtx to understand the context of your codebase, documentation, tickets, and issues
+    - AI Chat: Allows developers to ask coding questions and receive accurate answers
+    - Inline Code Changes: Automates quick code modifications using natural language instructions
+    - Unit Test Generation: Helps create unit tests for code
+  - LLM Support: Supports multiple powerful Large Language Models including Claude 3.5, GPT-4, Gemini 1.5, and Mixtral-8x7B
+  - Integration and Workflow: Seamlessly integrates into existing development workflows with AI-assisted autocomplete
+  - Context-Aware Functionality: Leverages Sourcegraph's search capabilities for enhanced accuracy
+  - Wide Adoption: Used by over 2.5 million engineers
+  - Customization and Flexibility: Supports various LLMs and offers customizable features
+
 ### AI-enhanced IDEs and Plugins
 
 - [Replit](https://replit.com/): An AI-powered software development and deployment platform. Key features include:
