@@ -98,6 +98,33 @@ A curated list of powerful and innovative development tools, including code edit
     - Access to a vast knowledge base of professional coding practices
     - Enhanced code quality through expert-level suggestions
 
+- [Amazon Q Developer](https://aws.amazon.com/q/): An AI-powered coding assistant and conversational tool designed to help developers work more efficiently with AWS (Amazon Web Services) technologies. Key features include:
+  - AI-Powered Assistance:
+    - Code generation and completion suggestions
+    - Answers to AWS-related questions
+    - Guidance on best practices and AWS Well-Architected Framework patterns
+  - AWS Expertise:
+    - Deep knowledge of AWS services, documentation, and solution implementations
+    - Helps developers understand, build, extend, and operate AWS applications
+    - Provides insights into AWS best practices and architectural patterns
+  - Integration:
+    - Available as a plugin for popular IDEs like Visual Studio Code and JetBrains IDEs
+    - Accessible through command-line interfaces
+    - Can be used directly in the AWS Management Console
+  - Customization:
+    - Allows developers to tailor the AI assistant to their specific needs and preferences
+    - Supports creation of custom knowledge bases for organization-specific information
+  - Use Cases:
+    - Answering questions about AWS services and features
+    - Generating code snippets for AWS implementations
+    - Providing guidance on AWS architecture and best practices
+    - Helping with troubleshooting and problem-solving in AWS environments
+  - Benefits:
+    - Accelerates development processes on AWS
+    - Reduces time spent searching for AWS documentation and best practices
+    - Improves code quality through AI-assisted suggestions
+    - Provides quick access to AWS expertise without extensive manual research
+
 ### AI-enhanced IDEs and Plugins
 
 - [Replit](https://replit.com/): An AI-powered software development and deployment platform. Key features include:
