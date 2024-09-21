@@ -224,6 +224,30 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - Self-hosted copilot clone using the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model.
 - [Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot) - Open source assistant with built-in Python editor and interpreter.
 
+## Snippet generators
+
+- [CodePal](https://codepal.ai/) — A web tool for quickly generating or refactoring code.
+- [AI Code Convert](https://aicodeconvert.com/) — A web tool for translating code between programming languages.
+- [AI Code Playground](https://aicodeplayground.com/) — A web tool for refactoring and improving code.
+- [AutoRegex](https://www.autoregex.xyz/) —  AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English.
+
+## Documentation
+
+- [Trelent](https://trelent.net/) — A VS Code extension to generate docstrings. Uses proprietary models.
+- [Docify](https://docify.ai4code.io/) — A VS Code extension to generate docstrings.
+- [Mintlify Writer](https://writer.mintlify.com/) — A VS Code extension to generate docstrings.
+- [DiagramGPT](https://www.eraser.io/diagramgpt) — DiagramGPT is a free AI-based web app that converts a schema, infrastructure definition, code snippet or plain language description into diagrams. The tool can generate flow charts, entity relationship diagrams, cloud architecture diagrams and sequence diagrams.
+- [DocuWriter.ai](https://www.docuwriter.ai/) —  AI-powered web app to generate automated Code & API documentation from your source code files.
+- [README-AI](https://github.com/eli64s/readme-ai) — Automated README.md file generator, powered by large language model APIs.
+- [Supacodes](https://www.supacodes.com) — An AI tool that automates writing & updating code documentation in Github
+- [CodexAtlas](https://codedocumentation.app/) - Automated code and API documentation using latest AI models
+
+## Code generation
+
+- [Magic](https://magic.dev/) — Company promising two products, an assistant and [LTM-1](https://magic.dev/blog/ltm-1), an underlying foundation model trained on code. Waitlist.
+- [Poolside](https://poolside.ai/) — Company building code generation models through reinforcement learning.
+- [Visual Copilot](https://www.builder.io/m/design-to-code) — Figma plugin that converts designs into clean, responsive code for multiple frameworks and CSS libraries.
+
 ---
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
