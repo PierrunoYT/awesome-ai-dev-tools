@@ -411,6 +411,19 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Latest version: v0.8.0 (as of March 29, 2024)
 - Strong community presence and contributor opportunities
 
+### [Marblism](https://www.marblism.com/)
+- AI-powered platform for generating full-stack web applications using NextJS
+- One-click deployment of generated applications
+- Comprehensive setup including authentication and customizable design system
+- Suitable for building SaaS apps, marketplaces, social apps, internal tools, and AI-powered applications
+- AI-generated database schema, API endpoints, and front-end components
+- Customizable output allowing further refinement of generated code
+- Unified JavaScript framework (NextJS) for full-stack development
+- User ownership of generated code with GitHub repository access
+- Community support through Discord channel
+- Created by Cyril and Ulric to simplify initial stages of web development
+- Accelerates development process, allowing focus on unique features
+
 ---
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
