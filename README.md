@@ -397,6 +397,20 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Used by notable companies like Anthropic, Cursor, Perplexity, Zapier, and Fidelity
 - Serves approximately 3,000 brands and reaches over 1.5 million developers monthly
 
+### [MetaGPT](https://www.deepwisdom.ai/)
+- Open-source multi-agent framework for complex task collaboration using GPT models
+- Simulates a software company's workflow with AI agents playing various roles
+- One-line input generates comprehensive outputs (user stories, analysis, requirements, APIs, etc.)
+- Automated software development following Standard Operating Procedures (SOPs)
+- Data Interpreter for data analysis and visualization tasks
+- Supports various LLM backends and configurable models for different roles
+- Command-line tool and Python library integration
+- Active GitHub repository with 43.6k stars and 5.2k forks
+- Discord channel for community discussions
+- Research paper accepted for oral presentation at ICLR 2024
+- Latest version: v0.8.0 (as of March 29, 2024)
+- Strong community presence and contributor opportunities
+
 ---
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
