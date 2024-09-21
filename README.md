@@ -7,6 +7,16 @@ A curated list of powerful and innovative development tools, including code edit
 
 ### AI Development Assistants
 
+- [Codeium](https://codeium.com/): An AI-powered coding assistant that enhances developer productivity. Key features include:
+  - Fast, context-aware code autocomplete for over 70 programming languages
+  - Command feature for inline refactors and code generation
+  - Chat functionality for code explanations, refactoring, and bug fixing
+  - Integration with over 40 popular IDEs
+  - Advanced context awareness and reasoning engine
+  - Free plan for individual developers
+  - Enterprise solutions with additional features
+  - Strong focus on security, privacy, and ethical training data usage
+
 ### AI-enhanced IDEs and Plugins
 
 ### AI Code Review and Analysis Tools
