@@ -138,6 +138,24 @@ AI-powered SQL query builder for simplified query creation and optimization.
 ### [Mutahunter](https://mutahunter.ai)
 Open-source, AI-driven software testing tool leveraging Large Language Models (LLMs).
 
+### [OpenAI Codex](https://platform.openai.com/docs/guides/code/)
+AI system by OpenAI that translates natural language to code.
+
+### [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+ML-powered coding companion for building applications faster.
+
+### [Debuild](https://debuild.app/)
+AI-powered low-code tool for web apps.
+
+### [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui)
+Open-source implementation of OpenAI's ChatGPT Code interpreter.
+
+### [TurboPilot](https://github.com/ravenscroftj/turbopilot)
+Self-hosted copilot clone using the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model.
+
+### [WhoDB](https://github.com/clidey/whodb)
+SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat and other useful features.
+
 ---
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
