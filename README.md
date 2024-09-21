@@ -422,6 +422,21 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Latest version: v0.8.0 (as of March 29, 2024)
 - Strong community presence and contributor opportunities
 
+### [Gitwit.dev](https://gitwit.dev/)
+- AI-powered online tool for accelerating web application development
+- Rapid Development: Build and ship web applications in minutes
+- AI-Assisted Coding: Uses AI to augment coding skills and generate code efficiently
+- Technology Stack: Supports React, Tailwind, and NodeJS
+- GitHub Integration: Each project comes with a GitHub repository
+- Learning Tool: Valuable resource for beginners to learn coding
+- Code Generation: Generates professional-grade code from natural language prompts
+- Rapid Prototyping: Excellent for quickly prototyping ideas
+- Accessibility: User-friendly for developers of all skill levels
+- Project Types: Supports various web applications, including Chrome extensions
+- GitWit Agent: Container-based agent for AI-driven repository and commit creation
+- Aims to revolutionize web development by making it faster and more accessible
+- Particularly useful for rapid prototyping, learning to code, and accelerating development
+
 ### [Marblism](https://www.marblism.com/)
 - AI-powered platform for generating full-stack web applications using NextJS
 - One-click deployment of generated applications
