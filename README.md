@@ -309,31 +309,17 @@ A curated list of powerful and innovative development tools, including code edit
     - Offers paid plans with additional features for professional and enterprise use
 
 - [Melty](https://www.melty.ai/): An innovative AI-powered code editor designed to enhance developer productivity and streamline the coding process. Key features include:
-  - AI Collaboration:
-    - Acts as an intelligent pair programmer, understanding your workflow from the terminal to GitHub
-    - Collaborates with developers to write production-ready code
-    - Adapts to your coding style and provides real-time suggestions and improvements
-  - Version Control Integration:
-    - Treats every chat message as a git commit
-    - Allows developers to revert, branch, reset, and squash their chats
-    - Seamlessly integrates with version control systems like GitHub
-    - Automatically generates commit messages and pull requests
-  - Productivity Boost:
-    - Claims to increase developer productivity by up to ten times
-    - Automates tedious tasks and refactors code
-    - Helps developers navigate large codebases efficiently
-  - Open Source:
-    - Allows developers to explore its source code and contribute to its development
-  - Key Capabilities:
-    - Refactoring code
-    - Creating web applications from scratch
-    - Browsing large codebases
-    - Writing commit messages
-    - Integrating with compilers, terminals, and debuggers
-  - Development Progress:
-    - After 28 days of development, capable of writing about half of its own code
-  - Availability:
-    - Currently in beta, with sign-up available for early access
+  - AI-powered pair programming with understanding of workflow from terminal to GitHub
+  - Collaboration for writing production-ready code
+  - Adaptation to individual coding styles with real-time suggestions
+  - Version control integration treating chat messages as git commits
+  - Seamless integration with GitHub and automatic generation of commit messages and pull requests
+  - Claimed productivity boost of up to ten times
+  - Automation of tedious tasks and code refactoring
+  - Efficient navigation of large codebases
+  - Open-source development allowing community contributions
+  - Capabilities include refactoring, web application creation, codebase browsing, and integration with development tools
+  - Beta version available for early access sign-up
 
 - [Codejet](https://www.codejet.ai/): An AI-powered platform designed to streamline the process of converting design to code, enhancing productivity in software development. Key features include:
   - Design to Code Automation: Jet UI Design System for consistency, AI Code Generator, Figma Plugin Assistant for seamless conversion, and Visual Editor for complex code structures
