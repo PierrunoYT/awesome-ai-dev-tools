@@ -322,25 +322,16 @@ A curated list of powerful and innovative development tools, including code edit
   - Beta version available for early access sign-up
 
 - [Void](https://voideditor.com/): An open-source AI-powered code editor built as a fork of Visual Studio Code. Key features include:
-  - Open Source: Void is fully open-source, allowing developers to retain control over their data and contribute to its development.
-  - AI-Powered Features:
-    - Tab Autocomplete: Press 'Tab' to apply AI-suggested autocomplete.
-    - Inline Editing: Use 'Ctrl + K' to edit code selection with AI assistance.
-    - Code Generation: The editor can generate code based on natural language prompts.
-    - Contextual Awareness: Void understands the context of the code for more accurate suggestions.
-  - VS Code Integration:
-    - Void is built as a fork of Visual Studio Code, providing a familiar interface for VS Code users.
-    - Easy migration of themes, keybinds, and settings from VS Code to Void.
-  - LLM Flexibility:
-    - Supports local hosting of language models (e.g., Ollama) for privacy and control.
-    - Allows direct API access to popular AI models like Claude, GPT, and Gemini.
-  - Community-Driven Development:
-    - Encourages community involvement in roadmap contributions and custom AI integrations.
-  - Experimental Features:
-    - Fast Apply for quick changes in large files.
-    - Third-party integrations (Greptile, Ollama, DocSearch).
-  - Privacy and Control:
-    - Allows using AI coding features without sending code to external APIs, providing greater privacy and control.
+  - AI-powered coding assistance with tab autocomplete, inline editing, and code generation
+  - Contextual awareness for more accurate code suggestions
+  - Built on Visual Studio Code, providing a familiar interface and easy migration of settings
+  - Supports local hosting of language models (e.g., Ollama) for privacy and control
+  - Direct API access to popular AI models like Claude, GPT, and Gemini
+  - Community-driven development with open-source contributions
+  - Experimental features like Fast Apply for quick changes in large files
+  - Third-party integrations (Greptile, Ollama, DocSearch)
+  - Enhanced privacy and control by allowing AI coding features without sending code to external APIs
+  - Easy migration of themes, keybinds, and settings from VS Code
 
 - [Codejet](https://www.codejet.ai/): An AI-powered platform designed to streamline the process of converting design to code, enhancing productivity in software development. Key features include:
   - Design to Code Automation: Converts Figma designs into production-ready code
