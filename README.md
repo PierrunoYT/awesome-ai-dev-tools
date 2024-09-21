@@ -51,6 +51,31 @@ A curated list of powerful and innovative development tools, including code edit
   - Available on desktop, mobile, and tablet devices
   - Free plan available, with paid plans for additional features and resources
 
+- [MarsCode](https://www.marscode.com/): An AI-powered Integrated Development Environment (IDE) designed to enhance coding efficiency and productivity. Key features include:
+  - AI-Powered Assistance:
+    - Code completion for single-line or entire function suggestions
+    - Code generation using natural language
+    - Code explanation for quick project onboarding
+    - AI Q&A for coding-related questions
+    - Bug fixing and smart optimizations
+  - Cloud-Based Development Environment:
+    - No download or configuration required
+    - One-click initialization of the development environment in the browser
+    - Support for creating projects from templates or importing from Git repositories
+    - Quick creation and multi-region, multi-cluster deployment
+  - AI Plugin Development & Deployment:
+    - Support for development, testing, deployment, and multi-platform distribution
+    - Simplified process for setting up AI-Agents
+    - Features like automatic API testing, storage management, and schema handling
+  - Wide Language and IDE Support:
+    - Supports over 100 programming languages
+    - Compatible with mainstream IDEs, including Visual Studio Code and JetBrains IDEs
+  - Collaboration and Sharing:
+    - Platform for developers to share and explore projects
+    - Community for discussion and sharing of tips
+  - Pricing:
+    - Free version available for individual developers
+
 ### AI Code Review and Analysis Tools
 
 - [Codium.ai](https://www.codium.ai/): An AI-powered tool for code testing, analysis, and improvement. It offers automatic test generation, code quality suggestions, and integrates with popular IDEs. Features include:
