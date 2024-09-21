@@ -11,6 +11,14 @@ A curated list of powerful and innovative development tools, including code edit
 
 ### AI Code Review and Analysis Tools
 
+- Codium.ai: An AI-powered tool for code testing, analysis, and improvement. It offers automatic test generation, code quality suggestions, and integrates with popular IDEs. Features include:
+  - Automated unit test generation
+  - Code analysis for bugs and performance issues
+  - AI-driven code assistance and documentation
+  - Pull request preparation help
+  - Support for multiple programming languages
+  - Codiumate Coding Agent for team and enterprise users
+
 ### Extensions
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
