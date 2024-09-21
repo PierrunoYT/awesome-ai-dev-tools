@@ -46,7 +46,7 @@ A curated list of powerful and innovative AI-powered development tools, includin
 ### General-purpose Assistants
 
 - [GitHub Copilot](https://github.com/features/copilot) - AI-powered code suggestions and completions with support for over 70 programming languages.
-- [Codeium](https://codeium.com/) - Fast, context-aware code autocomplete for over 70 programming languages with chat functionality.
+- [Codeium](https://codeium.com/) - Fast, context-aware code autocomplete for over 70 programming languages with chat functionality. Extensions for 21 editors including VS Code, JetBrains, Neovim, Vim, Emacs, Eclipse, PyCharm, and Xcode. Enterprise version includes codebase-specific fine-tuning.
 - [AskCodi](https://www.askcodi.com/) - AI-powered coding assistance with comprehensive development tools and IDE integration.
 - [aiXcoder](https://www.aixcoder.com/en/#/) - Intelligent Programming Assistant with predictive coding and automated code generation.
 - [Amazon Q Developer](https://aws.amazon.com/q/) - AI-powered coding assistant for AWS technologies with integration for popular IDEs.
@@ -56,7 +56,7 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [Bito AI](https://bito.ai/) - Advanced AI-powered tool for enhancing developer productivity and code quality.
 - [Kodezi](https://kodezi.com/) - Comprehensive AI-powered developer tool for enhancing programming productivity.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - AI system by OpenAI that translates natural language to code.
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - ML-powered coding companion for building applications faster.
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - ML-powered coding companion for building applications faster. AI coding assistant with extensions for IDEs such as VS Code, IntelliJ IDEA, AWS Cloud9 and CLIs such as MacOS Terminal, iTerm2, built-in VS Code Terminal. CodeWhisperer can also scan code to highlight and define security issues.
 
 ### Specialized Assistants
 
@@ -154,7 +154,7 @@ A curated list of powerful and innovative AI-powered development tools, includin
 ## Agents
 
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
-- [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
+- [Aider](https://github.com/paul-gauthier/aider) - Open-source AI pair programming tool and CLI assistant that generates changes and commits to repositories. Uses OpenAI.
 - [Blinky](https://github.com/seahyinghang8/blinky) - A debugging agent for VS Code that helps to identify and fix backend errors, inspired by SWE-agent.
 - [Mentat](https://www.mentat.codes/) — CLI assistant and agent that makes changes to repositories.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — CLI agent that generates a repository from a prompt, and asks clarifying questions.
