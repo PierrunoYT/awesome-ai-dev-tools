@@ -424,6 +424,21 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Created by Cyril and Ulric to simplify initial stages of web development
 - Accelerates development process, allowing focus on unique features
 
+### [AI2SQL](https://www.ai2sql.io/)
+- AI-powered SQL query builder for simplified query creation and optimization
+- SQL query generation from natural language input or keywords
+- Multi-database support for various database systems
+- Text-to-SQL conversion for natural language data queries
+- SQL Bot: AI-powered conversational interface for data interaction
+- ERD AI for Entity-Relationship Diagram assistance
+- Query fixing to identify and correct errors in existing SQL queries
+- SQL explanation feature for better query understanding
+- Query optimization tools for improved performance
+- Suitable for data analysis, report generation, and database optimization
+- Learning tool for SQL beginners and productivity enhancer for experienced users
+- Enterprise solutions for customized AI infrastructure and data management
+- Positive user feedback for learning, complex query generation, and error fixing
+
 ---
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
