@@ -157,6 +157,20 @@ A curated list of powerful and innovative development tools, including code edit
   - Target Audience: Suitable for individual developers, teams, and organizations seeking to accelerate their development processes
   - Plug-and-Play System: Offers easy setup and integration with the entire development stack
 
+- [Claude-dev](https://github.com/saoudrizwan/claude-dev): An open-source project that provides an autonomous coding agent designed to work directly within your Integrated Development Environment (IDE). Key features include:
+  - Autonomous Coding Assistant: AI-powered coding assistant that can create and edit files, execute commands, and perform various coding tasks
+  - IDE Integration: Designed to work within existing IDEs, providing seamless integration with development workflows
+  - Key Capabilities:
+    - File Creation/Editing: Can autonomously create new files or modify existing ones
+    - Command Execution: Able to run commands as needed for development tasks
+    - Error Monitoring: Monitors workspace problems to keep updated on linter, compiler, and build issues
+    - Proactive Error Fixing: Can proactively fix errors, such as adding missing imports
+  - AI Model Support: Likely supports various AI models, with discussions about Ollama model support
+  - Open Source and Community-Driven: MIT licensed with over 4,700 stars and 439 forks on GitHub
+  - Active Development and Support: Ongoing maintenance, discussions, issue tracking, and feature requests
+  - Customization and Flexibility: Users can likely customize the tool to fit specific development needs
+  - User Control: Operates with user permission at every step, ensuring control and transparency
+
 ### AI-enhanced IDEs and Plugins
 
 - [Replit](https://replit.com/): An AI-powered software development and deployment platform. Key features include:
