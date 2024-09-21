@@ -370,6 +370,18 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Aims for tenfold improvement in productivity and job satisfaction for software engineers
 - Specialized customizations available for team acceleration and cost savings
 
+### [Stenography.dev](https://stenography.dev/)
+- Innovative tool for simplifying and enhancing code documentation
+- AI-powered automatic documentation generation
+- Support for multiple programming languages
+- Seamless integration with GitHub
+- Automatic creation of pull requests with generated documentation
+- Time-saving automation of documentation process
+- Consistent style and format across projects
+- Keeps documentation up-to-date with code changes
+- Free tier available for open-source projects
+- Potential for significant time and effort savings in maintaining high-quality documentation
+
 ---
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
