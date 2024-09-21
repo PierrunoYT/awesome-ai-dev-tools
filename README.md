@@ -46,6 +46,19 @@ A curated list of powerful and innovative development tools, including code edit
 
 ### AI Development Assistants
 
+- [Plandex](https://plandex.ai/): An open-source, terminal-based AI coding engine designed to assist developers in building complex software using artificial intelligence. Key features include:
+  - AI-Powered Development: Uses generative AI to help developers with coding tasks for real-world, complex projects spanning multiple files
+  - Terminal-Based Interface: Operates directly in the terminal, providing a familiar environment for developers
+  - Robust LLM-Driven Development: Helps engineers use generative AI productively in serious projects
+  - Automatic Syntax Checking: Checks and auto-fixes syntax in over 30 programming languages
+  - Precise Context Management: Gives developers full control over what code is in context
+  - Versioned Sandbox: Provides a separate, version-controlled area for AI-generated changes
+  - Error Recovery: Offers tools to rewind, update context, and try different approaches if results are unsatisfactory
+  - Iterative Development: Enables a tight feedback loop between the developer and the AI model
+  - Integration and Workflow: Integrates into existing development workflows and supports a git-inspired workflow
+  - Open Source and Community: Proudly open source with over 10,000 GitHub stars and 700+ forks
+  - Use Cases: Building entire features and applications, assisting with complex coding tasks across multiple files, and streamlining development processes in large projects
+
 - [Codeium](https://codeium.com/): An AI-powered coding assistant that enhances developer productivity. Key features include:
   - Fast, context-aware code autocomplete for over 70 programming languages
   - Command feature for inline refactors and code generation
