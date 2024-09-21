@@ -2,19 +2,34 @@
 
 A curated list of powerful and innovative AI-powered development tools, including code editors, plugins, and productivity enhancers.
 
-## AI-powered Code Editors
+## IDEs
 
-### [Cursor](https://cursor.sh/)
-AI-powered code editor with intelligent chat, code generation, and error detection.
+### [Cursor](https://www.cursor.so/)
+An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 
 ### [PearAI](https://trypear.ai/)
-Open-source AI-powered code editor forked from Visual Studio Code with AI chat and debugging assistance.
+An open source fork of VS Code with chat and inline code generation.
+
+### [Melty](https://melty.sh/)
+An open source fork of VS Code with built in chat, change previews, and ability to write commits with AI. Currently only source code is available.
+
+### [Replit](https://replit.com/)
+Web-based IDE with cloud developer environments, code completion, chat, a software development agent and deployments.
+
+### [Mutable](https://mutable.ai/)
+Web-based IDE, integrated with a chatbot and GitHub.
+
+### [CodeStory](https://codestory.ai/)
+An IDE with chat, code explanations, auto-generated commits and PR summaries. Forked from VSCodium.
+
+### [UI Pilot](https://ui-pilot.com/)
+Chat-based AI code editor that creates forms using Material UI, using GPT-4.
+
+### [GitWit](https://gitwit.dev/)
+Web-based editor for building ReactJS applications with AI.
 
 ### [Zed](https://zed.dev/)
 Next-generation code editor designed for high-performance collaboration with AI integration.
-
-### [CodeStory](https://codestory.ai/)
-AI-native, privacy-first IDE that reimagines the editor as a collaborative space for humans and AI.
 
 ## AI Development Assistants
 
@@ -52,9 +67,6 @@ Open-source autonomous coding agent for IDEs with error monitoring and proactive
 AI-powered coding assistant by Sourcegraph used by over 2.5 million engineers.
 
 ## AI-enhanced IDEs and Plugins
-
-### [Replit](https://replit.com/)
-Browser-based IDE with AI-powered coding assistance and real-time collaboration.
 
 ### [MarsCode](https://www.marscode.com/)
 AI-powered IDE for enhanced coding efficiency with support for over 100 programming languages.
