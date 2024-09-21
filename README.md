@@ -260,6 +260,17 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Workflow automation and collaboration tools
 - Primary integration with Figma
 
+### [CodeRabbit](https://coderabbit.ai/)
+- AI-powered code review platform for streamlining software development
+- AI-driven code reviews with context-aware feedback on pull requests
+- Line-by-line analysis with actionable suggestions
+- Real-time chat functionality for asking questions and generating code
+- Customizable reviews with auto-learning from user feedback
+- Integration with GitHub and GitLab repositories
+- Comprehensive reporting with pull request summaries and sequence diagrams
+- Free plan for open-source projects, Pro plan starting at $12/month (billed annually)
+- Significantly reduces manual review time and improves code quality
+
 ### [GitLab Duo](https://about.gitlab.com/solutions/gitlab-duo/)
 - AI-powered suite for enhancing software development lifecycle
 - Two tiers: GitLab Duo Pro ($19) and GitLab Duo Workflow ($39)
