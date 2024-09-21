@@ -450,6 +450,17 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Created by Cyril and Ulric to simplify initial stages of web development
 - Accelerates development process, allowing focus on unique features
 
+### [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer)
+- Open-source tool for navigating and understanding Linux kernel source code using AI-generated summaries
+- Uses GPT-4o AI model to generate summaries of Linux kernel source code
+- Installation via pip or pipx: `pip install ai-kernel-explorer` or `pipx install ai-kernel-explorer`
+- Requires OpenAI API key (set in OPENAI_API_KEY environment variable or use --api-key option)
+- Default root directory for Linux kernel source code: /usr/src
+- AI responses cached in ~/.cache/ai-kernel-explorer
+- Command-line options for customization (--api-key, --cache, --model, --version)
+- Created by Jay Mathis to make Linux kernel exploration more accessible
+- Leverages AI technology for quick summaries and insights into complex kernel codebase
+
 ### [AI2SQL](https://www.ai2sql.io/)
 - AI-powered SQL query builder for simplified query creation and optimization
 - SQL query generation from natural language input or keywords
