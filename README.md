@@ -293,6 +293,21 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Potential red flags suggesting it may not be a legitimate or reliable coding resource
 - Users are advised to approach with caution and consider more established platforms
 
+### [Kodezi](https://kodezi.com/)
+- Comprehensive AI-powered developer tool for enhancing programming productivity
+- AI-powered debugging with instant bug detection and fixing
+- Code generation from user inputs or PDF instructions
+- Code optimization for performance and readability
+- Language and framework conversion capabilities
+- Automatic documentation generation (OpenAPI YAML and Swagger)
+- Code standardization and security enhancement features
+- AI-assisted problem solving for coding questions
+- Time-saving automation of routine tasks
+- Improved code quality maintenance
+- Valuable learning tool for students
+- Positive user feedback from diverse user base
+- B2B tool geared towards professional and enterprise use
+
 ### [GitLab Duo](https://about.gitlab.com/solutions/gitlab-duo/)
 - AI-powered suite for enhancing software development lifecycle
 - Two tiers: GitLab Duo Pro ($19) and GitLab Duo Workflow ($39)
