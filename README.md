@@ -282,4 +282,23 @@ A curated list of powerful and innovative development tools, including code edit
   - Free tier available to get started (no credit card required)
   - Suitable for individual developers and software engineering teams
 
+- [Codejet](https://www.codejet.ai/): An AI-powered platform designed to streamline the process of converting design to code, aiming to enhance productivity in software development. Key features include:
+  - Design to Code Automation:
+    - Jet UI Design System: A centralized design foundation within Figma to ensure consistency between design and development
+    - AI Code Generator: Uses advanced AI algorithms to automatically generate code from designs
+    - Figma Plugin Assistant: Seamlessly converts Figma designs into code
+    - Visual Editor: Allows for visual editing of complex code structures
+  - Key Benefits:
+    - Time-saving: Cuts workflow time by automating the design-to-code process
+    - Consistency: Ensures design consistency across projects through the centralized design system
+    - Faster Development: Reduces time spent on manual coding, leading to quicker development cycles
+    - Improved Collaboration: Eliminates barriers between designers and developers
+  - Integration:
+    - Primarily integrates with Figma
+    - Likely offers integration with common development environments
+  - Target Audience:
+    - Design teams using Figma for UI/UX design
+    - Development teams looking to streamline the process of implementing designs
+    - Organizations aiming to improve collaboration between design and development teams
+
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
