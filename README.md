@@ -310,16 +310,16 @@ A curated list of powerful and innovative AI-powered development tools, includin
 
 ### [GitLab Duo](https://about.gitlab.com/solutions/gitlab-duo/)
 - AI-powered suite for enhancing software development lifecycle
-- Two tiers: GitLab Duo Pro ($19) and GitLab Duo Workflow ($39)
-- Features include:
-  - Organizational user controls
-  - AI-powered code suggestions in 20+ languages
-  - Chat interface for text and code generation
-  - Summarization and templating tools
-  - Security and vulnerability assistance
-  - Advanced troubleshooting for CI/CD
-  - AI analytics for effectiveness tracking
+- AI-powered code suggestions in 20+ languages
+- Chat interface for text and code generation
+- Summarization and templating tools
+- Security and vulnerability assistance
+- Advanced troubleshooting for CI/CD
+- AI analytics for effectiveness tracking
+- Organizational user controls
+- Integration with GitLab's existing DevOps platform
 - Available for Premium and Ultimate customers
+- Two tiers: GitLab Duo Pro ($19/user/month) and GitLab Duo Workflow ($39/user/month)
 
 ### [Snyk](https://snyk.io/)
 - Developer-first security platform for building and maintaining secure applications
