@@ -345,4 +345,21 @@ A curated list of powerful and innovative development tools, including code edit
   - Customization: Allows for code customization to fit specific project needs
   - Target Audience: Design teams using Figma, development teams, and organizations looking to streamline design-to-development processes
 
+- [GitLab Duo](https://about.gitlab.com/solutions/gitlab-duo/): An AI-powered suite of tools designed to enhance the software development lifecycle. It offers two main tiers of service: GitLab Duo Pro and GitLab Duo Workflow. Key features include:
+  - GitLab Duo Pro ($19):
+    - Organizational User Controls: Control over which users, projects, and groups can use AI-powered capabilities
+    - Code Suggestions: AI-powered suggestions in over 20 programming languages, available in preferred IDEs
+    - Chat: Conversational interface for text and code generation, helping to quickly identify useful information
+  - GitLab Duo Workflow ($39, includes all Pro features):
+    - Summarization and Templating tools: Helps in understanding and explaining code in natural language
+    - Security and vulnerability tools: Assists in understanding and remediating vulnerabilities more efficiently
+    - Advanced Troubleshooting: AI-assisted root cause analysis for CI/CD job failures
+    - AI analytics: Tracks AI effectiveness in real-time, showing improvements in cycle times and deployment frequencies
+  - Key Benefits:
+    - Secure Code Development: Helps developers write secure code faster and more efficiently
+    - Automation: Automates routine tasks, accelerates development cycles, and helps catch bugs early
+    - Privacy: Proprietary code and data aren't used to train AI models
+    - Intelligent Assistance: Acts as an intelligent, always-on agent that autonomously monitors, optimizes, and secures projects
+  - Availability: For Premium and Ultimate customers, with Workflow exclusively for Ultimate customers
+
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
