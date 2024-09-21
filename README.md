@@ -27,6 +27,23 @@ A curated list of powerful and innovative development tools, including code edit
   - Community-driven development
   - Suitable for rapid feature development, code refactoring, and documentation
 
+- [Zed](https://zed.dev/): A next-generation code editor designed for high-performance collaboration with humans and AI. Key features include:
+  - Written from scratch in Rust for multi-core CPU and GPU efficiency
+  - Extremely fast startup and operation ("blazingly fast")
+  - AI integration for code generation, transformation, and analysis
+  - Built-in real-time collaboration tools for remote pair programming
+  - Minimalist design focused on maximizing signal and minimizing noise
+  - Multi-language support via Tree-sitter, WebAssembly, and Language Server Protocol
+  - Multibuffer editing for composing excerpts from across the codebase
+  - Interactive programming with Jupyter runtimes
+  - Built-in terminal and task runner
+  - Vim-friendly with first-class modal editing support
+  - Growing ecosystem of extensions
+  - Available for macOS and Linux (Windows support coming soon)
+  - Open-source project
+  - Developed by the team behind Atom, Electron, and Tree-sitter
+  - Used by world-class developers and industry-leading teams
+
 ### AI Development Assistants
 
 - [Codeium](https://codeium.com/): An AI-powered coding assistant that enhances developer productivity. Key features include:
