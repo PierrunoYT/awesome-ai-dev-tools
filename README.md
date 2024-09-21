@@ -52,29 +52,13 @@ A curated list of powerful and innovative development tools, including code edit
   - Free plan available, with paid plans for additional features and resources
 
 - [MarsCode](https://www.marscode.com/): An AI-powered Integrated Development Environment (IDE) designed to enhance coding efficiency and productivity. Key features include:
-  - AI-Powered Assistance:
-    - Code completion for single-line or entire function suggestions
-    - Code generation using natural language
-    - Code explanation for quick project onboarding
-    - AI Q&A for coding-related questions
-    - Bug fixing and smart optimizations
-  - Cloud-Based Development Environment:
-    - No download or configuration required
-    - One-click initialization of the development environment in the browser
-    - Support for creating projects from templates or importing from Git repositories
-    - Quick creation and multi-region, multi-cluster deployment
-  - AI Plugin Development & Deployment:
-    - Support for development, testing, deployment, and multi-platform distribution
-    - Simplified process for setting up AI-Agents
-    - Features like automatic API testing, storage management, and schema handling
-  - Wide Language and IDE Support:
-    - Supports over 100 programming languages
-    - Compatible with mainstream IDEs, including Visual Studio Code and JetBrains IDEs
-  - Collaboration and Sharing:
-    - Platform for developers to share and explore projects
-    - Community for discussion and sharing of tips
-  - Pricing:
-    - Free version available for individual developers
+  - AI-powered assistance for code completion, generation, explanation, Q&A, and bug fixing
+  - Cloud-based development environment with one-click initialization and browser-based access
+  - Support for creating projects from templates or importing from Git repositories
+  - AI plugin development and deployment tools with features like automatic API testing
+  - Support for over 100 programming languages and compatibility with mainstream IDEs
+  - Collaboration platform for sharing projects and community discussions
+  - Free version available for individual developers
 
 ### AI Code Review and Analysis Tools
 
