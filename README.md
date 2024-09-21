@@ -267,4 +267,19 @@ A curated list of powerful and innovative development tools, including code edit
   - Used by over 2.5 million engineers
   - Customizable features and support for various LLMs
 
+- [CodeGPT](https://codegpt.co/): An AI-powered coding assistant platform designed to enhance developer productivity. Key features include:
+  - Platform for creating and using AI coding assistants (AI agents or copilots)
+  - IDE integration with VS Code, Cursor, and JetBrains IDEs
+  - Flexibility in choosing AI models to power coding assistants
+  - Customizable prompts for code suggestions
+  - AI Assistant Creator for building custom assistants or selecting from a marketplace
+  - Team sharing of AI assistants within organizations
+  - Workflow integration with tools like Discord, Slack, and MS Teams
+  - API access for integrating AI assistants into existing workflows
+  - Emphasis on secure AI copilots ensuring data security and privacy
+  - Support for writing, editing, and maintaining code
+  - Assistance in generating unit tests and code review processes
+  - Free tier available to get started (no credit card required)
+  - Suitable for individual developers and software engineering teams
+
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
