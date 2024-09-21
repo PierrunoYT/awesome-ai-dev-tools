@@ -17,16 +17,13 @@ An open source fork of VS Code with built in chat, change previews, and ability 
 Web-based IDE with cloud developer environments, code completion, chat, a software development agent and deployments.
 
 ### [Mutable](https://mutable.ai/)
-Web-based IDE, integrated with a chatbot and GitHub.
+AI-powered platform for enhancing software engineer productivity and efficiency.
 
 ### [CodeStory](https://codestory.ai/)
 An IDE with chat, code explanations, auto-generated commits and PR summaries. Forked from VSCodium.
 
 ### [UI Pilot](https://ui-pilot.com/)
 Chat-based AI code editor that creates forms using Material UI, using GPT-4.
-
-### [GitWit](https://gitwit.dev/)
-Web-based editor for building ReactJS applications with AI.
 
 ### [Zed](https://zed.dev/)
 Next-generation code editor designed for high-performance collaboration with AI integration.
@@ -93,9 +90,6 @@ Platform for creating and using AI coding assistants with IDE integration.
 ### [Tabnine](https://www.tabnine.com/)
 AI-powered code assistant with privacy focus and wide language support.
 
-### [Melty](https://www.melty.ai/)
-AI-powered pair programming tool with GitHub integration and automatic commit message generation.
-
 ### [Void](https://voideditor.com/)
 Open-source AI-powered code editor built on Visual Studio Code with local model hosting support.
 
@@ -123,9 +117,6 @@ AI-powered suite for enhancing software development lifecycle within GitLab's ec
 ### [Snyk](https://snyk.io/)
 Developer-first security platform for building and maintaining secure applications.
 
-### [Mutable.ai](https://mutable.ai/)
-AI-powered platform for enhancing software engineer productivity and efficiency.
-
 ### [Stenography.dev](https://stenography.dev/)
 Innovative tool for simplifying and enhancing code documentation using AI.
 
@@ -134,12 +125,6 @@ Modern documentation platform for creating beautiful, user-friendly documentatio
 
 ### [MetaGPT](https://www.deepwisdom.ai/)
 Open-source multi-agent framework for complex task collaboration using GPT models.
-
-### [Gitwit.dev](https://gitwit.dev/)
-AI-powered online tool for accelerating web application development.
-
-### [Marblism](https://www.marblism.com/)
-AI-powered platform for generating full-stack web applications using NextJS.
 
 ### [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer)
 Open-source tool for navigating and understanding Linux kernel source code using AI-generated summaries.
@@ -191,7 +176,6 @@ This list is just the beginning. Feel free to contribute by adding more AI-power
 - [API Copilot](https://apicopilot.dev/) — Assistant for backend API development.
 - [Onboard](https://www.getonboardai.com) — Chat with an AI about public and private codebases.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
-- [Pieces](https://pieces.app/) — An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.
 - [CodeWP](https://codewp.ai/) — AI chat and coding tools specifically trained for WordPress developers. AI code generation for code snippets and plugins in WordPress.
