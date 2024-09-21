@@ -172,6 +172,11 @@ SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat and other useful
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
 
+## Git Clients
+
+- [GitBrain](https://gitbrain.dev/) — Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI.
+- [GitButler](https://gitbutler.com/) — Git client for simultaneous branches on top of your existing workflow. Defaults to OpenAI, can be changed to Perplexity for generating conventional commit messages.
+
 ## Assistants
 
 **Web-based:**
@@ -191,8 +196,3 @@ This list is just the beginning. Feel free to contribute by adding more AI-power
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.
 - [CodeWP](https://codewp.ai/) — AI chat and coding tools specifically trained for WordPress developers. AI code generation for code snippets and plugins in WordPress.
 - [Gur.ai](https://www.gru.ai/) - An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
-
-## Git Clients
-
-- [GitBrain](https://gitbrain.dev/) — Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI.
-- [GitButler](https://gitbutler.com/) — Git client for simultaneous branches on top of your existing workflow. Defaults to OpenAI, can be changed to Perplexity for generating conventional commit messages.
