@@ -18,6 +18,7 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [Web-based Assistants](#web-based-assistants)
 - [Command-line Tools](#command-line-tools)
 - [Desktop Applications](#desktop-applications)
+- [Shell assistants](#shell-assistants)
 - [Specialized Tools](#specialized-tools)
 
 ## IDEs and Code Editors
@@ -141,6 +142,13 @@ A curated list of powerful and innovative AI-powered development tools, includin
 ## Desktop Applications
 
 - [Pieces](https://pieces.app/) - AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
+
+## Shell assistants
+
+- [AskCommand](https://www.askcommand.cppexpert.online/) — Web based tool to generate Unix commands from text automatically using AI.
+- [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
+- [Shell Whiz](https://github.com/beimzhan/shell-whiz) — highly configurable CLI assistant to generate shell commands and get explanations for them.
+- [GitFluence](https://www.gitfluence.com/) — Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands.
 
 ## Specialized Tools
 
