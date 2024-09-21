@@ -271,6 +271,18 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Free plan for open-source projects, Pro plan starting at $12/month (billed annually)
 - Significantly reduces manual review time and improves code quality
 
+### [Warp](https://www.warp.dev/)
+- Modern, reimagined terminal application built with Rust for exceptional speed and performance
+- AI-powered assistance for command recall, error debugging, and complex setup guidance
+- Efficient workflow management with organized terminal workspaces
+- Customizable themes for personalized terminal experience
+- Enterprise-ready design with user-friendly interface
+- Improved command history navigation using arrow keys
+- Block-based command execution for easy scrolling, error highlighting, and copy-pasting
+- Intelligent autocomplete with intellisense for popular tools like npm and git
+- Overwhelmingly positive user feedback, praised for speed, modern feel, and improved navigation
+- Free for individual use, with paid plans for teams and enterprises
+
 ### [GitLab Duo](https://about.gitlab.com/solutions/gitlab-duo/)
 - AI-powered suite for enhancing software development lifecycle
 - Two tiers: GitLab Duo Pro ($19) and GitLab Duo Workflow ($39)
