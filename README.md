@@ -227,4 +227,26 @@ A curated list of powerful and innovative development tools, including code edit
 
 ### Extensions
 
+- [Pieces](https://pieces.app/): An AI-powered coding assistant and productivity tool designed to enhance developers' workflows. Key features include:
+  - AI-Powered Assistance:
+    - Code Completion: Provides context-aware code suggestions and completions
+    - Natural Language Interaction: Allows developers to ask questions, generate code, and explain concepts using natural language
+    - Contextual Understanding: Leverages real-time context from various tools to provide relevant assistance
+  - Workflow Integration: Seamlessly integrates with popular IDEs, browsers, and productivity tools
+  - Code Management:
+    - Intelligent Snippet Storage: Automatically adds titles, descriptions, and metadata to saved code snippets
+    - Smart Search: Enables quick retrieval of saved materials using natural language queries or code
+    - Code Extraction: Features advanced OCR to extract code from screenshots
+  - Security and Privacy:
+    - On-Device Processing: Stores and processes data locally on the user's device
+    - Air-Gapped Security: Ensures code remains private and secure
+    - Optional Cloud Features: Offers opt-in cloud capabilities for additional functionality
+  - Collaboration Features: Facilitates code sharing and collaboration among team members
+  - Additional Tools:
+    - Big-O Analyzer: Evaluates time complexity of algorithms
+    - Unit-Test Writer: Automates the creation of unit tests
+    - Documentation Generator: Assists in creating comprehensive code documentation
+    - Error Explainer: Helps decode and fix error messages
+  - User Experience: Designed to minimize context switching and streamline development processes
+
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
