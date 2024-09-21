@@ -19,6 +19,7 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [Command-line Tools](#command-line-tools)
 - [Desktop Applications](#desktop-applications)
 - [Shell assistants](#shell-assistants)
+- [Agents](#agents)
 - [Specialized Tools](#specialized-tools)
 
 ## IDEs and Code Editors
@@ -149,6 +150,24 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
 - [Shell Whiz](https://github.com/beimzhan/shell-whiz) — highly configurable CLI assistant to generate shell commands and get explanations for them.
 - [GitFluence](https://www.gitfluence.com/) — Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands.
+
+## Agents
+
+- [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
+- [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
+- [Blinky](https://github.com/seahyinghang8/blinky) - A debugging agent for VS Code that helps to identify and fix backend errors, inspired by SWE-agent.
+- [Mentat](https://www.mentat.codes/) — CLI assistant and agent that makes changes to repositories.
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — CLI agent that generates a repository from a prompt, and asks clarifying questions.
+- [GPT Migrate](https://github.com/0xpayne/gpt-migrate) — CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.
+- [Grit](https://app.grit.io) — GitHub-integrated agent for automating maintenance tasks and other development work.
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Auto Gen-AI App Generator with the Power of Llama 2
+- [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — DevOpsGPT: AI-Driven Software Development Automation Solution
+- [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
+- [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
+- [sudocode](https://sudocode.ai/) — A web based chat assistant for generating projects, similar to Code Interpreter.
+- [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
+- [Micro Agent](https://github.com/micro-ai/micro-agent) — Open-source tool that generates and iterates on code using AI-created unit tests as guardrails.
+- [Fine](https://fine.dev/?ref=awesome) - AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 
 ## Specialized Tools
 
