@@ -51,6 +51,17 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Open-source project
 - Developed by the team behind Atom, Electron, and Tree-sitter
 
+### [CodeStory](https://codestory.ai/)
+- AI-native, privacy-first Integrated Development Environment (IDE)
+- Deep integration of AI assistants within the development environment
+- AI tooling designed to help developers stay in flow while coding
+- Assists in writing code better and faster
+- Emphasizes privacy in its AI-powered features
+- Reimagines the editor as a collaborative space for humans and AI
+- Developed by a team with experience from Meta, ACM ICPC, and open-source projects
+- Y Combinator-backed company
+- Aims to bridge current developer workflows with future AI-human collaborative programming
+
 ## AI Development Assistants
 
 ### [Plandex](https://plandex.ai/)
