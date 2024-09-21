@@ -5,6 +5,17 @@ A curated list of powerful and innovative development tools, including code edit
 
 ### AI-powered Code Editors
 
+- [Cursor](https://cursor.sh/): An innovative AI-powered code editor built on Visual Studio Code. Key features include:
+  - AI code completion and natural language editing using GPT-4 and Claude
+  - Intelligent chat with codebase awareness and web search integration
+  - Code generation and editing using natural language commands
+  - Error detection and correction
+  - Multi-line editing and predictive navigation
+  - Visual Studio Code extension support
+  - Available for Windows, Mac, and Linux
+  - Privacy mode and SOC 2 certification for data security
+  - Free version available, with a Pro version for $20 USD per month
+
 ### AI Development Assistants
 
 - [Codeium](https://codeium.com/): An AI-powered coding assistant that enhances developer productivity. Key features include:
