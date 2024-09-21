@@ -308,6 +308,33 @@ A curated list of powerful and innovative development tools, including code edit
     - Provides a free plan for individual developers
     - Offers paid plans with additional features for professional and enterprise use
 
+- [Melty](https://www.melty.ai/): An innovative AI-powered code editor designed to enhance developer productivity and streamline the coding process. Key features include:
+  - AI Collaboration:
+    - Acts as an intelligent pair programmer, understanding your workflow from the terminal to GitHub
+    - Collaborates with developers to write production-ready code
+    - Adapts to your coding style and provides real-time suggestions and improvements
+  - Version Control Integration:
+    - Treats every chat message as a git commit
+    - Allows developers to revert, branch, reset, and squash their chats
+    - Seamlessly integrates with version control systems like GitHub
+    - Automatically generates commit messages and pull requests
+  - Productivity Boost:
+    - Claims to increase developer productivity by up to ten times
+    - Automates tedious tasks and refactors code
+    - Helps developers navigate large codebases efficiently
+  - Open Source:
+    - Allows developers to explore its source code and contribute to its development
+  - Key Capabilities:
+    - Refactoring code
+    - Creating web applications from scratch
+    - Browsing large codebases
+    - Writing commit messages
+    - Integrating with compilers, terminals, and debuggers
+  - Development Progress:
+    - After 28 days of development, capable of writing about half of its own code
+  - Availability:
+    - Currently in beta, with sign-up available for early access
+
 - [Codejet](https://www.codejet.ai/): An AI-powered platform designed to streamline the process of converting design to code, enhancing productivity in software development. Key features include:
   - Design to Code Automation: Jet UI Design System for consistency, AI Code Generator, Figma Plugin Assistant for seamless conversion, and Visual Editor for complex code structures
   - Time-saving workflow automation
