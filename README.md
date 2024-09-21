@@ -382,6 +382,21 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Free tier available for open-source projects
 - Potential for significant time and effort savings in maintaining high-quality documentation
 
+### [Mintlify](https://mintlify.com/)
+- Modern documentation platform for creating beautiful, user-friendly documentation
+- AI-powered documentation assistance using GPT-4
+- Beautiful design with optimized templates for user engagement and conversions
+- GitHub integration for easy maintenance and updates
+- Interactive API playground for testing and exploring API documentation
+- Documentation analytics and powerful search function
+- Time-saving automation for documentation creation and maintenance
+- Improves user experience and increases engagement
+- Flexible customization options
+- AI-assisted updates to detect outdated documentation
+- Free tier for open-source projects
+- Used by notable companies like Anthropic, Cursor, Perplexity, Zapier, and Fidelity
+- Serves approximately 3,000 brands and reaches over 1.5 million developers monthly
+
 ---
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
