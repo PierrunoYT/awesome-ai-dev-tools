@@ -321,6 +321,29 @@ A curated list of powerful and innovative development tools, including code edit
   - Capabilities include refactoring, web application creation, codebase browsing, and integration with development tools
   - Beta version available for early access sign-up
 
+- [Void](https://voideditor.com/): An open-source AI-powered code editor that serves as an alternative to Cursor. Key features include:
+  - Open-source development allowing full control over data and community contributions
+  - AI-powered features:
+    - Tab Autocomplete: Press 'Tab' to apply AI-suggested autocomplete
+    - Inline Editing: Use 'Ctrl + K' to edit code selection with AI assistance
+    - Code Generation: Generate code based on natural language prompts
+    - Contextual Awareness: Understands code context for accurate suggestions
+  - VS Code Integration:
+    - Familiar interface for VS Code users
+    - Easy migration of themes, keybinds, and settings from VS Code
+  - LLM Flexibility:
+    - Local hosting support (e.g., Ollama for hosting quality models locally)
+    - Direct API access to popular AI models (Claude, GPT, Gemini)
+  - Community-Driven Development:
+    - Open roadmap contributions
+    - Custom AI integrations development
+  - Experimental Features:
+    - Fast Apply for quick changes in large files
+    - Third-party integrations (Greptile, Ollama, DocSearch)
+  - Privacy and Control:
+    - Use AI coding features without sending code to external APIs
+  - Backed by Y Combinator
+
 - [Codejet](https://www.codejet.ai/): An AI-powered platform designed to streamline the process of converting design to code, enhancing productivity in software development. Key features include:
   - Design to Code Automation: Jet UI Design System for consistency, AI Code Generator, Figma Plugin Assistant for seamless conversion, and Visual Editor for complex code structures
   - Time-saving workflow automation
