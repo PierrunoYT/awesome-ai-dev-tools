@@ -134,6 +134,17 @@ A curated list of powerful and innovative development tools, including code edit
   - Open Source: Encourages community involvement and contributions
   - Aims to revolutionize the coding process by providing an AI assistant that understands context, makes complex code changes, and integrates seamlessly into existing development workflows
 
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands): An open-source project that aims to provide an AI-powered software development assistant. Key features include:
+  - AI-Powered Development Assistance: Integrates AI to assist with tasks like code generation, bug fixing, refactoring, and answering coding-related questions
+  - Runtime Environment: Includes a runtime environment (likely containerized using Docker) supporting multiple programming languages and frameworks
+  - Testing and Integration: Robust testing framework with unit and integration tests, using GitHub Actions for CI/CD
+  - Collaboration Features: Supports collaborative development for multiple developers working together on projects
+  - Open Source and Community-Driven: Encourages community contributions and improvements, with over 3,600 forks on GitHub
+  - Active Development: Regularly maintained with ongoing updates and new feature implementations
+  - Extensibility: Designed to potentially integrate various AI models and development tools
+  - Documentation and Support: Provides documentation for setup and usage, with an active discussions forum for user support
+  - Aims to enhance developer productivity by leveraging AI throughout the software development process
+
 ### AI-enhanced IDEs and Plugins
 
 - [Replit](https://replit.com/): An AI-powered software development and deployment platform. Key features include:
