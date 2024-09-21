@@ -16,7 +16,7 @@ A curated list of powerful and innovative development tools, including code edit
   - Privacy mode and SOC 2 certification for data security
   - Free version available, with a Pro version for $20 USD per month
 
-- [PearAI](https://pearai.com/): An open-source, AI-powered code editor forked from Visual Studio Code. Key features include:
+- [PearAI](https://trypear.ai/): An open-source, AI-powered code editor forked from Visual Studio Code. Key features include:
   - AI chat for natural language code queries and generation
   - Inline code editing with CMD+I (or CTRL+I on Windows)
   - Contextual understanding of folders, documentation, and files
