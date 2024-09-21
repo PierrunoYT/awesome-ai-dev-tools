@@ -321,28 +321,26 @@ A curated list of powerful and innovative development tools, including code edit
   - Capabilities include refactoring, web application creation, codebase browsing, and integration with development tools
   - Beta version available for early access sign-up
 
-- [Void](https://voideditor.com/): An open-source AI-powered code editor that serves as an alternative to Cursor. Key features include:
-  - Open-source development allowing full control over data and community contributions
-  - AI-powered features:
-    - Tab Autocomplete: Press 'Tab' to apply AI-suggested autocomplete
-    - Inline Editing: Use 'Ctrl + K' to edit code selection with AI assistance
-    - Code Generation: Generate code based on natural language prompts
-    - Contextual Awareness: Understands code context for accurate suggestions
+- [Void](https://voideditor.com/): An open-source AI-powered code editor built as a fork of Visual Studio Code. Key features include:
+  - Open Source: Void is fully open-source, allowing developers to retain control over their data and contribute to its development.
+  - AI-Powered Features:
+    - Tab Autocomplete: Press 'Tab' to apply AI-suggested autocomplete.
+    - Inline Editing: Use 'Ctrl + K' to edit code selection with AI assistance.
+    - Code Generation: The editor can generate code based on natural language prompts.
+    - Contextual Awareness: Void understands the context of the code for more accurate suggestions.
   - VS Code Integration:
-    - Familiar interface for VS Code users
-    - Easy migration of themes, keybinds, and settings from VS Code
+    - Void is built as a fork of Visual Studio Code, providing a familiar interface for VS Code users.
+    - Easy migration of themes, keybinds, and settings from VS Code to Void.
   - LLM Flexibility:
-    - Local hosting support (e.g., Ollama for hosting quality models locally)
-    - Direct API access to popular AI models (Claude, GPT, Gemini)
+    - Supports local hosting of language models (e.g., Ollama) for privacy and control.
+    - Allows direct API access to popular AI models like Claude, GPT, and Gemini.
   - Community-Driven Development:
-    - Open roadmap contributions
-    - Custom AI integrations development
+    - Encourages community involvement in roadmap contributions and custom AI integrations.
   - Experimental Features:
-    - Fast Apply for quick changes in large files
-    - Third-party integrations (Greptile, Ollama, DocSearch)
+    - Fast Apply for quick changes in large files.
+    - Third-party integrations (Greptile, Ollama, DocSearch).
   - Privacy and Control:
-    - Use AI coding features without sending code to external APIs
-  - Backed by Y Combinator
+    - Allows using AI coding features without sending code to external APIs, providing greater privacy and control.
 
 - [Codejet](https://www.codejet.ai/): An AI-powered platform designed to streamline the process of converting design to code, enhancing productivity in software development. Key features include:
   - Design to Code Automation: Jet UI Design System for consistency, AI Code Generator, Figma Plugin Assistant for seamless conversion, and Visual Editor for complex code structures
