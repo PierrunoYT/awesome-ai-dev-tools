@@ -11,6 +11,7 @@ A curated list of powerful and innovative AI-powered development tools, includin
   - [Specialized Assistants](#specialized-assistants)
 - [Code Review and Analysis Tools](#code-review-and-analysis-tools)
 - [Extensions and Plugins](#extensions-and-plugins)
+  - [IDE Extensions](#ide-extensions)
 - [Documentation and Code Understanding](#documentation-and-code-understanding)
 - [Database and SQL Tools](#database-and-sql-tools)
 - [Git Clients](#git-clients)
@@ -77,6 +78,30 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [CodeGPT](https://codegpt.co/) - Platform for creating and using AI coding assistants with IDE integration.
 - [GitLab Duo](https://about.gitlab.com/solutions/gitlab-duo/) - AI-powered suite for enhancing software development lifecycle within GitLab's ecosystem.
 - [CodeSquire](https://codesquire.ai/) - Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
+
+### IDE Extensions
+
+- [GitHub Copilot X](https://github.com/features/preview/copilot-x) - A VS Code extension with chat, pull request text generation, and unit test generation.
+- [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) - Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
+- [Codeium](https://codeium.com/) - Assistant with autocomplete, natural language search and chat. Extensions for 21 editors including VS Code, JetBrains, Neovim, Vim, Emacs, Eclipse, PyCharm, and Xcode. Enterprise version includes codebase-specific fine-tuning.
+- [Continue](https://continue.dev/) - VS Code extension with chat, refactor, and code generation. Edits multiple files and runs commands on your behalf.
+- [Blackbox AI](https://www.useblackbox.io/) - VS Code extension with autocomplete and chat including links to online coding references.
+- [CodeGeeX](https://codegeex.cn/) - Open source assistant based on the CodeGeeX LLM with chat, completion, and refactoring. Extensions for 9 editors including VS Code, and PyCharm.
+- [Quack AI](https://www.quack-ai.com/) - VS Code extension for adhering to project coding guidelines.
+- [Tabby](https://tabbyml.github.io/tabby/) - Open source, self-hosted code completion assistant. Extensions for VS Code and Vim.
+- [Tabnine](https://www.tabnine.com/) [(Source)](https://github.com/codota/TabNine) - Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
+- [CodeMate](https://www.codemate.ai/) - VS Code extension for debugging and optimizing code.
+- [AskCodi](https://www.askcodi.com/) - AI coding assistant with extensions for VS Code, JetBrains and Sublime Text.
+- [Rubberduck](https://github.com/rubberduck-ai/rubberduck-vscode) - Open source, chat assistant for the Visual Studio Code side bar.
+- [CodeComplete](https://codecomplete.ai/) - Self hosted, enterprise completion assistant.
+- [JetBrains AI](https://www.jetbrains.com/ai/) - AI assistant available in all JetBrains IDEs.
+- [aiXcoder](https://www.aixcoder.com/en/) - Local or cloud-based assistant with extensions for IntelliJ IDEA, CLion, GoLand, PyCharm, WebStorm, Visual Studio Code, and Eclipse.
+- [Sourcery](https://sourcery.ai/) - AI assistant and linter with a reference of 160 Python best practices and 40+ JS/TS best practices. Extensions for VS Code, PyCharm, vim and Sublime.
+- [Swimm](https://swimm.io) - Assistant for contextual code understanding using static analysis and AI generated documentation. VSCode, Jetbrains, IntelliJ, WebStorm, Rider, PhpStorm, Android Studio, PyCharm, PhPStorm
+- [Supermaven](https://supermaven.com/) - VS Code extension for autocomplete with 300,000-token context window.
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI coding assistant with extensions for IDEs such as VS Code, IntelliJ IDEA, AWS Cloud9 and CLIs such as MacOS Terminal, iTerm2, built-in VS Code Terminal. CodeWhisperer can also scan code to highlight and define security issues.
+- [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot) - Studio Bot is an AI powered coding assistant that is tightly integrated in Android Studio. Studio Bot can help Android developers generate code, find relevant resources, learn best practices, and save time.
+- [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) - watsonx Code Assistant for Z is an AI-powered mainframe application modernization product with code generation. Features include application discovery and analysis, automated code refactoring and COBOL to Java conversion.
 
 ## Documentation and Code Understanding
 
