@@ -359,6 +359,17 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Scalable security solution for businesses of all sizes
 - Free tier available, with paid plans for advanced features and team collaboration
 
+### [Mutable.ai](https://mutable.ai/)
+- AI-powered platform for enhancing software engineer productivity and efficiency
+- Automatic generation and updating of documentation from codebase
+- AI chat feature for quick answers, including non-technical mode
+- AI-assisted revisions for documentation sections or entire articles
+- Team of highly skilled professionals, including competition champions and former tech company employees
+- Participated in W22 Y Combinator batch and backed by AIX Ventures
+- Pricing tiers starting at $2, with $15 option and custom solutions available
+- Aims for tenfold improvement in productivity and job satisfaction for software engineers
+- Specialized customizations available for team acceleration and cost savings
+
 ---
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
