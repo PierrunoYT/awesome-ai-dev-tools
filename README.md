@@ -397,6 +397,17 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Used by notable companies like Anthropic, Cursor, Perplexity, Zapier, and Fidelity
 - Serves approximately 3,000 brands and reaches over 1.5 million developers monthly
 
+### [Stenography.dev](https://stenography.dev/)
+- AI-powered code documentation tool using OpenAI Codex
+- Combines AI capabilities with code parsing for comprehensive documentation
+- Seamless integration into development workflows
+- Improves code understanding and codebase navigation
+- Time-saving automation of documentation process
+- Particularly useful for understanding complicated code, creating PR descriptions, and onboarding new engineers
+- Aids in code organization and bridging technical gaps for non-technical team members
+- Positive user feedback, with reported accuracy over 90%
+- Enhances developer productivity and code quality
+
 ### [MetaGPT](https://www.deepwisdom.ai/)
 - Open-source multi-agent framework for complex task collaboration using GPT models
 - Simulates a software company's workflow with AI agents playing various roles
