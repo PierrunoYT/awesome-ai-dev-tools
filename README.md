@@ -145,6 +145,18 @@ A curated list of powerful and innovative development tools, including code edit
   - Documentation and Support: Provides documentation for setup and usage, with an active discussions forum for user support
   - Aims to enhance developer productivity by leveraging AI throughout the software development process
 
+- [Continue](https://www.continue.dev/): An AI-powered code assistant designed to enhance developer productivity and streamline the software development process. Key features include:
+  - AI-Powered Coding Assistance:
+    - Code Autocomplete: Provides suggestions for single lines or entire sections of code across various programming languages as you type
+    - Context-Aware Chat: Allows developers to ask questions about specific functions, files, or the entire codebase by referencing code snippets
+    - Code Rewriting: Enables developers to highlight code sections and use natural language instructions to rewrite or modify code
+  - Seamless Integration: Designed to integrate with existing development workflows and tools
+  - Customization and Optimization: Offers the ability to tailor the tool to specific team needs and preferences
+  - Evolving Capabilities: Adapts and evolves as new AI capabilities emerge in the field of software development
+  - User Experience: Focuses on maintaining developer flow by minimizing interruptions
+  - Target Audience: Suitable for individual developers, teams, and organizations seeking to accelerate their development processes
+  - Plug-and-Play System: Offers easy setup and integration with the entire development stack
+
 ### AI-enhanced IDEs and Plugins
 
 - [Replit](https://replit.com/): An AI-powered software development and deployment platform. Key features include:
