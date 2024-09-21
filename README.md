@@ -47,6 +47,22 @@ A curated list of powerful and innovative development tools, including code edit
   - Additional tools for language translation, query writing, and Makefile generation
   - Various subscription plans, including a free option with limited features
 
+- [GitHub Copilot](https://github.com/features/copilot): An AI-powered code completion and assistance tool developed by GitHub in collaboration with OpenAI. Key features include:
+  - AI-powered code suggestions and completions as developers type
+  - Natural language to code conversion
+  - Context-aware coding support and explanations
+  - Debugging and security remediation assistance
+  - Integration with popular IDEs (VS Code, Visual Studio, JetBrains IDEs, Neovim)
+  - Direct integration into GitHub.com for Enterprise users
+  - Support for over 70 programming languages
+  - Reported to make coding up to 55% faster
+  - Conversation feature for discussing codebases
+  - Assistance with pull requests, code reviews, and documentation
+  - Enterprise plan offers customization to organization's codebase
+  - Options for fine-tuned private models (coming soon)
+  - Pricing plans: Individual ($10 USD/month), Business ($19 USD/user/month), Enterprise ($39 USD/user/month)
+  - Widely adopted by businesses, including Fortune 500 companies
+
 ### AI-enhanced IDEs and Plugins
 
 - [Replit](https://replit.com/): An AI-powered software development and deployment platform. Key features include:
