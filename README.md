@@ -439,6 +439,19 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Enterprise solutions for customized AI infrastructure and data management
 - Positive user feedback for learning, complex query generation, and error fixing
 
+### [Mutahunter](https://mutahunter.ai)
+- Open-source, AI-driven software testing tool leveraging Large Language Models (LLMs)
+- Mutation Testing: Injects context-aware faults into codebases, creating mutations that closely resemble real vulnerabilities
+- Unit Test Generation: Automatically generates unit tests for software projects
+- Language Agnostic: Works with multiple programming languages
+- Comprehensive Testing: Creates mutations mimicking real-world vulnerabilities for thorough software testing
+- Enhanced Code Quality: Helps identify potential weaknesses in code
+- Time and Resource Efficiency: Automates test generation and mutation testing
+- LLM Integration: Utilizes Large Language Models for code context understanding and mutation generation
+- Open-Source: Freely available and open for community contributions
+- Suitable for software development teams, QA professionals, and organizations aiming to improve software security and reliability
+- Represents a significant advancement in AI-driven software testing methodologies
+
 ---
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
