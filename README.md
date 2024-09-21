@@ -11,4 +11,6 @@ A curated list of powerful and innovative development tools, including code edit
 
 ### AI Code Review and Analysis Tools
 
+### Extensions
+
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
