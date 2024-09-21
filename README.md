@@ -39,6 +39,14 @@ A curated list of powerful and innovative development tools, including code edit
   - Enterprise solutions with additional features
   - Strong focus on security, privacy, and ethical training data usage
 
+- [AskCodi](https://www.askcodi.com/): An AI-powered code assistant designed to enhance developer productivity and streamline the coding process. Key features include:
+  - AI-powered coding assistance for code generation, refactoring, bug detection, and code explanation
+  - Comprehensive development tools including Big-O Analyzer, Unit-Tests Writer, and Documentation Generator
+  - IDE integration with popular environments like Visual Studio Code, JetBrains IDEs, and Sublime Text
+  - Collaborative features such as Codi Sandbox for real-time experimentation
+  - Additional tools for language translation, query writing, and Makefile generation
+  - Various subscription plans, including a free option with limited features
+
 ### AI-enhanced IDEs and Plugins
 
 - [Replit](https://replit.com/): An AI-powered software development and deployment platform. Key features include:
