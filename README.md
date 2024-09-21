@@ -169,6 +169,26 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [Micro Agent](https://github.com/micro-ai/micro-agent) — Open-source tool that generates and iterates on code using AI-created unit tests as guardrails.
 - [Fine](https://fine.dev/?ref=awesome) - AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 
+## PR agents
+
+- [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
+- [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
+- [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
+- [Code Review GPT](https://github.com/mattzcarey/code-review-gpt) — An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.
+- [Codeium PR Agent](https://github.com/Codium-ai/pr-agent) — Open source tool for automated code reviews.
+- [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
+- [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
+- [SwePT](https://github.com/keerthanpg/SwePT) — Open source PR generator written in 150 lines of Python code.
+- [Duckie](https://duckie.ai/) — A web based chat assistant for modifying GitHub repositories.
+- [PR Explainer Bot](https://pr-explainer-bot.web.app/) — A GitHub integration that adds explanatory text to newly created PRs.
+- [Goast](https://goast.ai/) — A hosted tool that ingests your error logs and suggests fixes.
+- [Corgea](https://corgea.com/) — A GitHub integration that finds and fixes vulnerable code.
+- [vx.dev](https://github.com/Yuyz0112/vx.dev) — A GitHub integration focused on UI generation with built in support for shadcn, lucide, and nivo charts.
+- [Pixee](https://pixee.ai)  — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
+- [CodeAnt AI](https://www.codeant.ai/)  — Automatically create PRs to fix code issues.
+- [What The Diff](https://whatthediff.ai/) —  AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
+- [Trag](https://usetrag.com/) - AI powered code reviews with pre-defined instructions and patterns.
+
 ## Specialized Tools
 
 - [Codejet](https://www.codejet.ai/) - AI-powered platform for converting Figma designs to production-ready code.
