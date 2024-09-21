@@ -283,6 +283,16 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - Overwhelmingly positive user feedback, praised for speed, modern feel, and improved navigation
 - Free for individual use, with paid plans for teams and enterprises
 
+### [ZZZ Code AI](https://zzzcode.ai/)
+- Coding website claiming to be powered by artificial intelligence
+- Lack of specific features or information about coding services offered
+- No mention of supported programming languages or tools
+- Suspicious marketing tactics focusing on social media following
+- Incomplete information and unprofessional tone
+- Emphasis on improving social visibility rather than coding capabilities
+- Potential red flags suggesting it may not be a legitimate or reliable coding resource
+- Users are advised to approach with caution and consider more established platforms
+
 ### [GitLab Duo](https://about.gitlab.com/solutions/gitlab-duo/)
 - AI-powered suite for enhancing software development lifecycle
 - Two tiers: GitLab Duo Pro ($19) and GitLab Duo Workflow ($39)
