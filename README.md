@@ -111,6 +111,34 @@ A curated list of powerful and innovative development tools, including code edit
   - Support for multiple programming languages
   - Codiumate Coding Agent for team and enterprise users
 
+- [Codiga](https://www.codiga.io/): A comprehensive static code analysis and developer productivity platform designed to enhance code quality, security, and efficiency throughout the software development lifecycle. Key features include:
+  - Static Code Analysis:
+    - Customizable analysis for various environments, including IDEs and CI/CD pipelines
+    - Support for multiple programming languages and popular IDEs
+    - Real-time code analysis with instant feedback and autofix suggestions
+    - Focus on security, covering OWASP 10, MITRE CWE, and SANS/CWE Top 25 vulnerabilities
+  - Custom Rules and Rulesets:
+    - Creation and sharing of custom code analysis rules
+    - Public sharing on Codiga Hub or private sharing within teams
+  - Automated Code Reviews:
+    - Automated reviews on pull/merge requests
+    - Support for over 12 programming languages with 1800+ predefined rules
+    - Integration with GitHub, GitLab, and Bitbucket
+  - Code Snippets Management:
+    - Platform for creating, sharing, and using smart code snippets
+    - Private snippet sharing for team collaboration
+  - Security Analysis:
+    - Comprehensive security checks, including OWASP 10 and SANS-CWE25 support
+    - Automated security fixes within the IDE
+    - Detection of leaked secrets and infrastructure code analysis
+  - Integration Throughout Development Lifecycle:
+    - Support for the entire software development process
+    - Git hooks for pre-push code checks
+    - Historical analysis of errors for each commit
+  - Productivity Benefits:
+    - Claims to save developers an average of 3 hours per week
+    - Enhances collaboration and reduces technical debt
+
 ### Extensions
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
