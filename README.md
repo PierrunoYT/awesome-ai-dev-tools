@@ -242,25 +242,29 @@ A curated list of powerful and innovative development tools, including code edit
 ### Extensions
 
 - [Pieces](https://pieces.app/): An AI-powered coding assistant and productivity tool designed to enhance developers' workflows. Key features include:
-  - AI-Powered Assistance:
-    - Code Completion: Provides context-aware code suggestions and completions
-    - Natural Language Interaction: Allows developers to ask questions, generate code, and explain concepts using natural language
-    - Contextual Understanding: Leverages real-time context from various tools to provide relevant assistance
-  - Workflow Integration: Seamlessly integrates with popular IDEs, browsers, and productivity tools
-  - Code Management:
-    - Intelligent Snippet Storage: Automatically adds titles, descriptions, and metadata to saved code snippets
-    - Smart Search: Enables quick retrieval of saved materials using natural language queries or code
-    - Code Extraction: Features advanced OCR to extract code from screenshots
-  - Security and Privacy:
-    - On-Device Processing: Stores and processes data locally on the user's device
-    - Air-Gapped Security: Ensures code remains private and secure
-    - Optional Cloud Features: Offers opt-in cloud capabilities for additional functionality
-  - Collaboration Features: Facilitates code sharing and collaboration among team members
-  - Additional Tools:
-    - Big-O Analyzer: Evaluates time complexity of algorithms
-    - Unit-Test Writer: Automates the creation of unit tests
-    - Documentation Generator: Assists in creating comprehensive code documentation
-    - Error Explainer: Helps decode and fix error messages
-  - User Experience: Designed to minimize context switching and streamline development processes
+  - AI-powered code completion and natural language interaction
+  - Contextual understanding leveraging real-time context from various tools
+  - Seamless integration with popular IDEs, browsers, and productivity tools
+  - Intelligent snippet storage with automatic metadata addition
+  - Smart search for quick retrieval of saved materials
+  - Advanced OCR for code extraction from screenshots
+  - On-device processing and air-gapped security for privacy
+  - Optional cloud features for additional functionality
+  - Collaboration features for code sharing among team members
+  - Additional tools like Big-O Analyzer, Unit-Test Writer, and Documentation Generator
+  - Designed to minimize context switching and streamline development processes
+
+- [Cody](https://sourcegraph.com/cody): An AI-powered coding assistant developed by Sourcegraph. Key features include:
+  - AI-powered coding assistance for writing, fixing, and maintaining code
+  - Code generation and editing capabilities
+  - Contextual understanding of codebases, documentation, tickets, and issues
+  - AI chat for coding questions and accurate answers
+  - Inline code changes using natural language instructions
+  - Unit test generation assistance
+  - Support for multiple Large Language Models (Claude 3.5, GPT-4, Gemini 1.5, Mixtral-8x7B)
+  - Seamless integration into existing development workflows
+  - Context-aware functionality leveraging Sourcegraph's search capabilities
+  - Used by over 2.5 million engineers
+  - Customizable features and support for various LLMs
 
 This list is just the beginning. Feel free to contribute by adding more AI-powered development tools that you find useful!
