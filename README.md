@@ -80,7 +80,7 @@ A curated list of powerful and innovative development tools, including code edit
   - Pricing plans: Individual ($10 USD/month), Business ($19 USD/user/month), Enterprise ($39 USD/user/month)
   - Widely adopted by businesses, including Fortune 500 companies
 
-- [aiXcoder](https://www.aixcoder.com/): An innovative AI-powered software development tool designed to enhance programmer productivity and efficiency. Key features include:
+- [aiXcoder](https://www.aixcoder.com/en/#/): An innovative AI-powered software development tool designed to enhance programmer productivity and efficiency. Key features include:
   - Intelligent Programming Assistant:
     - Predictive Coding: Intelligently predicts and suggests code completions based on the programmer's intentions
     - Automated Code Generation: Generates "following code snaps" automatically, allowing programmers to confirm with a single click
