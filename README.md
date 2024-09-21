@@ -189,6 +189,16 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [What The Diff](https://whatthediff.ai/) —  AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
 - [Trag](https://usetrag.com/) - AI powered code reviews with pre-defined instructions and patterns.
 
+## App generators
+
+- [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
+- [Literally anything](https://literallyanything.io) — HTML and JavaScript web app generator.
+- [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/) — Generates a full-stack React/Node.js/Prisma/Wasp app from a short description.
+- [Make Real](https://makereal.tldraw.com/) — Online canvas that can be used to generate HTML/JavaScript apps.
+- [Marblism](https://marblism.com) —  Generate a SaaS boilerplate from a prompt.
+- [Glowbom](https://glowbom.com/) —  Generate apps with AI and export to multiple platforms.
+- [Mage](https://usemage.ai/) - Generate full-stack web apps in Wasp, React, Node.js and Prisma.
+
 ## Specialized Tools
 
 - [Codejet](https://www.codejet.ai/) - AI-powered platform for converting Figma designs to production-ready code.
