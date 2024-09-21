@@ -119,6 +119,21 @@ A curated list of powerful and innovative development tools, including code edit
   - Customization options for specific needs and organization-specific information
   - Accelerates development processes and improves code quality on AWS
 
+- [Aider](https://aider.chat/): An open-source AI pair programming tool designed to assist developers in writing and editing code directly in their terminal. Key features include:
+  - AI-Powered Pair Programming: Collaborates with LLMs like GPT-4 and Claude 3.5 Sonnet to edit code in local git repositories
+  - Code Editing: Adds new features, fixes bugs, refactors code, updates documentation across multiple files
+  - Git Integration: Automatically commits changes with sensible commit messages
+  - Language Support: Works with most popular programming languages including Python, JavaScript, TypeScript, PHP, HTML, CSS, and others
+  - Context Awareness: Uses a map of the entire git repo to work effectively in larger codebases
+  - Real-time Collaboration: Allows editing files in your preferred editor while chatting with Aider
+  - Multimedia Support: Can process images and URLs added to the chat for additional context
+  - Voice Coding: Supports coding through voice commands
+  - Workflow: Developers can run Aider with specific files, ask for changes using natural language, and Aider makes the requested changes directly to the files
+  - Integration: Integrates into existing development workflows and offers a command-line interface
+  - Performance: Achieved top scores on SWE Bench, a challenging software engineering benchmark
+  - Open Source: Encourages community involvement and contributions
+  - Aims to revolutionize the coding process by providing an AI assistant that understands context, makes complex code changes, and integrates seamlessly into existing development workflows
+
 ### AI-enhanced IDEs and Plugins
 
 - [Replit](https://replit.com/): An AI-powered software development and deployment platform. Key features include:
