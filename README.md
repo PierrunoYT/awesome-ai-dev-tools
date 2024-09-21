@@ -16,6 +16,8 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [Database and SQL Tools](#database-and-sql-tools)
 - [Git Clients](#git-clients)
 - [Web-based Assistants](#web-based-assistants)
+- [Command-line Tools](#command-line-tools)
+- [Desktop Applications](#desktop-applications)
 - [Specialized Tools](#specialized-tools)
 
 ## IDEs and Code Editors
@@ -131,10 +133,18 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [Adrenaline](https://useadrenaline.com/) - Web-based chatbot using AI and ASTs to answer questions about your codebase.
 - [Onboard](https://www.getonboardai.com) - Chat with an AI about public and private codebases.
 
+## Command-line Tools
+
+- [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
+- [Warp](https://www.warp.dev/) - Modern, reimagined terminal application with AI-powered assistance and efficient workflow management.
+
+## Desktop Applications
+
+- [Pieces](https://pieces.app/) - AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
+
 ## Specialized Tools
 
 - [Codejet](https://www.codejet.ai/) - AI-powered platform for converting Figma designs to production-ready code.
-- [Warp](https://www.warp.dev/) - Modern, reimagined terminal application with AI-powered assistance and efficient workflow management.
 - [ZZZ Code AI](https://zzzcode.ai/) - Coding website claiming to be powered by artificial intelligence (approach with caution).
 - [MetaGPT](https://www.deepwisdom.ai/) - Open-source multi-agent framework for complex task collaboration using GPT models.
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
