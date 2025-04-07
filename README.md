@@ -74,6 +74,7 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [Continue](https://www.continue.dev/) - AI-powered code assistant with customization features.
 - [Exponent](https://www.exponent.run/) - AI pair programming platform with filesystem integration, advanced models, and specialized task support.
 - [GitHub Copilot](https://github.com/features/copilot) - AI-powered code suggestions for 70+ languages.
+- [GoCodeo](https://www.gocodeo.com/) - AI agent for building full-stack apps in minutes. 
 - [aiXcoder](https://www.aixcoder.com/en/#/) - Intelligent Programming Assistant with predictive coding.
 - [Amazon Q Developer](https://aws.amazon.com/q/) - AI coding assistant for AWS technologies.
 - [Tabnine](https://www.tabnine.com/) - AI code assistant with privacy focus and wide language support.
