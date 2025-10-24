@@ -231,7 +231,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Composio](https://composio.dev/)** - An open-source toolset designed for building and managing AI Agents and LLMs.
 
-**[Conduit8](https://github.com/conduit8/conduit8)** - A CLI registry for discovering, installing, and managing Claude Code skills with one-command installation directly to ~/.claude/skills/.
+**[Conduit8](https://conduit8.dev)** - A CLI registry for discovering, installing, and managing Claude Code skills with one-command installation directly to ~/.claude/skills/.
 
 **[Continue](https://continue.dev/)** - An open-source autopilot for software development that integrates with VS Code and JetBrains, allowing customizable LLM integration for code generation, editing, and debugging.
 
