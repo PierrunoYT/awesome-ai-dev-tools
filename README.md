@@ -358,9 +358,9 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[New Relic](https://newrelic.com/)** - A performance monitoring platform with intelligent alerting and AI-powered insights for application observability.
 
-**[Nova](https://www.trynova.ai/)** - A CI bot that adds actions like summaries and tests to new pull requests.
+**[Nimbalyst](https://nimbalyst.com)** - An agent management environment for Claude Code and Codex. Interactive visual editing. Parallel session management.
 
-**[Nimbalyst]](https://nimbalyst.com)** - An agent management environment for Claude Code and Codex. Interactive visual editing. Parallel session management. 
+**[Nova](https://www.trynova.ai/)** - A CI bot that adds actions like summaries and tests to new pull requests.
 
 **[OctoMind](https://octomind.dev)** - An AI-powered platform for generating and maintaining browser-based end-to-end tests, integrated into CI/CD pipelines.
 
