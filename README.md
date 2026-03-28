@@ -54,6 +54,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer)** - A tool for understanding Linux kernel code with AI assistance.
 
+**[ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen)** - An open-source CLI tool that generates complete, vertical-specific SaaS applications from a single command. Unlike generic boilerplates, it outputs industry-aware Next.js + Supabase projects with niche data models (dental, restaurant, fitness, legal, etc.), TypeScript types, SQL schemas with RLS, and REST APIs. Zero dependencies, offline, instant.
+
 **[AI2SQL](https://www.ai2sql.io/)** - An AI-powered SQL query builder that converts natural language descriptions into SQL queries and offers optimization.
 
 **[aiXcoder](https://www.aixcoder.com/en/#/)** - An intelligent programming assistant available as local or cloud-based service, offering predictive coding and extensions for various IDEs.
@@ -544,4 +546,4 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 ---
 
-*Last updated: February 2026*
+*Last updated: March 2026*
