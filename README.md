@@ -88,6 +88,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[BitBuilder](https://www.bitbuilder.ai/)** - A GitHub integration for generating pull requests directly from issues using AI.
 
+**[Burnd](https://github.com/garvitsurana/burnd)** - A local-first CLI for Claude Code power users that parses ~/.claude/projects/*.jsonl session files and runs cost-leak detectors (retry storms, tool overuse, repeated reads, thrash, tired-coding) to show which patterns are driving spend. npx-installable, MIT, zero telemetry.
+
 **[Blackbox AI](https://www.useblackbox.io/)** - An AI coding assistant available as a VS Code extension and web interface, offering autocomplete, chat, and links to online coding references.
 
 **[Blinky Debugging Agent](https://github.com/seahyinghang8/blinky)** - A debugging agent for VS Code that helps identify and fix backend errors, inspired by SWE-agent.
