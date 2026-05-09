@@ -534,6 +534,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Sourcegraph Cody](https://sourcegraph.com/cody)** - An AI assistant with deep codebase understanding, offering chat, refactoring, and code generation with enterprise features.
 
+**[SprintFlint](https://sprintflint.com)** - A sprint-native Jira alternative for small engineering teams with AI-assisted story import, GitHub PR ↔ ticket sync, sprint forecasting, and a native MCP server for Claude Code, Cursor, and Zed.
+
 **[SQLAI.ai](https://www.sqlai.ai/)** - An AI tool for SQL query generation, optimization, and explanation, with the ability to train on database schemas.
 
 **[Srcbook](https://srcbook.com/)** - A TypeScript-centric app development platform with an AI app builder and TypeScript notebook.
