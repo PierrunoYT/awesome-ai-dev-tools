@@ -46,6 +46,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[agentskill.sh](https://agentskill.sh)** - A directory of 44k+ skills for Claude Code, Cursor, and Codex with two-layer security scanning and one-command installation via the `/learn` skill.
 
+**[AgentTier](https://github.com/agenttier/agenttier)** - Self-hosted Kubernetes-native sandbox runtime for AI coding agents (Claude Code, OpenHands, LangGraph). Each Sandbox CRD provisions a Pod + PVC + default-deny NetworkPolicy with optional gVisor isolation, hierarchical governance, and a streaming agent-mode REST API.
+
 **[agenttrace](https://github.com/luoyuctl/agenttrace)** - A local-first TUI for inspecting AI coding agent sessions across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, Hermes, OpenCode, Kimi, and Copilot-style logs, surfacing cost, cache usage, failures, latency, anomalies, health gates, and diffs.
 
 **[Aider](https://aider.chat/)** - An open-source AI pair programming tool that works directly in your terminal, offering Git integration, multi-file editing, and natural language commands for code generation, debugging, refactoring, and automated commits.
