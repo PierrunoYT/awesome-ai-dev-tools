@@ -182,6 +182,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[CodexAtlas](https://codedocumentation.app/)** - An automated code and API documentation tool that uses the latest AI models.
 
+**[codex-profiles](https://github.com/Ducksss/codex-profiles)** - An open-source MIT Bash CLI helper for switching OpenAI Codex CLI/Desktop accounts using isolated `CODEX_HOME` profiles, with Homebrew install and no token copying.
+
 **[CodeWP](https://codewp.ai/)** - AI tools specifically trained for WordPress developers, offering code generation for snippets and plugins.
 
 **[Command Code](https://commandcode.ai/)** - A CLI-based AI coding agent that learns a developer's coding style, supports multiple LLM providers, and can build features, fix bugs, write tests, refactor code, and generate commits or pull requests.
