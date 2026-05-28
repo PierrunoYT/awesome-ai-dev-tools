@@ -46,6 +46,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[agentskill.sh](https://agentskill.sh)** - A directory of 44k+ skills for Claude Code, Cursor, and Codex with two-layer security scanning and one-command installation via the `/learn` skill.
 
+**[agent-command-center-sdk](https://github.com/future-agi/agent-command-center-sdk)** - Open-source OpenAI-compatible gateway SDK for managing and routing AI agent requests across providers.
+
 **[agenttrace](https://github.com/luoyuctl/agenttrace)** - A local-first TUI for inspecting AI coding agent sessions across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, Hermes, OpenCode, Kimi, and Copilot-style logs, surfacing cost, cache usage, failures, latency, anomalies, health gates, and diffs.
 
 **[Aider](https://aider.chat/)** - An open-source AI pair programming tool that works directly in your terminal, offering Git integration, multi-file editing, and natural language commands for code generation, debugging, refactoring, and automated commits.
@@ -257,6 +259,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Frontly](https://fronty.com/)** - A web tool that converts uploaded images into HTML and CSS code.
 
 **[Functionize](https://www.functionize.com/)** - An intelligent testing platform that uses AI/ML for creating, executing, and maintaining automated functional tests, particularly for web applications.
+
+**[Future AGI](https://github.com/future-agi/future-agi)** - A self-hostable end-to-end agent engineering platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails.
 
 **[Fynix](https://fynix.ai)** - An AI coding assistant designed to help developers throughout the SDLC.
 
@@ -577,6 +581,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[toprank](https://github.com/nowork-studio/toprank)** - An open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.
 
 **[TinyTools](https://tinytools-smoky.vercel.app/)** - A collection of free browser-based developer utilities including an AI Cost Calculator for comparing LLM pricing, an AI Robots.txt Generator for LLM crawlers, an AI Content Disclosure Generator (EU AI Act Article 50 compliant), an AI Background Remover that runs locally via WebAssembly, plus OG image, favicon, color palette, and SEO meta tag generators. No signup, open source.
+
+**[traceAI](https://github.com/future-agi/traceAI)** - Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in.
 
 **[Traceloop](https://traceloop.com/)** - A tool that uses OpenTelemetry tracing data with generative AI to improve system reliability.
 
