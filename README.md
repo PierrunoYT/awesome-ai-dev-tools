@@ -54,6 +54,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[AI Code Playground](https://aicodeplayground.com/)** - A web-based tool for refactoring and improving code quality with AI assistance.
 
+**[AI for Database](https://aifordatabase.com/)** - An agentic AI tool that connects to any database (PostgreSQL, MySQL, MongoDB, and more) and lets you query it in plain English. Get instant insights, build self-refreshing dashboards, and set up automated workflows that trigger alerts or webhooks based on database changes — no SQL required.
+
 **[AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer)** - A tool for understanding Linux kernel code with AI assistance.
 
 **[AI2SQL](https://www.ai2sql.io/)** - An AI-powered SQL query builder that converts natural language descriptions into SQL queries and offers optimization.
