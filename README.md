@@ -482,6 +482,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Quack AI](https://www.quack-ai.com/)** - A VS Code extension for adhering to project coding guidelines and enforcing standards.
 
+**[Remio](https://remio.ai/)** - A local-first AI memory and knowledge base desktop app with CLI access for agent workflows, parsing files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors to reduce repeated scanning and token-heavy context loading.
+
 **[Rapidpages](https://www.rapidpages.io/)** - An open-source UI generator for rapid web interface creation.
 
 **[README-AI](https://github.com/eli64s/readme-ai)** - An automated README.md file generator powered by large language model APIs.
