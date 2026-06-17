@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **294+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **295+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -497,6 +497,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Replit Agent](https://replit.com/ai)** - Replit's multi-agent system for building applications through natural language, featuring automated environment setup and deployment.
 
 **[Replit Ghostwriter](https://replit.com/ghostwriter)** - Replit's integrated AI coding assistant, offering code completion, generation, transformation, and explanation within the online IDE.
+
+**[Roblox GUI Maker](https://robloxguimaker.dev/)** - An AI tool for generating Roblox Studio GUI layouts and Lua starter code from text prompts.
 
 **[Roo Code](https://github.com/RooVetGit/Roo-Code)** - A VS Code extension with natural language interaction, multi-provider support, and specialized coding modes.
 
