@@ -414,6 +414,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Northflank](https://northflank.com/)** - A platform for deploying and running applications and AI workloads, with support for isolated, ephemeral environments for executing code and agents.
 
+**[NotFair](https://github.com/nowork-studio/NotFair)** - An open-source (MIT, ~2.9k stars) Claude Code plugin with agent skills for [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads). Connects to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP for audits, keyword research, wasted-spend detection, and ad creative analysis directly from Claude Code.
+
 **[OctoMind](https://octomind.dev)** - An AI-powered platform for generating and maintaining browser-based end-to-end tests, integrated into CI/CD pipelines.
 
 **[Ogoron](https://www.everydev.ai/tools/ogoron)** - An AI testing platform that analyzes code changes and application architecture to generate and maintain API, UI, and mobile tests.
