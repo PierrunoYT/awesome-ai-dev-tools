@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **294+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **292+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -45,6 +45,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Adrenaline](https://useadrenaline.com/)** - A web-based AI-powered debugging assistant and chatbot that analyzes code, error messages, and stack traces to suggest fixes.
 
 **[agentskill.sh](https://agentskill.sh)** - A directory of 44k+ skills for Claude Code, Cursor, and Codex with two-layer security scanning and one-command installation via the `/learn` skill.
+
+**[AgentTier](https://github.com/agenttier/agenttier)** - Self-hosted Kubernetes-native sandbox runtime for AI coding agents (Claude Code, OpenHands, LangGraph). Each Sandbox CRD provisions a Pod + PVC + default-deny NetworkPolicy with optional gVisor isolation, hierarchical governance, and a streaming agent-mode REST API.
 
 **[agenttrace](https://github.com/luoyuctl/agenttrace)** - A local-first TUI for inspecting AI coding agent sessions across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, Hermes, OpenCode, Kimi, and Copilot-style logs, surfacing cost, cache usage, failures, latency, anomalies, health gates, and diffs.
 
@@ -181,6 +183,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[CodeStory](https://codestory.ai/)** - An IDE (forked from VSCodium) with integrated chat, code explanations, auto-generated commits, and PR summaries.
 
 **[CodexAtlas](https://codedocumentation.app/)** - An automated code and API documentation tool that uses the latest AI models.
+
+**[codex-profiles](https://github.com/Ducksss/codex-profiles)** - An open-source MIT Bash CLI helper for switching OpenAI Codex CLI/Desktop accounts using isolated `CODEX_HOME` profiles, with Homebrew install and no token copying.
 
 **[CodeWP](https://codewp.ai/)** - AI tools specifically trained for WordPress developers, offering code generation for snippets and plugins.
 
@@ -434,8 +438,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** - An open-source AI development assistant with multi-language support.
 
-**[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - An AI-powered coding toolbar for any web app that captures element context, previews diffs, and applies approved changes through a reverse proxy.
-
 **[Orca](https://github.com/sebastianbreguel/orca)** - A worktree-native IDE for orchestrating multiple AI coding agents side-by-side, including Claude Code, Codex, Gemini, Cline, Cursor, and other CLI agents.
 
 **[Parallel Code](https://github.com/johannesjo/parallel-code)** - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
@@ -450,8 +452,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Pieces](https://pieces.app/)** - An AI-enabled desktop application and browser extension for code capture, enrichment, and reuse, with on-device processing and multi-IDE integration.
 
-
-**[PitchDocs](https://github.com/littlebearapps/pitchdocs)** - A Claude Code plugin that generates professional, marketing-ready repository documentation — README, CHANGELOG, CONTRIBUTING, AI context files, and 15+ more files with evidence-based feature extraction and quality scoring.
 **[Pixee](https://pixee.ai/)** - Pixeebot automatically finds security and code quality issues, creating merge-ready pull requests with recommended fixes.
 
 **[Plandex](https://plandex.ai/)** - An open-source, terminal-based AI coding engine designed for complex projects, allowing for multi-step planning and execution.
@@ -514,8 +514,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Shadcn](https://ui.shadcn.com/)** - A popular UI component library, often used with AI-generated code.
 
-**[sharable.link](https://sharable.link)** - A free Claude skill that publishes HTML outputs to clean, shareable public URLs. One `/share` command turns dashboards, reports, and landing pages into links anyone can open — no account needed.
-
 **[Shell Whiz](https://github.com/beimzhan/shell-whiz)** - A highly configurable CLI assistant for generating and explaining shell commands.
 
 **[Smol Developer](https://github.com/smol-ai/developer)** - A CLI agent that generates entire repositories from a prompt, using OpenAI and Anthropic.
@@ -575,8 +573,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Theia IDE](https://theia-ide.org/#theiaide)** - An extensible open-source IDE (web and desktop) with Theia Coder, an AI-powered coding agent that can browse workspaces, propose code changes, and automatically detect and fix issues, with Edit Mode and Agent Mode options.
 
 **[toprank](https://github.com/nowork-studio/toprank)** - An open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.
-
-**[TinyTools](https://tinytools-smoky.vercel.app/)** - A collection of free browser-based developer utilities including an AI Cost Calculator for comparing LLM pricing, an AI Robots.txt Generator for LLM crawlers, an AI Content Disclosure Generator (EU AI Act Article 50 compliant), an AI Background Remover that runs locally via WebAssembly, plus OG image, favicon, color palette, and SEO meta tag generators. No signup, open source.
 
 **[Traceloop](https://traceloop.com/)** - A tool that uses OpenTelemetry tracing data with generative AI to improve system reliability.
 
