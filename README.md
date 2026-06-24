@@ -622,4 +622,21 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome, but please follow these guidelines to keep the list useful and easy to maintain:
+
+- Submit tools that are directly related to AI-assisted software development, coding, testing, code review, documentation, DevOps, or developer workflows.
+- Add new tools in alphabetical order using the existing format: `**[Tool Name](https://example.com/)** - Brief description.`
+- Keep descriptions concise, neutral, and focused on concrete developer-facing capabilities.
+- Include an official website, documentation page, or public repository link.
+- Avoid duplicate entries, generic AI products without a clear developer use case, and purely promotional language.
+- Open an issue or pull request with enough context to explain why the tool belongs in this list.
+
+## 📄 License
+
+This project is shared as a curated community resource. Please check the repository for license details before reusing the content.
+
+---
+
 *Last updated: February 2026*
