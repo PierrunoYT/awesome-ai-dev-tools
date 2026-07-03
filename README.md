@@ -58,6 +58,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer)** - A tool for understanding Linux kernel code with AI assistance.
 
+**[AI Money Stack](https://duct-tape2.github.io/ai-money-stack/)** - A paid local-first toolkit for indie developers to rank revenue ideas, generate PR review notes, and filter paid OSS bounty candidates without API keys or cloud upload.
+
 **[AI2SQL](https://www.ai2sql.io/)** - An AI-powered SQL query builder that converts natural language descriptions into SQL queries and offers optimization.
 
 **[aiXcoder](https://www.aixcoder.com/en/#/)** - An intelligent programming assistant available as local or cloud-based service, offering predictive coding and extensions for various IDEs.
