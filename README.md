@@ -44,6 +44,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Adrenaline](https://useadrenaline.com/)** - A web-based AI-powered debugging assistant and chatbot that analyzes code, error messages, and stack traces to suggest fixes.
 
+**[agent-qa](https://github.com/vostride/agent-qa)** - A self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
+
 **[agentskill.sh](https://agentskill.sh)** - A directory of 44k+ skills for Claude Code, Cursor, and Codex with two-layer security scanning and one-command installation via the `/learn` skill.
 
 **[AgentTier](https://github.com/agenttier/agenttier)** - Self-hosted Kubernetes-native sandbox runtime for AI coding agents (Claude Code, OpenHands, LangGraph). Each Sandbox CRD provisions a Pod + PVC + default-deny NetworkPolicy with optional gVisor isolation, hierarchical governance, and a streaming agent-mode REST API.
