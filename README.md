@@ -358,6 +358,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Letta Code](https://docs.letta.com/letta-code)** - A memory-first AI coding agent with persistent agents that learn across sessions, portable memory across models, skills, and CLI, desktop, and chat integrations.
 
+**[Lida-Software](https://www.lidasoftware.online/)** - Essential everyday dev utilities with zero ads, no trackers, and no signups. just pure speed and instant results.
+
 **[Linear](https://linear.app/)** - A project management tool with AI-powered features for issue tracking and automated task organization.
 
 **[Literally anything](https://literallyanything.io)** - An HTML and JavaScript web app generator.
