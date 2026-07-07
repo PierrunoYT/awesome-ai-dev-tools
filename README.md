@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **300+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **305+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -204,6 +204,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Create.xyz](https://www.create.xyz/)** - An AI tool focused on creating prototypes and website designs.
 
+**[CrewAI](https://crewai.com/)** - A platform and framework for building, deploying, and managing multi-agent workflows with no-code tools, CLI support, and code-first APIs.
+
 **[Critique](https://www.critique.sh/)** - A GitHub-native AI code review agent that uses multiple specialist agents to assess pull request risks across security, architecture, performance, and correctness.
 
 **[Crush](https://github.com/charmbracelet/crush)** - A terminal-based AI coding assistant by Charmbracelet that brings agentic AI capabilities directly to your command line, supporting multiple LLMs, LSP integration, Model Context Protocol (MCP) servers, and cross-platform compatibility.
@@ -334,6 +336,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Height](https://height.app/)** - An intelligent project management tool with AI-powered features for automated task organization and issue tracking.
 
+**[Hostinger Horizons](https://www.hostinger.com/horizons/)** - An AI app and website builder that turns prompts into hosted web apps with code editing, backend features, integrations, and one-click launch.
+
 **[IBM Bob](https://bob.ibm.com/)** - IBM's agentic development partner for IDE and terminal workflows, supporting code generation, modernization, security scanning, subagents, and CI/CD automation.
 
 **[IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z)** - An AI-powered mainframe application modernization product with code generation, discovery, and automated refactoring (COBOL to Java conversion).
@@ -361,6 +365,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Kombai](https://kombai.com/)** - An AI tool for converting Figma designs into frontend code.
 
 **[KushoAI](https://kusho.ai/)** - An AI agent for comprehensive API testing, transforming Postman collections, OpenAPI specs, and curl commands into exhaustive test suites.
+
+**[LangGraph](https://www.langchain.com/langgraph)** - LangChain's low-level orchestration framework and runtime for building reliable, controllable AI agents and agent workflows.
 
 **[Lazy AI](https://getlazy.ai/)** - An AI coding tool for building full-stack web applications and MVPs with complex integrations.
 
@@ -410,6 +416,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[MiMo Code](https://mimo.xiaomi.com/)** - Xiaomi MiMo's long-horizon coding agent initiative, focused on computation, memory, and evolution for coding workflows.
 
+**[Microsoft AutoGen](https://microsoft.github.io/autogen/stable/)** - A framework and Studio UI for building, prototyping, and orchestrating single-agent and multi-agent AI applications.
+
 **[Mistral Vibe](https://mistral.ai/products/vibe)** - Mistral AI's terminal-native coding agent powered by Devstral models, with multi-file context, autonomous command execution, IDE integration, offline support, and custom subagents.
 
 **[Morph Rift](https://github.com/morph-labs/rift)** - A VS Code extension that leverages an edge language model to assist with code and merge AI-generated code.
@@ -445,6 +453,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[OpenAI Codex CLI](https://github.com/openai/codex)** - OpenAI's open-source terminal coding agent (built in Rust) that reads, edits, and runs code locally with sandboxed execution, full-auto mode, MCP support, and sub-agent orchestration. Usable via ChatGPT Plus/Pro subscription or API key.
 
 **[OpenBlock OB-1](https://openblocklabs.com/)** - A self-improving AI coding agent from OpenBlock Labs for terminal and workflow automation, with multi-model support, reusable skills, session forking, and integrations with GitHub, Linear, Slack, and VS Code.
+
+**[OpenClaw](https://openclaw.ai/)** - An open-source personal AI agent that runs locally, connects to chat apps, and automates tasks across email, calendar, files, and developer-extensible plugins.
 
 **[OpenCode](https://opencode.ai/)** - An open-source AI coding agent built for the terminal, desktop, and IDE workflows, with multi-provider model support, LSP integration, session management, and code-editing tools.
 
