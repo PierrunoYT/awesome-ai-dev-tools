@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **298+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **300+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -402,9 +402,13 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Micro Agent by Builder](https://www.builder.io/blog/micro-agent)** - An AI agent that writes and fixes code based on provided context and instructions.
 
+**[MiniMax Code](https://code.minimax.io/)** - MiniMax's coding harness for building agent teams, learning developer habits, and turning repetitive engineering tasks into reusable skills.
+
 **[Mintlify](https://mintlify.com/)** - An AI-powered documentation generation and maintenance platform for creating beautiful and functional documentation.
 
 **[Mintlify Writer](https://writer.mintlify.com/)** - A VS Code extension focused specifically on generating documentation for code, such as docstrings for functions and classes.
+
+**[MiMo Code](https://mimo.xiaomi.com/)** - Xiaomi MiMo's long-horizon coding agent initiative, focused on computation, memory, and evolution for coding workflows.
 
 **[Mistral Vibe](https://mistral.ai/products/vibe)** - Mistral AI's terminal-native coding agent powered by Devstral models, with multi-file context, autonomous command execution, IDE integration, offline support, and custom subagents.
 
