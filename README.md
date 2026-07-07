@@ -438,7 +438,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** - An open-source AI development assistant with multi-language support.
 
-**[Orca](https://github.com/sebastianbreguel/orca)** - A worktree-native IDE for orchestrating multiple AI coding agents side-by-side, including Claude Code, Codex, Gemini, Cline, Cursor, and other CLI agents.
+**[Orca](https://github.com/stablyai/orca)** - A worktree-native IDE for orchestrating multiple AI coding agents side-by-side, including Claude Code, Codex, Gemini, Cline, Cursor, and other CLI agents.
 
 **[Parallel Code](https://github.com/johannesjo/parallel-code)** - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 
