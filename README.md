@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **292+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
+> A curated collection of **298+** AI-powered development tools organized alphabetically to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -238,6 +238,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Duckie](https://duckie.ai/)** - A web-based chat assistant designed for modifying GitHub repositories.
 
+**[Dyad](https://www.dyad.sh/)** - A local, open-source AI app builder for creating full-stack applications with model choice, code export, Supabase integration, and MCP support.
+
 **[EasyCode](https://www.easycode.ai/)** - A VS Code extension featuring GPT-4 powered chat for coding assistance.
 
 **[Editor.do](https://editor.do/)** - A leading AI-powered code editor.
@@ -304,6 +306,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[GoCodeo](https://www.gocodeo.com/)** - An AI agent for building full-stack apps in minutes with one-click Vercel deployment and seamless Supabase integration, featuring Model Context Protocol (MCP) support.
 
+**[Google AI Studio](https://aistudio.google.com/)** - Google's browser-based environment for prototyping Gemini-powered applications, prompts, multimodal workflows, and AI-generated app experiences.
+
 **[Google Cloud Code AI (Duet AI)](https://cloud.google.com/products/duet-ai)** - Google's AI-powered collaborator integrated into Google Cloud services and IDEs, providing code assistance, chat support for Google Cloud queries, and smart actions.
 
 **[Google Gemini Code Assist](https://codeassist.google)** - Google's AI-powered code assistance, integrated into its development tools.
@@ -329,6 +333,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Harness](https://harness.io/)** - An AI-powered continuous delivery and deployment platform.
 
 **[Height](https://height.app/)** - An intelligent project management tool with AI-powered features for automated task organization and issue tracking.
+
+**[IBM Bob](https://bob.ibm.com/)** - IBM's agentic development partner for IDE and terminal workflows, supporting code generation, modernization, security scanning, subagents, and CI/CD automation.
 
 **[IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z)** - An AI-powered mainframe application modernization product with code generation, discovery, and automated refactoring (COBOL to Java conversion).
 
@@ -616,9 +622,13 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Wren AI](https://getwren.ai/oss)** - An open-source SQL AI Agent that allows users to get results and insights by asking questions without writing SQL.
 
+**[ZCode](https://zcode.z.ai/)** - Z.ai's AI coding environment for planning, coding, reviewing, and deploying with GLM-optimized agentic workflows and multi-agent collaboration.
+
 **[Zed](https://zed.dev)** - A high-performance, multiplayer code editor with Claude 3.5 Sonnet integration and real-time streaming diffs.
 
 **[Zencoder](https://zencoder.ai)** - An advanced AI platform featuring Repo Grokking™ technology for deep codebase understanding and an Agentic Pipeline with self-improving AI agents.
+
+**[Zero](https://zero.gitlawb.com/)** - A terminal-based AI coding agent focused on user-owned workflows for reading, editing, and managing code from the command line.
 
 **[ZZZ Code AI](https://zzzcode.ai/)** - An AI code assistant.
 
@@ -641,4 +651,4 @@ This project is shared as a curated community resource. Please check the reposit
 
 ---
 
-*Last updated: June 2026*
+*Last updated: July 2026*
