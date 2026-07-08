@@ -828,6 +828,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Traycer](https://traycer.ai)** - A VS Code extension for intelligent code change management with real-time analysis and automated reviews.
 
+**[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** - Local-first memory lifecycle framework for AI coding agents with Rust CLI/TUI, SQLite/FTS recall, forgetting, audit, and adapter hooks.
+
 **[Trelent](https://trelent.net/)** - A VS Code extension for generating docstrings using proprietary AI models.
 
 **[tutti](https://github.com/nutthouse/tutti)** - Multi-agent orchestration CLI with config-driven workflows, git worktree isolation, and typed artifact flow between agents.
