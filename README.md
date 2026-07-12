@@ -261,6 +261,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Frontly](https://fronty.com/)** - A web tool that converts uploaded images into HTML and CSS code.
 
 **[Functionize](https://www.functionize.com/)** - An intelligent testing platform that uses AI/ML for creating, executing, and maintaining automated functional tests, particularly for web applications.
+**[Future AGI](https://github.com/future-agi/future-agi)** - An open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 
 **[Fynix](https://fynix.ai)** - An AI coding assistant designed to help developers throughout the SDLC.
 
