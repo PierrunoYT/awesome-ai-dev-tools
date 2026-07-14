@@ -614,6 +614,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Onuro AI](https://www.onuro.ai/)** - A leading AI-powered code editor.
 
+**[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** - An open-source Python CLI that exposes a restricted Codex command, another local agent, or an automation as a capability callable by teammates and other agents over a trusted LAN. The current Alpha uses plain HTTP and a shared key and is not intended for public-internet exposure.
+
 **[OpenAI Codex](https://openai.com/blog/openai-codex)** - The underlying model powering many AI coding tools, designed for code generation and understanding.
 
 **[OpenAI Codex CLI](https://github.com/openai/codex)** - OpenAI's open-source terminal coding agent (built in Rust) that reads, edits, and runs code locally with sandboxed execution, full-auto mode, MCP support, and sub-agent orchestration. Usable via ChatGPT Plus/Pro subscription or API key.
