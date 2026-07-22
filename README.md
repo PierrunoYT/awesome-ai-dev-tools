@@ -638,6 +638,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[ORCH](https://github.com/oxgeneral/ORCH)** - CLI runtime for managing Claude Code, Codex, and Cursor as typed agent teams with state machine, goals, and TUI.
 
+**[Orkas](https://orkas.ai?source=gh-aidev)** - Open-source, local-first desktop workspace that coordinates specialist agents and runs Claude Code, Codex, OpenCode, and Cline from one chat. [Source](https://github.com/Orkas-AI/Orkas)
+
 **[paperclip](https://github.com/paperclipai/paperclip)** - Orchestration for zero-human companies.
 
 **[Parallel Code](https://github.com/johannesjo/parallel-code)** - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
