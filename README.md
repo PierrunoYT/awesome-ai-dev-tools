@@ -108,6 +108,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[API Copilot](https://apicopilot.dev/)** - An AI assistant specifically tailored for backend API development.
 
+**[API Workbench](https://github.com/sapph1re/api-workbench)** - VS Code extension for agent-readable API testing in Cursor, Windsurf, and VS Code. Runs HTTP collections locally, outputs structured Markdown reports that AI coding assistants can read and act on.
+
 **[Applitools](https://applitools.com/)** - A visual AI testing platform that compares UI screenshots across environments, using AI to detect meaningful visual regressions.
 
 **[Appypie](https://www.appypie.com/ai-app-generator)** - An AI-powered mobile app generator for creating iOS and Android applications without coding.
