@@ -354,6 +354,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[FauxPilot](https://github.com/fauxpilot/fauxpilot)** - An open-source code completion server compatible with CodeGen.
 
+**[Find MCP](https://github.com/agentage/find-mcp)** - An MCP server for discovering other MCP servers, searching 17,000+ entries synced from the official MCP registry via remote Streamable HTTP or stdio.
+
 **[Fine](https://fine.dev/)** - An AI Dev Environment for automating mundane work, integrating with GitHub, Sentry, and Linear for context-aware answers and automated CI/CD.
 
 **[ForgeCode](https://forgecode.dev/)** - A CLI-based AI coding harness with multi-agent workflows, flexible model selection, custom agents, and codebase context tools for terminal-driven development.
