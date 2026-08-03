@@ -144,6 +144,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[bernstein](https://github.com/chernistry/bernstein)** - Deterministic orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits. Zero LLM tokens on coordination.
 
+**[Better Agent](https://github.com/ofekron/better-agent)** - Local workspace for running, recovering, forking, and delegating native Claude, Codex, and Gemini coding-agent sessions.
+
 **[BitBuilder](https://www.bitbuilder.ai/)** - A GitHub integration for generating pull requests directly from issues using AI.
 
 **[Bito AI](https://bito.ai/)** - An AI assistant that integrates with IDEs and browsers to speed up development tasks, offering code generation, explanation, performance checks, security analysis, and more.
