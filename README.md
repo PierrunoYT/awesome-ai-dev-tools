@@ -866,6 +866,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Wegic AI](https://wegic.ai/)** - An AI tool focused on creating prototypes and website designs.
 
+**[WeInc](https://we.inc)** - An AI website and app builder that generates full React + Vite + Tailwind sites from natural language prompts using WebContainers, with visual editing, custom domains, and white-label reselling.
+
 **[What The Diff](https://whatthediff.ai/)** - An AI-powered app that reviews pull request diffs and writes descriptive comments about the changes in plain English.
 
 **[WhoDB](https://github.com/clidey/whodb)** - An AI-powered data explorer for various databases.
