@@ -638,6 +638,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[ORCH](https://github.com/oxgeneral/ORCH)** - CLI runtime for managing Claude Code, Codex, and Cursor as typed agent teams with state machine, goals, and TUI.
 
+**[outsourcerer](https://github.com/alexgreensh/outsourcerer)** - Delegate coding grunt-work to other harnesses and models while your main session stays the orchestrator.
+
 **[paperclip](https://github.com/paperclipai/paperclip)** - Orchestration for zero-human companies.
 
 **[Parallel Code](https://github.com/johannesjo/parallel-code)** - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
@@ -709,6 +711,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Replit Agent](https://replit.com/ai)** - Replit's multi-agent system for building applications through natural language, featuring automated environment setup and deployment.
 
 **[Replit Ghostwriter](https://replit.com/ghostwriter)** - Replit's integrated AI coding assistant, offering code completion, generation, transformation, and explanation within the online IDE.
+
+**[repo-forensics](https://github.com/alexgreensh/repo-forensics)** - Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; flags prompt injection, credential theft, and manifest drift before install.
 
 **[Repowise](https://github.com/repowise-dev/repowise)** - An open-source codebase intelligence tool for AI coding agents that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
 
@@ -815,6 +819,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[thurbox](https://github.com/Thurbeen/thurbox)** - Multi-session TUI orchestrator that runs many coding-agent CLIs (Claude Code, Codex, opencode, Aider, Copilot, and any CLI you define) in persistent tmux sessions, with git worktree isolation, remote SSH sessions, inter-session messaging, and a native code-review view. ([thurbox.thurbeen.eu](https://thurbox.thurbeen.eu))
 
 **[tmux-ide](https://github.com/wavyrai/tmux-ide)** - Tmux-powered terminal IDE with `ide.yml` layouts, agent-team templates, and Claude Code integration.
+
+**[token-optimizer](https://github.com/alexgreensh/token-optimizer)** - Context and token-cost optimizer for coding agents that finds wasted tokens, survives compaction, and fights context-quality decay across Claude Code, Codex, OpenCode, and OpenClaw.
 
 **[toprank](https://github.com/nowork-studio/toprank)** - An open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.
 
