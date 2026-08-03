@@ -212,6 +212,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[cmux](https://github.com/manaflow-ai/cmux)** - Open-source platform for running multiple coding agents in parallel.
 
+**[CocoIndex Code](https://github.com/cocoindex-io/cocoindex-code)** - An Apache-2.0 code-search CLI and MCP server that uses Tree-sitter-based chunking and semantic search to retrieve code snippets for coding agents.
+
 **[Codacy](https://www.codacy.com/)** - An automated code quality and performance analysis platform that integrates with Git repositories.
 
 **[CodeAct](https://codeact.ai/)** - An AI-powered tool for advanced debugging, including multi-threading and concurrency analysis.
