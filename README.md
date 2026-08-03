@@ -276,6 +276,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[constellagent](https://github.com/owengretzinger/constellagent)** - macOS app for running multiple AI agents with their own terminal, editor, and git worktree.
 
+**[Constitution Lint Action](https://github.com/joeyycli/constitution-lint-action)** - A GitHub Action and pre-commit hook that lints CLAUDE.md-style AI agent constitution files for missing operational guardrails (authority order, injection-defense, spend limits, escalation path, secrets handling), catching gaps in CI before an unattended coding agent runs into them.
+
 **[Continue](https://continue.dev/)** - An open-source autopilot for software development that integrates with VS Code and JetBrains, allowing customizable LLM integration for code generation, editing, and debugging.
 
 **[CoPaw](https://github.com/agentscope-ai/CoPaw)** - Your Personal AI Assistant.
