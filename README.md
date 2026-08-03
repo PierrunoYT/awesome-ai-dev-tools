@@ -356,6 +356,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[ForgeCode](https://forgecode.dev/)** - A CLI-based AI coding harness with multi-agent workflows, flexible model selection, custom agents, and codebase context tools for terminal-driven development.
 
+**[fractal](https://github.com/plasma-ai/fractal)** - Open-source runtime for bounded hierarchical coding-agent loops with recursive delegation, isolated Git worktrees, persistent SQLite state, and live operator controls.
+
 **[Frontend AI](https://www.webcrumbs.org/frontend-ai)** - An AI tool focused on creating prototypes and website designs.
 
 **[Frontly](https://fronty.com/)** - A web tool that converts uploaded images into HTML and CSS code.
