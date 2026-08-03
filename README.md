@@ -600,7 +600,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Northflank](https://northflank.com/)** - A platform for deploying and running applications and AI workloads, with support for isolated, ephemeral environments for executing code and agents.
 
-**[notabene](https://github.com/z29k/notabene)** - Renders a repo's Markdown/MDX as a navigable docs site with anchored, Google-Docs-style comments; an agent reads the committed comment store, applies the feedback as source edits, resolves the threads and journals what changed.
+**[notabene](https://github.com/z29k/notabene)** - Renders repository Markdown and MDX as a navigable documentation site with anchored comments, storing comments and journals in git-readable JSON alongside a protocol agents can follow to propose or apply the corresponding edits to the Markdown source.
 
 **[Nova](https://www.trynova.ai/)** - A CI bot that adds actions like summaries and tests to new pull requests.
 
