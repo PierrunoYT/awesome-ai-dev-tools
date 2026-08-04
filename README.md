@@ -54,7 +54,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[agentbox](https://github.com/madarco/agentbox)** - Run multiple coding agents in parallel, each teleported into its own sandboxed box (local Docker or cloud VMs via Hetzner/Daytona/Vercel/E2B) with sub-1s checkpoint starts. Works with Claude Code, Codex, and OpenCode.
 
-**[agent-cost-guardrails](https://github.com/sapph1re/agent-cost-guardrails)** - Framework-native budget limits and circuit breakers for CrewAI, AutoGen, and LangGraph agents. Enforces per-call token limits and cumulative cost budgets without manual monitoring.
+**[agent-cost-guardrails](https://github.com/sapph1re/agent-cost-guardrails)** - Python budget tracking and circuit-breaker middleware with adapters for CrewAI, AutoGen/AG2, and LangGraph; checks estimated tokens before calls and records actual token cost after responses.
 
 **[agent-deck](https://github.com/asheshgoplani/agent-deck)** - Terminal session manager for AI coding agents.
 
