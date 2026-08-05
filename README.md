@@ -322,7 +322,9 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Dex](https://github.com/francescoalemanno/dex)** - Structured Ralph orchestrator with human-gated planning, programmatic task tracking, parallel multi-reviewer code review, automatic retries with backoff, and autonomous dead-end-aware research loops inspired by Karpathy's autoresearch; supports 7 CLI backends and ships cross-platform binaries.
 
-**[DiagramGPT](https://www.eraser.io/diagramgpt)** - A free AI-based web app that converts schemas, infrastructure definitions, code snippets, or plain language into various diagrams.
+**[DiagramGPT](https://www.eraser.io/diagramgpt)**
+
+**[flow-chart.io](https://flow-chart.io)** - AI diagram generator that outputs fully editable scene graphs (not locked SVG images). Generates BPMN 2.0, C4 architecture, UML, ERD, cloud architecture (AWS/GCP/Azure), DevOps pipelines, and STRIDE threat model diagrams from plain language. Every node and connector is a live editable object. - A free AI-based web app that converts schemas, infrastructure definitions, code snippets, or plain language into various diagrams.
 
 **[DiffBlue Cover](https://www.diffblue.com/)** - An AI-powered tool that autonomously writes Java unit tests by analyzing code and generating comprehensive test coverage.
 
