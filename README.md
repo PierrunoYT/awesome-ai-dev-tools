@@ -558,6 +558,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Mentat](https://www.mentat.codes/)** - A CLI assistant and agent that makes changes to repositories based on AI understanding.
 
+**[MCP Config Doctor](https://mcpconfigdoctor.online/)** - A browser-local diagnostic for supported Codex TOML, Gemini CLI JSON, and VS Code JSONC MCP client configurations; it checks static configuration shape and secret/env risks without claiming runtime server health.
+
 **[mercury](https://github.com/Michaelliv/mercury)** - Personal AI assistant that lives where you chat.
 
 **[MetaClaw](https://github.com/aiming-lab/MetaClaw)** - Just talk to your agent — it learns and evolves.
