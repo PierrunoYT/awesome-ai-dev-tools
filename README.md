@@ -846,6 +846,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Unblocked](https://getunblocked.com/)** - An AI-powered code context and chat assistant with integration across GitHub, Slack, and Jira.
 
+**[usage](https://github.com/aqua5230/usage)** - A macOS menu bar and Windows system tray app that monitors Claude Code, Codex, and Antigravity quota, with burn rate estimates and locally generated usage reports.
+
 **[v0.dev](https://v0.dev/)** - Vercel's AI-powered tool for generating React components from text descriptions, using shadcn/ui components.
 
 **[vibecraft](https://github.com/rayzhudev/vibecraft)** - An RTS-style workspace for managing AI coding agents.
