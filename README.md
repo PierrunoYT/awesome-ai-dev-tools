@@ -40,6 +40,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[1code](https://github.com/21st-dev/1code)** - UI for Claude Code with local and remote agent execution.
 
+**[2ools](https://2ools.app/)** - Turns work created in an AI chat into versioned projects. Connects over MCP to Claude, ChatGPT, Cursor or any MCP client, returns a shareable live preview, keeps every saved result as a restorable version for comparison and review, and exports the full source as plain files.
+
 **[5dive](https://github.com/5dive-ai/5dive)** - Run a company of named AI agents on a server you own, each with its own model, memory, and role. Agents share an org chart and backlog, hand work to each other, and escalate to a human over Telegram. Multi-runtime (Claude Code, Codex, Grok, Antigravity, opencode).
 
 **[a0.dev](https://a0.dev/)** - An AI mobile app builder for iOS and Android applications.
