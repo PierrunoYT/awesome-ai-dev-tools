@@ -52,7 +52,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[aeon](https://github.com/aaronjmars/aeon)** - Autonomous agent framework that runs unattended on GitHub Actions; 90+ skills with quality scoring, self-healing, persistent memory, and reactive triggers.
 
-**[Agent Island](https://github.com/tristan666666/agent-island)** - Free, MIT-licensed native companion for Claude, Codex, Gemini, Grok, and Cursor, combining local session status, your-turn alerts, and provider usage views without an Agent Island account or product telemetry.
+**[Agent Island](https://github.com/tristan666666/agent-island)** - Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor, combining local session status, your-turn alerts, and provider usage views without an Agent Island account or product telemetry.
 
 **[agentbox](https://github.com/madarco/agentbox)** - Run multiple coding agents in parallel, each teleported into its own sandboxed box (local Docker or cloud VMs via Hetzner/Daytona/Vercel/E2B) with sub-1s checkpoint starts. Works with Claude Code, Codex, and OpenCode.
 
