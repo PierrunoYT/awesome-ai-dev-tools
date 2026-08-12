@@ -594,6 +594,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[mux](https://github.com/coder/mux)** - A desktop app for isolated, parallel agentic development.
 
+**[MyMCPTools](https://mymcptools.com/)** - A searchable directory of 2,726 MCP servers that also ships as an MCP server, so an agent can find a server and check that it is actually reachable before you wire it into a config. The 44 servers exposing a remote endpoint are re-probed for reachability, latency, and tool-schema drift; local/stdio entries are labelled unprobeable rather than given an invented uptime figure.
+
 **[nanobot](https://github.com/HKUDS/nanobot)** - Ultra-lightweight personal AI assistant.
 
 **[nanoclaw](https://github.com/gavrielc/nanoclaw)** - Lightweight alternative to OpenClaw that runs in Apple containers for security.
