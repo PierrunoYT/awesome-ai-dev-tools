@@ -746,6 +746,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[shire](https://github.com/victor36max/shire)** - Persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and full context preservation. Supports Claude Code, OpenCode, Pi Agent and more.
 
+**[Sillage](https://github.com/MarlBurroW/sillage)** - Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine (it replaces the terminal, not the agent). Sessions that outlive the client, full-text search across every conversation, an IDE panel (file explorer, editor, diffs, terminal), a board the agents read through its own MCP server, and an installable PWA with push. Single Docker container.
+
 **[skillfold](https://github.com/byronxlg/skillfold)** - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into agent skills for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf.
 
 **[Smol Developer](https://github.com/smol-ai/developer)** - A CLI agent that generates entire repositories from a prompt, using OpenAI and Anthropic.
