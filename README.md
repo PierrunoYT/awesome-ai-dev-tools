@@ -80,6 +80,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[AI2SQL](https://www.ai2sql.io/)** - An AI-powered SQL query builder that converts natural language descriptions into SQL queries and offers optimization.
 
+**[AI Badger](https://pvrlabs.xyz/aibadger)** - A local-first tool with CLI and VS Code workflows for extracting focused repository context for ChatGPT, Claude, Gemini, Grok, and other AI assistants without requiring provider API integration.
+
 **[AI Code Convert](https://aicodeconvert.com/)** - A web-based tool for translating code between programming languages using AI.
 
 **[AI Code Playground](https://aicodeplayground.com/)** - A web-based tool for refactoring and improving code quality with AI assistance.
