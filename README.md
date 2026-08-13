@@ -122,6 +122,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[assistant](https://github.com/kcosr/assistant)** - Panel-based personal assistant with a plugin architecture for productivity workflows.
 
+**[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** - A local-first CLI and TUI coding agent that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. Includes 56 built-in tools for browser, filesystem, git, memory, and vision, MCP support, a five-layer local memory system, and a React and ink terminal interface. Available for macOS, Linux, and Windows.
+
 **[Atomist](https://atomist.com/)** - A platform that enables automatic code modification and refactoring through "code transformations."
 
 **[Augment Code](https://www.augmentcode.com)** - An AI-powered developer platform for professional engineers and large codebases, with Auggie CLI for terminal-based coding, semantic codebase understanding, resumable sessions, sub-agents, and CI/CD integration.
