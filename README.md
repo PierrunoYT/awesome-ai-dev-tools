@@ -732,6 +732,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Safurai](https://www.safurai.com/)** - An AI coding assistant.
 
+**[SandBase CLI](https://github.com/sandbaseai/cli)** - An Apache-2.0 CLI and MCP bridge that connects 17+ coding-agent clients to a hosted catalog of 2,000+ models and APIs through six discovery and execution tools.
+
 **[scion](https://github.com/GoogleCloudPlatform/scion)** - Multi-agent orchestration testbed that runs AI agents in parallel isolated containers with separate workspaces, dynamic coordination, and normalized telemetry.
 
 **[SeaGOAT](https://kantord.github.io/SeaGOAT/latest/)** - A local semantic codebase search tool that uses vector embeddings for context-aware code search.
