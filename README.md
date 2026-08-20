@@ -76,6 +76,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[agenttrace](https://github.com/luoyuctl/agenttrace)** - A local-first TUI for inspecting AI coding agent sessions across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, Hermes, OpenCode, Kimi, and Copilot-style logs, surfacing cost, cache usage, failures, latency, anomalies, health gates, and diffs.
 
+**[aGiTrack](https://github.com/core-aix/agitrack)** - Terminal wrapper for Claude Code, Codex, and OpenCode that turns each agent turn into a git commit, recording the prompt, model, and token cost in the commit message, with a local dashboard over the resulting history.
+
 **[AGX](https://github.com/ramarlina/agx)** - Local-first agent orchestrator with parallel execution, wake-work-sleep checkpointing, and human-in-the-loop gates.
 
 **[AI2SQL](https://www.ai2sql.io/)** - An AI-powered SQL query builder that converts natural language descriptions into SQL queries and offers optimization.
