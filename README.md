@@ -782,6 +782,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Supacodes](https://www.supacodes.com)** - An AI tool for automating GitHub code documentation.
 
+**[Superagent](https://github.com/pungme/superagent-desktop)** - An open-source macOS desktop app that gives Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
+
 **[SuperAGI](https://superagi.com/)** - An open-source platform for building and managing LLM-based agents.
 
 **[Supermaven](https://supermaven.com/)** - A VS Code extension offering AI-powered autocomplete with a large 300,000-token context window.
