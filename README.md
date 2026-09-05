@@ -880,6 +880,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Wren AI](https://getwren.ai/oss)** - An open-source SQL AI Agent that allows users to get results and insights by asking questions without writing SQL.
 
+**[yylo](https://github.com/yylo-dev/yylo)** - An open-source MIT command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries, a dedicated branch/worktree per task, risk-based merge-queue review, and receipt-backed repository changes; installs from npm as @yylo/cli.
+
 **[zclaw](https://github.com/tnm/zclaw)** - The smallest possible AI personal assistant for ESP32.
 
 **[ZCode](https://zcode.z.ai/)** - Z.ai's AI coding environment for planning, coding, reviewing, and deploying with GLM-optimized agentic workflows and multi-agent collaboration.
