@@ -580,6 +580,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Mistral Vibe](https://mistral.ai/products/vibe)** - Mistral AI's terminal-native coding agent powered by Devstral models, with multi-file context, autonomous command execution, IDE integration, offline support, and custom subagents.
 
+**[Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)** - MIT-licensed MCP server for agent memory, backed by a hosted engine that re-ranks recall from reported outcomes rather than similarity alone, with one key shared across Claude Code, Cursor, VS Code, and ChatGPT.
+
 **[Morph Rift](https://github.com/morph-labs/rift)** - A VS Code extension that leverages an edge language model to assist with code and merge AI-generated code.
 
 **[multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun)** - Samurai-inspired tmux orchestrator with a shogun → karo → ashigaru hierarchy for running up to 10 parallel AI coding agents (Claude Code, Codex, Copilot, Kimi) with zero coordination API cost.
