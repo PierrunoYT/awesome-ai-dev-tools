@@ -734,6 +734,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[scion](https://github.com/GoogleCloudPlatform/scion)** - Multi-agent orchestration testbed that runs AI agents in parallel isolated containers with separate workspaces, dynamic coordination, and normalized telemetry.
 
+**[Screenpipe](https://screenpipe.com/)** - Searchable screen-text and audio history that gives coding agents context through MCP or a local API for recalling development work and drafting work summaries. Source-available under the Screenpipe Commercial License; raw history stays local by default, while configured cloud AI, transcription, sync, and integrations can send context off-device.
+
 **[SeaGOAT](https://kantord.github.io/SeaGOAT/latest/)** - A local semantic codebase search tool that uses vector embeddings for context-aware code search.
 
 **[Second.dev](https://www.second.dev/)** - A platform for adding features to full-stack applications using AI.
