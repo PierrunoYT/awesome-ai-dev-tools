@@ -14,6 +14,7 @@
 - [📚 Tools](#-tools)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 
 ## 🎯 About
 
