@@ -60,6 +60,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[agent-kanban](https://github.com/saltbo/agent-kanban)** - Agent-first kanban board with leader-worker model, cryptographic agent identity, and multi-runtime support (Claude Code, Codex, Gemini CLI).
 
+**[agent-manager](https://github.com/YoanWai/agent-manager)** - An Apache-2.0 terminal UI that runs installed coding-agent CLIs such as Claude Code and Codex side by side in persistent tmux sessions, with live status, optional per-session Git worktrees, and a diff review that sends line comments back to the agent.
+
 **[agent-of-empires](https://github.com/njbrake/agent-of-empires)** - A terminal session manager for AI coding agents on Linux and macOS.
 
 **[agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator)** - Agentic orchestrator for parallel coding agents.
