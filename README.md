@@ -462,6 +462,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[humanlayer](https://github.com/humanlayer/humanlayer)** - Get AI coding agents to solve hard problems in complex codebases.
 
+**[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** - Developer-alpha Rust knowledge store for coding-agent task handoffs and source-backed notes, with encrypted append-only records and scoped, expiring MCP access.
+
 **[IBM Bob](https://bob.ibm.com/)** - IBM's agentic development partner for IDE and terminal workflows, supporting code generation, modernization, security scanning, subagents, and CI/CD automation.
 
 **[IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z)** - An AI-powered mainframe application modernization product with code generation, discovery, and automated refactoring (COBOL to Java conversion).
