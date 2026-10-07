@@ -652,6 +652,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Orca](https://github.com/stablyai/orca)** - A worktree-native IDE for orchestrating multiple AI coding agents side-by-side, including Claude Code, Codex, Gemini, Cline, Cursor, and other CLI agents.
 
+**[OrcaCode Review](https://github.com/Continuum-AI-Corp/orca-code-review)** - A GitHub Action that reviews each pull request against a P0-P3 severity rubric, posts findings inline on the affected lines, and fails the check on P0/P1 so it acts as a merge gate. The reviewing model, the rubric, and the merge policy are configured outside the workflow YAML.
+
 **[ORCH](https://github.com/oxgeneral/ORCH)** - CLI runtime for managing Claude Code, Codex, and Cursor as typed agent teams with state machine, goals, and TUI.
 
 **[outsourcerer](https://github.com/alexgreensh/outsourcerer)** - Delegate coding grunt-work to other harnesses and models while your main session stays the orchestrator.
