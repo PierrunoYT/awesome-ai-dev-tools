@@ -646,6 +646,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[openkanban](https://github.com/techdufus/openkanban)** - TUI kanban board for orchestrating AI coding agents.
 
+**[Orbi](https://github.com/orbi-build/orbi)** - Open-source coding agent that takes labeled GitHub issues to reviewed pull requests, merges only what a separate review session approved, and cuts tagged releases.
+
 **[orc](https://github.com/spencermarx/orc)** - Hierarchical multi-agent orchestrator that coordinates AI coding agents through planning, task decomposition, isolated worktrees, and review pipelines.
 
 **[Orca](https://github.com/stablyai/orca)** - A worktree-native IDE for orchestrating multiple AI coding agents side-by-side, including Claude Code, Codex, Gemini, Cline, Cursor, and other CLI agents.
