@@ -128,7 +128,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[assistant](https://github.com/kcosr/assistant)** - Panel-based personal assistant with a plugin architecture for productivity workflows.
 
-**[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** - A local-first CLI and TUI coding agent that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. Includes 56 built-in tools for browser, filesystem, git, memory, and vision, MCP support, a five-layer local memory system, and a React and ink terminal interface. Available for macOS, Linux, and Windows.
+**[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** - A local-first CLI and TUI coding agent that runs open-weight models on your machine via llama.cpp, with no account or API key required, built-in tools, MCP support, and local memory.
 
 **[Atomist](https://atomist.com/)** - A platform that enables automatic code modification and refactoring through "code transformations."
 
@@ -608,7 +608,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[mux](https://github.com/coder/mux)** - A desktop app for isolated, parallel agentic development.
 
-**[MyMCPTools](https://mymcptools.com/)** - A searchable directory of 2,726 MCP servers that also ships as an MCP server, so an agent can find a server and check that it is actually reachable before you wire it into a config. The 44 servers exposing a remote endpoint are re-probed for reachability, latency, and tool-schema drift; local/stdio entries are labelled unprobeable rather than given an invented uptime figure.
+**[MyMCPTools](https://mymcptools.com/)** - A searchable directory of MCP servers, also available as an MCP server, with reachability and tool-schema drift checks for servers that expose a remote endpoint.
 
 **[nanobot](https://github.com/HKUDS/nanobot)** - Ultra-lightweight personal AI assistant.
 
@@ -667,6 +667,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[OrcaCode Review](https://github.com/Continuum-AI-Corp/orca-code-review)** - A GitHub Action that reviews each pull request against a P0-P3 severity rubric, posts findings inline on the affected lines, and fails the check on P0/P1 so it acts as a merge gate. The reviewing model, the rubric, and the merge policy are configured outside the workflow YAML.
 
 **[ORCH](https://github.com/oxgeneral/ORCH)** - CLI runtime for managing Claude Code, Codex, and Cursor as typed agent teams with state machine, goals, and TUI.
+
+**[Orkas](https://github.com/Orkas-AI/Orkas)** - Open-source, local-first desktop workspace that coordinates specialist agents and runs Claude Code, Codex, OpenCode, and Cline from one chat.
 
 **[outsourcerer](https://github.com/alexgreensh/outsourcerer)** - Delegate coding grunt-work to other harnesses and models while your main session stays the orchestrator.
 
@@ -774,7 +776,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[shire](https://github.com/victor36max/shire)** - Persistent workspaces for AI agent teams with inter-agent mailboxes, shared drive, and full context preservation. Supports Claude Code, OpenCode, Pi Agent and more.
 
-**[Sillage](https://github.com/MarlBurroW/sillage)** - Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine (it replaces the terminal, not the agent). Sessions that outlive the client, full-text search across every conversation, an IDE panel (file explorer, editor, diffs, terminal), a board the agents read through its own MCP server, and an installable PWA with push. Single Docker container.
+**[Sillage](https://github.com/MarlBurroW/sillage)** - Self-hosted, mobile-first web UI for driving the native Claude Code and Codex CLIs on your own machine, with persistent sessions, conversation search, an IDE panel, and an MCP-backed task board.
 
 **[skillfold](https://github.com/byronxlg/skillfold)** - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into agent skills for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf.
 
@@ -904,7 +906,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Wegic AI](https://wegic.ai/)** - An AI tool focused on creating prototypes and website designs.
 
-**[WeInc](https://we.inc)** - An AI website and app builder that generates full React + Vite + Tailwind sites from natural language prompts using WebContainers, with visual editing, custom domains, and white-label reselling.
+**[WeInc](https://we.inc)** - An AI website and app builder that generates React + Vite + Tailwind sites from natural language prompts using WebContainers, with visual editing and custom domains.
 
 **[What The Diff](https://whatthediff.ai/)** - An AI-powered app that reviews pull request diffs and writes descriptive comments about the changes in plain English.
 
