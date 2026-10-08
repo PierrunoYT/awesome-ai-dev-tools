@@ -121,6 +121,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[API Copilot](https://apicopilot.dev/)** - An AI assistant specifically tailored for backend API development.
 
+**[APIClaw](https://apiclaw.biz/)** - An OpenAI-compatible API gateway with flat monthly plans that lets Cursor, Claude Code, Codex CLI, Cline and other coding agents use Claude, GPT, DeepSeek, Qwen, Kimi and GLM models through one base URL.
+
 **[Applitools](https://applitools.com/)** - A visual AI testing platform that compares UI screenshots across environments, using AI to detect meaningful visual regressions.
 
 **[Appypie](https://www.appypie.com/ai-app-generator)** - An AI-powered mobile app generator for creating iOS and Android applications without coding.
