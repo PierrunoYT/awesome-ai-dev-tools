@@ -619,6 +619,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[MartinLoop](https://github.com/Keesan12/martin-loop)** - Control plane for AI coding agents with hard budget stops, verifier gates, rollback evidence, and inspectable run receipts.
 
+**[Massvai](https://massvai.com/)** - An AI app builder whose coding agent turns a prompt into a full-stack Next.js + TypeScript app with live preview, Supabase auth/database setup, GitHub sync, and one-click Vercel deployment; the generated code is exportable.
+
 **[Mastra Code](https://code.mastra.ai/)** - A terminal-based AI coding agent built on Mastra's agent and memory primitives, supporting thousands of AI models with Build, Plan, and Fast modes, MCP servers, and project-scoped thread persistence.
 
 **[Matter AI](https://matterai.dev)** - An open-source AI Code Reviewer designed to help engineering teams release code with confidence.
