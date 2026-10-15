@@ -159,6 +159,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Baz](https://baz.co/)** - An AI code review platform that analyzes pull requests with codebase context, flags breaking changes, and posts review comments.
 
+**[Beekeeper Studio](https://www.beekeeperstudio.io/)** - A cross-platform database manager with AI Shell, an AI SQL assistant that answers natural-language questions by exploring the schema and writing queries, using your own LLM API key and requiring approval before any SQL runs (AI Shell is in the paid tiers).
+
 **[bernstein](https://github.com/chernistry/bernstein)** - Deterministic orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits. Zero LLM tokens on coordination.
 
 **[BitBuilder](https://www.bitbuilder.ai/)** - A GitHub integration for generating pull requests directly from issues using AI.
