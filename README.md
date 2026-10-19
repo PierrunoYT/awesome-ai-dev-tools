@@ -1017,6 +1017,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Wren AI](https://getwren.ai/oss)** - An open-source SQL AI Agent that allows users to get results and insights by asking questions without writing SQL.
 
+**[Yap](https://yapapp.cc/voice-coding)** - Desktop voice dictation app for Mac and Windows that types into Claude Code, Codex, Cursor and any terminal, with on-device speech recognition in 25 European languages. Closed source; paid after a free start.
+
 **[yylo](https://github.com/yylo-dev/yylo)** - An open-source MIT command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries, a dedicated branch/worktree per task, risk-based merge-queue review, and receipt-backed repository changes; installs from npm as @yylo/cli.
 
 **[zclaw](https://github.com/tnm/zclaw)** - The smallest possible AI personal assistant for ESP32.
