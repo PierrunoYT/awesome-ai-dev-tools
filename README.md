@@ -885,6 +885,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Spec Kit](https://github.com/github/spec-kit)** - GitHub's open-source toolkit for spec-driven development, guiding coding agents from specification to plan, tasks, and implementation.
 
+**[Sqwakie](https://sqwakie.si/?utm_source=awesome-ai-dev-tools&utm_medium=listing)** - One live dashboard and peer-to-peer messaging (CLI or MCP) for the Claude Code and Codex agents running across a team's machines, with project kanbans whose cards agents can start, review, and finish.
+
 **[SQLAI.ai](https://www.sqlai.ai/)** - An AI tool for SQL query generation, optimization, and explanation, with the ability to train on database schemas.
 
 **[Srcbook](https://srcbook.com/)** - A TypeScript-centric app development platform with an AI app builder and TypeScript notebook.
@@ -1095,6 +1097,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [Sculptor](https://github.com/imbue-ai/sculptor) - Run parallel Claude Code agents in isolated containers with a pairing mode for local sync.
 - [Sillage](https://github.com/MarlBurroW/sillage) - Self-hosted, mobile-first web UI for driving Claude Code and Codex sessions on your own machine.
 - [sortie](https://github.com/sortie-ai/sortie) - Turns issue tracker tickets into autonomous coding agent sessions.
+- [Sqwakie](https://sqwakie.si/?utm_source=awesome-ai-dev-tools&utm_medium=listing) - Shared live dashboard and agent-to-agent messaging for Claude Code and Codex agents across a team's machines, with agent-workable kanbans.
 - [subtask](https://github.com/zippoxer/subtask) - Claude Skill to do tasks with subagents in Git worktrees.
 - [supacode](https://github.com/supabitapp/supacode) - Native macOS coding agent orchestrator.
 - [superset](https://github.com/superset-sh/superset) - Terminal built for coding agents.
