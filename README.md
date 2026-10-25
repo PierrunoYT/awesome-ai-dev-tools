@@ -725,6 +725,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[openkanban](https://github.com/techdufus/openkanban)** - TUI kanban board for orchestrating AI coding agents.
 
+**[Open Walnut](https://github.com/EvanZhang008/open-walnut)** - Self-hosted web console for Claude Code on your laptop and remote dev boxes; a daemon on each machine owns the `claude` processes, so sessions keep running when SSH drops (no tmux), and one browser page (phone too) shows every session and which ones wait for you, with a per-session diff. Also runs Codex, OpenCode, and Goose on the local machine over ACP. MIT.
+
 **[Orbi](https://github.com/orbi-build/orbi)** - Open-source coding agent that takes labeled GitHub issues to reviewed pull requests, merges only what a separate review session approved, and cuts tagged releases.
 
 **[orc](https://github.com/spencermarx/orc)** - Hierarchical multi-agent orchestrator that coordinates AI coding agents through planning, task decomposition, isolated worktrees, and review pipelines.
@@ -1088,6 +1090,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [multica](https://github.com/multica-ai/multica) - Agent-first kanban board with multi-runtime support.
 - [nimbalyst](https://github.com/nimbalyst/nimbalyst) - Open-source visual workspace for building with Codex and Claude Code, including parallel sessions, git worktrees, kanban, and visual editing.
 - [openkanban](https://github.com/techdufus/openkanban) - TUI kanban board for orchestrating AI coding agents.
+- [Open Walnut](https://github.com/EvanZhang008/open-walnut) - Self-hosted web console for Claude Code on your laptop and remote dev boxes, with a daemon per machine that keeps sessions running when SSH drops, one page for every session, and a per-session diff.
 - [Orbi](https://github.com/orbi-build/orbi) - Takes labeled GitHub issues to reviewed pull requests in isolated worktrees, merges only reviewed changes, and cuts tagged releases.
 - [Orca](https://github.com/stablyai/orca) - IDE for running multiple CLI coding agents side-by-side across isolated git worktrees.
 - [parallel-code](https://github.com/johannesjo/parallel-code) - Desktop app for orchestrating multiple AI coding agents simultaneously in isolated git worktrees with a built-in diff viewer and one-click merge.
