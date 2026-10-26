@@ -1091,6 +1091,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [Orbi](https://github.com/orbi-build/orbi) - Takes labeled GitHub issues to reviewed pull requests in isolated worktrees, merges only reviewed changes, and cuts tagged releases.
 - [Orca](https://github.com/stablyai/orca) - IDE for running multiple CLI coding agents side-by-side across isolated git worktrees.
 - [parallel-code](https://github.com/johannesjo/parallel-code) - Desktop app for orchestrating multiple AI coding agents simultaneously in isolated git worktrees with a built-in diff viewer and one-click merge.
+- [pohunek](https://github.com/zajca/pohunek) - Per-machine daemon that keeps Codex, Claude Code, and Hermes Agent sessions alive across disconnects, shows whether each is working, blocked, or idle, and has a JSON CLI so agents can drive other sessions.
 - [Proliferate](https://github.com/proliferate-ai/proliferate) - Open-source local and cloud agent IDE for running Claude Code, Codex, Gemini CLI, and other coding agents in parallel across isolated workspaces.
 - [Sculptor](https://github.com/imbue-ai/sculptor) - Run parallel Claude Code agents in isolated containers with a pairing mode for local sync.
 - [Sillage](https://github.com/MarlBurroW/sillage) - Self-hosted, mobile-first web UI for driving Claude Code and Codex sessions on your own machine.
