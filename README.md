@@ -961,7 +961,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Trag](https://usetrag.com/)** - An AI-powered code review tool with customizable patterns and pre-defined instructions.
 
-**[Traycer](https://traycer.ai)** - A VS Code extension for intelligent code change management with real-time analysis and automated reviews.
+**[Traycer](https://traycer.ai/)** - Open-source desktop app that runs Claude Code, Codex and more than a dozen other coding agents in parallel, with shared context, agent-to-agent loops and team boards.
 
 **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** - Local-first memory lifecycle framework for AI coding agents with Rust CLI/TUI, SQLite/FTS recall, forgetting, audit, and adapter hooks.
 
