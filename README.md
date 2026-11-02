@@ -92,6 +92,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Cursor](https://cursor.sh/)** - An AI-first code editor and CLI built on a VS Code fork, deeply integrating AI features like codebase-aware chat, terminal agents, code generation, debugging assistance, and automated code migration.
 
+**[Cyrus](https://github.com/cyrusagents/cyrus)** - An open-source (Apache-2.0) background agent that works on Linear, Slack, GitHub, and GitLab tasks, using Claude Code, Codex, Cursor, Gemini, or OpenCode, and that you deploy on your own infrastructure.
+
 **[Deep Agents CLI](https://docs.langchain.com/oss/python/deepagents/cli)** - LangChain's open-source terminal coding agent built on the Deep Agents SDK, with file editing, shell execution, task planning, persistent memory, sub-agents, MCP tools, and human-in-the-loop approvals.
 
 **[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)** - DeepSeek's open-source, MIT-licensed terminal coding agent (`dsh`) where everything is a plugin.
@@ -204,6 +206,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Nanocoder](https://github.com/Nano-Collective/nanocoder)** - A local-first, open-source terminal coding agent with interactive and non-interactive modes, multi-provider support, local model support, and community-driven development.
 
+**[Ona](https://ona.com/)** - Runs background coding agents in the cloud as a team of AI software engineers, with orchestration, governance, and kernel-level isolation.
+
 **[Onuro AI](https://www.onuro.ai/)** - A leading AI-powered code editor.
 
 **[OpenAI Codex](https://openai.com/blog/openai-codex)** - The underlying model powering many AI coding tools, designed for code generation and understanding.
@@ -281,6 +285,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 **[Tabnine](https://www.tabnine.com/)** - An AI code completion assistant that emphasizes privacy, offering local models and custom training on your codebase.
 
 **[talk-codebase](https://github.com/rsaryev/talk-codebase)** - A CLI chatbot that uses repository context with OpenAI or local LLMs.
+
+**[Tembo](https://www.tembo.io/)** - Runs any coding agent in the cloud, giving each change its own computer and tracking agent work and merged results with Tembo Insights.
 
 **[Theia IDE](https://theia-ide.org/#theiaide)** - An extensible open-source IDE (web and desktop) with Theia Coder, an AI-powered coding agent that can browse workspaces, propose code changes, and automatically detect and fix issues, with Edit Mode and Agent Mode options.
 
