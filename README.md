@@ -64,6 +64,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Buildt](https://www.buildt.ai/)** - A tool for natural language search across repositories (currently waitlisted).
 
+**[cecli](https://github.com/cecli-dev/cecli)** - A community fork of Aider (formerly `aider-ce`) that keeps the git-integrated pair-programming CLI in active development, adding extensibility and customization hooks.
+
 **[ChatIDE](https://github.com/yagil/ChatIDE)** - A VSCode extension that allows you to chat with ChatGPT directly within the editor.
 
 **[Claude Code](https://code.claude.com/)** - Anthropic's official agentic CLI coding tool that runs in your terminal, understands your codebase, and executes multi-step tasks through natural language. Supports VS Code and JetBrains IDE integration, GitHub/GitLab workflows, MCP servers, and multi-agent orchestration.
@@ -118,6 +120,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Editor.do](https://editor.do/)** - A leading AI-powered code editor.
 
+**[Empryo](https://github.com/proxysoul/Empryo)** - A coding harness for terminal, desktop, and CI that maps the repository before editing, edits by symbol through AST and LSP, then runs typecheck, lint, and tests. Works with many providers or existing ChatGPT, Copilot, and Gemini plans. Source-available (BUSL-1.1), not OSI open source.
+
 **[Every Code](https://github.com/just-every/code)** - A fork of the Codex CLI with validation, browser integration, and multi-agent orchestration across OpenAI, Claude, Gemini, and other providers.
 
 **[Factory](https://www.factory.ai/)** - An AI-powered platform for code generation agents, including Droid CLI for terminal-based development workflows, codebase understanding, automation, and CI/CD integration.
@@ -157,6 +161,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 **[Goose](https://github.com/aaif-goose/goose)** - An open-source, extensible AI agent by Block/AAIF that runs locally as a CLI or desktop app, automating coding tasks with support for 100+ LLM providers and MCP extensions for GitHub, databases, and other services.
 
 **[GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer)** - An open-source CLI agent that aims to generate entire codebases from a high-level prompt, asking clarifying questions as needed.
+
+**[gptme](https://github.com/gptme/gptme)** - An open-source terminal agent that writes code, edits files, runs shell commands, and browses the web, with support for building persistent autonomous agents with git-backed memory.
 
 **[Greptile](https://greptile.com/)** - A tool for natural language search across repositories and an AI code review bot for GitHub/GitLab.
 
@@ -218,6 +224,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Niteshift](https://niteshift.dev/)** - A cloud for coding agents that gives Claude Code, Codex, OpenCode, Pi, and others a real environment to run and verify work, and returns a pull request with evidence that it works.
 
+**[Oh My Pi](https://omp.sh)** - A terminal coding agent with the IDE wired in, built by Stencil Labs. Open source (MIT).
+
 **[Ona](https://ona.com/)** - Runs background coding agents in the cloud as a team of AI software engineers, with orchestration, governance, and kernel-level isolation.
 
 **[Onuro AI](https://www.onuro.ai/)** - A leading AI-powered code editor.
@@ -238,6 +246,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Open Interpreter](https://openinterpreter.com/)** - An open-source coding agent for open models.
 
+**[OpenSquilla](https://github.com/opensquilla/opensquilla)** - A self-hostable agent runtime with a CLI (chat REPL and one-shot mode) that edits files, runs shell commands, and uses git tools. Includes tier-based model routing, sandboxing, persistent memory, and 20+ providers.
+
 **[PearAI](https://trypear.ai/)** - An open-source fork of VS Code with integrated chat and inline code generation capabilities.
 
 **[Pi Agent IDE](https://github.com/alexshpunt/pi-agent-ide)** - An agent-native IDE extension for Pi with guarded editing, AST/LSP navigation, persistent terminals, debugging, visual inspection, diagnostics, undo, and progressive capability guides through one unified tool interface.
@@ -252,11 +262,15 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[PoorCoder](https://github.com/vgrichina/poorcoder)** - A collection of Bash scripts that assist coding using AI apps like Claude and ChatGPT, by extracting code context and generating AI commit messages.
 
+**[Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent)** - A self-improving terminal coding agent from Prime Intellect where a persistent IPython kernel is the model's only tool, so file edits, shell commands, and subagents all run as Python. Keeps memories, skills, and subagent specs as durable state, with daemon-backed sessions that survive terminal disconnects.
+
 **[Project IDX](https://idx.dev)** - Google's cloud-based IDE with Gemini AI integration, built on VS Code core, offering multi-framework and multiplatform support.
 
 **[PromptMate](https://github.com/MateusZitelli/PromptMate)** - A VSCode extension that embeds ChatGPT for coding assistance.
 
 **[PyCharm](https://www.jetbrains.com/pycharm/)** - A popular IDE for Python development that includes intelligent code assistance features, now enhanced with JetBrains AI.
+
+**[Pydantic Deep Agents](https://github.com/vstorm-co/pydantic-deepagents)** - A terminal coding agent built on Pydantic AI that edits files, runs shell commands, plans, delegates to sub-agents, and connects to MCP servers. Works with any model, including local ones through Ollama, with optional Docker-sandboxed execution; also available as a Python library.
 
 **[Pythagora](https://www.pythagora.ai)** - A VS Code extension for natural language app development, featuring a multi-agent architecture and autonomous deployment capabilities.
 
@@ -265,6 +279,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 **[Qodo AI](https://www.qodo.ai)** - A quality-focused generative AI coding platform (formerly Codium) with specialized agents for code generation, test coverage, and merge assistance.
 
 **[Qwen Code](https://github.com/QwenLM/qwen-code)** - An open-source terminal AI coding agent optimized for Qwen models, with multi-provider support, built-in tools, skills, sub-agents, and IDE integrations.
+
+**[Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** - A Go coding agent distributed as a single binary, built for long unattended runs. Use it from the terminal, a desktop app, a browser, or an editor over ACP, with configurable providers, plan mode, MCP, a workspace sandbox, and per-turn checkpoints.
 
 **[Refact.ai](https://refact.ai/)** - An open-source AI coding assistant using the Qwen2.5-Coder model with Retrieval-Augmented Generation (RAG) for context-aware code completion and refactoring.
 
@@ -308,6 +324,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Theia IDE](https://theia-ide.org/#theiaide)** - An extensible open-source IDE (web and desktop) with Theia Coder, an AI-powered coding agent that can browse workspaces, propose code changes, and automatically detect and fix issues, with Edit Mode and Agent Mode options.
 
+**[Tianshu Harness](https://github.com/huiliyi37/Tianshu-harness)** - A TypeScript coding-agent runtime with one kernel for a terminal TUI and a desktop GUI. It tracks goals, evidence, and completion so a model's claim of "done" is not taken at face value, and supports multi-agent orchestration.
+
 **[Tongyi Lingma](https://lingma.aliyun.com/)** - Alibaba Cloud's AI coding assistant with inline code completion, multi-file editing, and an agent mode that plans tasks and uses search and terminal tools. Available as a plugin for VS Code, Visual Studio, and JetBrains IDEs, and as the standalone Lingma IDE; free for individuals.
 
 **[Trae](https://www.trae.ai/)** - ByteDance's AI-powered IDE with GPT-4 and Claude integration, featuring Builder and Chat modes.
@@ -325,6 +343,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 **[Volt](https://github.com/LeulAria/volt)** - An open-source agentic workspace built on the VS Code core that runs Claude Code, Codex, and other ACP agents or local Ollama models, with plan mode, subagents, MCP, Git checkpoints, and hunk-level review of agent edits.
 
 **[Vorflux](https://vorflux.com/)** - Cloud agents that run the full software development lifecycle on dedicated machines and ship production code.
+
+**[VT Code](https://github.com/vinhnx/vtcode)** - An open-source Rust terminal coding agent with multi-provider LLM support, automatic failover, context management, and shell safety controls.
 
 **[Warp](https://www.warp.dev/)** - A modern terminal emulator with AI command assistance, block-based organization, and team collaboration features.
 
