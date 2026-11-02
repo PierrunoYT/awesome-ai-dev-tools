@@ -224,8 +224,6 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[PearAI](https://trypear.ai/)** - An open-source fork of VS Code with integrated chat and inline code generation capabilities.
 
-**[Phind](https://www.phind.com/)** - An AI search engine specifically designed for developers, providing direct answers to technical questions with code examples.
-
 **[Pi Agent IDE](https://github.com/alexshpunt/pi-agent-ide)** - An agent-native IDE extension for Pi with guarded editing, AST/LSP navigation, persistent terminals, debugging, visual inspection, diagnostics, undo, and progressive capability guides through one unified tool interface.
 
 **[Pi Coding Agent](https://pi.dev/)** - A minimal, extensible terminal coding agent with multi-provider model support, tree-structured sessions, TypeScript extensions, skills, prompt templates, and scripting or SDK modes.
