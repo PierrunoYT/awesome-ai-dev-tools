@@ -86,7 +86,7 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Continue](https://continue.dev/)** - An open-source autopilot for software development that integrates with VS Code and JetBrains, allowing customizable LLM integration for code generation, editing, and debugging.
 
-**[Cosine](https://ai.cosine.sh/)** - An AI code search assistant.
+**[Cosine](https://cosine.sh/)** - Trains AI models and specialized coding agents for organizations that need frontier capability within secure environments.
 
 **[Crush](https://github.com/charmbracelet/crush)** - A terminal-based AI coding assistant by Charmbracelet that brings agentic AI capabilities directly to your command line, supporting multiple LLMs, LSP integration, Model Context Protocol (MCP) servers, and cross-platform compatibility.
 
