@@ -26,8 +26,6 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 - **Open-Source & Self-Hosted Options**: Local and bring-your-own-model coding tools
 - **Codebase Understanding**: Chat, search, and explanation tools for working in large repositories
 
-Looking for orchestrators, MCP servers and skills, app builders, code review and testing tools, or personal assistants? See [More AI Development Tools](OTHER_TOOLS.md).
-
 ## 📚 Tools
 
 > **📝 Note**: All tools are organized alphabetically for easy navigation. Each entry includes a brief description and key features.
@@ -326,7 +324,7 @@ Looking for orchestrators, MCP servers and skills, app builders, code review and
 
 Contributions are welcome, but please follow these guidelines to keep the list useful and easy to maintain:
 
-- Submit AI coding agents, CLIs, editors, IDEs, and code assistants. Orchestrators, MCP servers and skills, app builders, code review and testing tools, and personal assistants belong in [OTHER_TOOLS.md](OTHER_TOOLS.md).
+- Submit AI coding agents, CLIs, editors, IDEs, and code assistants. Orchestrators, MCP servers and skills, app builders, code review and testing tools, and personal assistants are out of scope for this list.
 - Add new tools in alphabetical order using the existing format: `**[Tool Name](https://example.com/)** - Brief description.`
 - Keep descriptions concise, neutral, and focused on concrete developer-facing capabilities.
 - Include an official website, documentation page, or public repository link.
