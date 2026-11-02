@@ -206,8 +206,6 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Nanocoder](https://github.com/Nano-Collective/nanocoder)** - A local-first, open-source terminal coding agent with interactive and non-interactive modes, multi-provider support, local model support, and community-driven development.
 
-**[Onboard](https://www.getonboardai.com)** - An AI chat platform that allows users to chat with AI about public and private codebases.
-
 **[Onuro AI](https://www.onuro.ai/)** - A leading AI-powered code editor.
 
 **[OpenAI Codex](https://openai.com/blog/openai-codex)** - The underlying model powering many AI coding tools, designed for code generation and understanding.
