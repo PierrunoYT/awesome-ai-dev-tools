@@ -83,6 +83,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[AGX](https://github.com/ramarlina/agx)** - Local-first agent orchestrator with parallel execution, wake-work-sleep checkpointing, and human-in-the-loop gates.
 
+**[agy-powerline](https://github.com/wassim-azi/agy-powerline)** - Fast, configurable statusline for Google Antigravity CLI (`agy`) with live Gemini 5h/7d quota meters, pace markers, context usage, and interactive TUI editor.
+
 **[AI2SQL](https://www.ai2sql.io/)** - An AI-powered SQL query builder that converts natural language descriptions into SQL queries and offers optimization.
 
 **[AI Badger](https://pvrlabs.xyz/aibadger)** - A local-first tool with CLI and VS Code workflows for extracting focused repository context for ChatGPT, Claude, Gemini, Grok, and other AI assistants without requiring provider API integration.
