@@ -581,6 +581,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Mabl](https://www.mabl.com/)** - An intelligent test automation platform with self-healing tests, designed to reduce test flakiness and maintenance effort.
 
+**[Macaly](https://www.macaly.com/)** - An AI platform that turns a prompt into a live website or web app, aimed at founders and small businesses.
+
 **[Mage](https://usemage.ai/)** - A full-stack web app generator that creates applications in Wasp, React, Node.js, and Prisma.
 
 **[Magic Patterns](https://www.magicpatterns.com/)** - A comprehensive UI prototyping tool with a Chrome extension and Figma plugin for generating UI from prompts, images, or design inspiration.
@@ -785,6 +787,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Rapidpages](https://www.rapidpages.io/)** - An open-source UI generator for rapid web interface creation.
 
+**[Readdy](https://readdy.ai/)** - An AI website builder that generates functional sites with a backend, templates, SEO tools, and hosting in one workflow.
+
 **[README-AI](https://github.com/eli64s/readme-ai)** - An automated README.md file generator powered by large language model APIs.
 
 **[Refact.ai](https://refact.ai/)** - An open-source AI coding assistant using the Qwen2.5-Coder model with Retrieval-Augmented Generation (RAG) for context-aware code completion and refactoring.
@@ -804,6 +808,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Repowise](https://github.com/repowise-dev/repowise)** - An open-source codebase intelligence tool for AI coding agents that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
 
 **[rho](https://github.com/mikeyobrien/rho)** - An AI agent that stays running, remembers across sessions, and checks in on its own.
+
+**[Rocket](https://www.rocket.new/)** - An AI app builder that researches the market, recommends what to build, and generates production-ready code.
 
 **[Roo Code](https://github.com/RooVetGit/Roo-Code)** - A VS Code extension with natural language interaction, multi-provider support, and specialized coding modes.
 
@@ -947,6 +953,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Trelent](https://trelent.net/)** - A VS Code extension for generating docstrings using proprietary AI models.
 
+**[Trickle](https://trickle.so/)** - An AI agentic canvas for vibe coding with built-in image and video generation, models, database, and design for building and launching apps and websites.
+
 **[Tusk](https://usetusk.ai/)** - An AI test generation tool that writes unit and integration tests for pull requests and catches edge cases before merge.
 
 **[tutti](https://github.com/nutthouse/tutti)** - Multi-agent orchestration CLI with config-driven workflows, git worktree isolation, and typed artifact flow between agents.
@@ -963,6 +971,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[v0.dev](https://v0.dev/)** - Vercel's AI-powered tool for generating React components from text descriptions, using shadcn/ui components.
 
+**[Vibecode](https://www.vibecodeapp.com/)** - An AI app builder that turns a described idea into a native iPhone, Android, or web app you can publish to the App Store.
+
 **[vibecraft](https://github.com/rayzhudev/vibecraft)** - An RTS-style workspace for managing AI coding agents.
 
 **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)** - Kanban board for managing AI coding agents.
@@ -970,6 +980,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** - Vibe code with Claude in parallel git worktrees.
 
 **[Visual Copilot](https://www.builder.io/m/design-to-code)** - A Figma plugin for multi-framework code generation.
+
+**[Vitara](https://vitara.ai/)** - An AI-powered vibe coding platform for building, deploying, and scaling software products through a chat interface.
 
 **[Void](https://voideditor.com/)** - An open-source AI-powered code editor with local model hosting support.
 
@@ -1018,6 +1030,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)** - Fast, small, and fully autonomous AI assistant infrastructure.
 
 **[ZeroPath](https://zeropath.com/)** - An AI-native application security scanner that finds logic flaws, auth issues, and vulnerabilities, and generates patches.
+
+**[Zite](https://zite.com/)** - An AI builder for creating apps, workflows, and databases for teams from a plain-language description.
 
 **[ZZZ Code AI](https://zzzcode.ai/)** - An AI code assistant.
 
