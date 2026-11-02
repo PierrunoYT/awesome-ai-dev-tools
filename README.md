@@ -185,10 +185,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Callstack.ai Code Reviewer](https://callstack.ai/code-reviewer)** - An AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.
 
-**[cashclaw](https://github.com/moltlaunch/cashclaw)** - An autonomous agent that takes work, does work, gets paid, and gets better at it.
-
-**[CensusGPT](https://censusgpt.com/)** - An AI-powered search tool for census data.
-
 **[centaur](https://github.com/paradigmxyz/centaur)** - Self-hosted team agent platform with Slack-native conversations, Kubernetes sandboxes, shared tools, and durable workflows.
 
 **[Cezar](https://github.com/open-mercato/cezar)** - Open-source orchestrator and agentic development environment for running Claude Code, Codex, OpenCode, Pi and other coding agents in parallel, locally or on your own server.
@@ -353,8 +349,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[DemoGPT](https://github.com/melih-unsal/DemoGPT)** - An auto Gen-AI App Generator powered by Llama 2 for building applications.
 
-**[denchclaw](https://github.com/DenchHQ/denchclaw)** - Managed OpenClaw framework for CRM, sales automation, and outreach agents.
-
 **[Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP)** - An MCP server that gives Claude and other agents terminal control, file system search, and diff-based file editing.
 
 **[DevAssure](https://devassure.io/)** - A code-aware autonomous testing agent that maps code changes to impacted tests and runs targeted validation from VS Code, Cursor, CLI, and CI workflows.
@@ -460,8 +454,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[GitLab Duo](https://about.gitlab.com/gitlab-duo/)** - GitLab's suite of AI capabilities integrated across the software development lifecycle, including code suggestions, issue summarization, and vulnerability explanation.
 
 **[GitWit](https://gitwit.dev/)** - A web-based editor for building ReactJS applications with AI assistance.
-
-**[Glean](https://www.glean.com/)** - An enterprise search platform with AI capabilities that indexes code repositories and other company knowledge, allowing natural language queries for relevant code and documentation.
 
 **[Glowbom](https://glowbom.com/)** - A multi-platform app generator that uses AI to create applications for both mobile and web.
 
@@ -660,8 +652,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[MiniMax Code](https://code.minimax.io/)** - MiniMax's coding harness for building agent teams, learning developer habits, and turning repetitive engineering tasks into reusable skills.
 
 **[Mintlify](https://mintlify.com/)** - An AI-powered documentation generation and maintenance platform for creating beautiful and functional documentation.
-
-**[MiroShark](https://github.com/aaronjmars/MiroShark)** - Swarm-intelligence engine where hundreds of grounded LLM personas coordinate across simulated Twitter, Reddit, and a prediction market to model how a population reacts to a scenario hour-by-hour. Neo4j-grounded personas, per-agent belief state, counterfactual branching, and per-agent MCP tools.
 
 **[Mistral Vibe](https://mistral.ai/products/vibe)** - Mistral AI's terminal-native coding agent powered by Devstral models, with multi-file context, autonomous command execution, IDE integration, offline support, and custom subagents.
 
@@ -879,8 +869,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Serena](https://github.com/oraios/serena)** - An open-source coding agent toolkit that gives LLMs semantic, LSP-based code retrieval and editing tools through MCP.
 
-**[Shadcn](https://ui.shadcn.com/)** - A popular UI component library, often used with AI-generated code.
-
 **[Shell GPT](https://github.com/TheR1D/shell_gpt)** - A command-line productivity tool that uses LLMs to generate shell commands, code snippets, and answers from the terminal.
 
 **[Shell Whiz](https://github.com/beimzhan/shell-whiz)** - A highly configurable CLI assistant for generating and explaining shell commands.
@@ -984,8 +972,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[tmux-ide](https://github.com/wavyrai/tmux-ide)** - Tmux-powered terminal IDE with `ide.yml` layouts, agent-team templates, and Claude Code integration.
 
 **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** - Context and token-cost optimizer for coding agents that finds wasted tokens, survives compaction, and fights context-quality decay across Claude Code, Codex, OpenCode, and OpenClaw.
-
-**[toprank](https://github.com/nowork-studio/toprank)** - An open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.
 
 **[toryo](https://github.com/JesseRWeigel/toryo)** - Intelligent agent orchestrator with trust-based delegation, quality ratcheting (git commit/revert), and Ralph Loop retries. Chains Claude Code, Aider, Gemini CLI, Ollama.
 
@@ -1161,10 +1147,8 @@ AI assistants that bridge to messaging platforms and other interfaces.
 - [aeon](https://github.com/aaronjmars/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, with skills, quality scoring, self-healing, persistent memory, and reactive triggers.
 - [assistant](https://github.com/kcosr/assistant) - Panel-based personal assistant with a plugin architecture for productivity workflows.
 - [babyagi3](https://github.com/yoheinakajima/babyagi3) - Minimal AI agent you configure once, then run through natural language.
-- [cashclaw](https://github.com/moltlaunch/cashclaw) - Autonomous agent that takes work, does work, gets paid, and gets better at it.
 - [ClawWork](https://github.com/HKUDS/ClawWork) - OpenClaw as your AI coworker.
 - [CoPaw](https://github.com/agentscope-ai/CoPaw) - Personal AI assistant.
-- [denchclaw](https://github.com/DenchHQ/denchclaw) - Managed OpenClaw framework for CRM, sales automation, and outreach agents.
 - [ghostclaw](https://github.com/b1rdmania/ghostclaw) - AI agent that lives on your computer and works for you.
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - Agent that grows with you.
 - [ironclaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired implementation in Rust focused on privacy and security.
@@ -1210,7 +1194,6 @@ Systems for coordinating multiple specialized agents working together.
 - [kodo](https://github.com/ikamensh/kodo) - Autonomous multi-agent coding orchestrator that directs Claude Code, Codex, and Gemini CLI agents through work cycles with independent verification.
 - [loki-mode](https://github.com/asklokesh/loki-mode) - Autonomous SDLC orchestrator with specialized agents, swarms, quality gates, blind code review, and multi-provider support.
 - [loom](https://github.com/ghuntley/loom) - Infrastructure for evolutionary software where autonomous loops evolve products.
-- [MiroShark](https://github.com/aaronjmars/MiroShark) - Swarm-intelligence engine where grounded LLM personas coordinate across simulated social platforms and a prediction market.
 - [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired tmux orchestrator for running up to 10 parallel AI coding agents with zero coordination API cost.
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System.
 - [opengoat](https://github.com/marian2js/opengoat) - Build AI autonomous organizations of OpenClaw agents.
