@@ -47,13 +47,9 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[accomplish](https://github.com/accomplish-ai/accomplish)** - Open source AI coworker that lives on your desktop.
 
-**[Adoc AI](https://github.com/Nav_zlotoklos/adoc-ai)** - An open-source experiment that uses AI to generate documentation in AsciiDoc format from source code.
-
 **[Adrenaline](https://useadrenaline.com/)** - A web-based AI-powered debugging assistant and chatbot that analyzes code, error messages, and stack traces to suggest fixes.
 
 **[aeon](https://github.com/aaronjmars/aeon)** - Autonomous agent framework that runs unattended on GitHub Actions; 90+ skills with quality scoring, self-healing, persistent memory, and reactive triggers.
-
-**[Agent Island](https://github.com/tristan666666/agent-island)** - Open-source status companion for Claude Code and Codex on macOS and Windows, with live session state, your-turn alerts, and local monitoring without an Agent Island account or product telemetry.
 
 **[agentbox](https://github.com/madarco/agentbox)** - Run multiple coding agents in parallel, each teleported into its own sandboxed box (local Docker or cloud VMs via Hetzner/Daytona/Vercel/E2B) with sub-1s checkpoint starts. Works with Claude Code, Codex, and OpenCode.
 
@@ -70,8 +66,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[agent-qa](https://github.com/vostride/agent-qa)** - A self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
 
 **[agentskill.sh](https://agentskill.sh)** - A directory of 44k+ skills for Claude Code, Cursor, and Codex with two-layer security scanning and one-command installation via the `/learn` skill.
-
-**[agentsmesh](https://github.com/AgentsMesh/AgentsMesh)** - The AI Agent Workforce Platform. Spin up remote AI workstations (AgentPods) with PTY sandboxes and git worktree isolation, coordinate multi-agent collaboration across channels and pod bindings, and manage tasks with a built-in Kanban. Self-hostable with BYOK. Supports Claude Code, Codex CLI, Gemini CLI, Aider, and OpenCode.
 
 **[Agent Teams](https://github.com/777genius/agent-teams-ai)** - Desktop app where you give high-level commands to autonomous AI agent teams across Claude, Codex, and OpenCode, and agents handle the work themselves with inter-agent messaging, Kanban task management, and built-in code review. Supports 200+ models and 75+ LLM providers.
 
@@ -121,8 +115,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Aperant](https://github.com/AndyMik90/Aperant)** - Autonomous multi-session AI coding.
 
-**[API Copilot](https://apicopilot.dev/)** - An AI assistant specifically tailored for backend API development.
-
 **[Applitools](https://applitools.com/)** - A visual AI testing platform that compares UI screenshots across environments, using AI to detect meaningful visual regressions.
 
 **[AppWizzy](https://appwizzy.com/)** - An AI web app builder with dedicated cloud development VMs, runtime templates, and Git-based source editing.
@@ -131,13 +123,9 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Archon](https://archon.diy/)** - An open-source harness builder for AI coding that makes agent workflows deterministic and repeatable.
 
-**[ariana](https://github.com/ariana-dot-dev/ariana)** - The IDE of the future.
-
 **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** - An open-source LLM observability and evaluation tool for tracing, debugging, and testing AI applications, built on OpenTelemetry.
 
 **[AskCodi](https://www.askcodi.com/)** - An AI coding assistant with extensions for VS Code, JetBrains, and Sublime Text, offering code generation, explanation, documentation, and test creation features.
-
-**[AskCommand](https://www.askcommand.cppexpert.online/)** - A web-based tool that uses AI to automatically generate Unix commands from natural language text.
 
 **[assistant](https://github.com/kcosr/assistant)** - Panel-based personal assistant with a plugin architecture for productivity workflows.
 
@@ -155,8 +143,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[automata](https://github.com/sentientwave/automata)** - Agent swarming organization system.
 
-**[Autonoma](https://getautonoma.com/)** - An agentic end-to-end testing platform that generates test plans, runs tests in real browsers and devices, and integrates with GitHub for PR-based QA.
-
 **[AutoRegex](https://www.autoregex.xyz/)** - A web tool that uses OpenAI's GPT-3 to produce regular expressions from plain English descriptions.
 
 **[babyagi3](https://github.com/yoheinakajima/babyagi3)** - A minimal AI agent you configure once, then run through natural language.
@@ -167,11 +153,9 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[bernstein](https://github.com/chernistry/bernstein)** - Deterministic orchestrator — spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, auto-commits. Zero LLM tokens on coordination.
 
-**[BitBuilder](https://www.bitbuilder.ai/)** - A GitHub integration for generating pull requests directly from issues using AI.
-
 **[Bito AI](https://bito.ai/)** - An AI assistant that integrates with IDEs and browsers to speed up development tasks, offering code generation, explanation, performance checks, security analysis, and more.
 
-**[Blackbox AI](https://www.useblackbox.io/)** - An AI coding assistant available as a VS Code extension and web interface, offering autocomplete, chat, and links to online coding references.
+**[Blackbox AI](https://www.blackbox.ai/)** - An AI coding assistant available as a VS Code extension and web interface, offering autocomplete, chat, and links to online coding references.
 
 **[Blinky Debugging Agent](https://github.com/seahyinghang8/blinky)** - A debugging agent for VS Code that helps identify and fix backend errors, inspired by SWE-agent.
 
@@ -198,8 +182,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Butterfish](https://butterfi.sh)** - A CLI tool that embeds ChatGPT directly into your shell for easy access and simple agentic capabilities.
 
 **[Callstack.ai Code Reviewer](https://callstack.ai/code-reviewer)** - An AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.
-
-**[Carbonate](https://carbonate.dev/)** - An end-to-end testing tool that uses natural language descriptions and integrates with existing test suites like Jest, PHPUnit, and Python's unittest.
 
 **[cashclaw](https://github.com/moltlaunch/cashclaw)** - An autonomous agent that takes work, does work, gets paid, and gets better at it.
 
@@ -240,8 +222,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Cline](https://cline.bot/)** - A VS Code extension and open-source AI coding assistant, with Cline CLI for terminal-based interactive and headless workflows that can execute commands, manage files, interact with browsers, automate CI/CD, and support multiple AI models.
 
 **[Clone UI](https://clone-ui.design/)** - A tool dedicated to generating Tailwind CSS UI components.
-
-**[cmd-ai](https://github.com/amacfie/cmd-ai)** - A command-line tool that converts natural language descriptions into executable shell commands.
 
 **[cmux](https://github.com/manaflow-ai/cmux)** - Open-source platform for running multiple coding agents in parallel.
 
@@ -289,8 +269,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Code Review GPT](https://github.com/mattzcarey/code-review-gpt)** - An open-source tool for automated pull request reviews, available as a GitHub Action, GitLab CLI, or locally.
 
-**[CodeSquire](https://codesquire.ai/)** - A Chrome extension that adds AI-powered autocomplete to Google Colab, BigQuery, and JupyterLab.
-
 **[CodeStory](https://codestory.ai/)** - An IDE (forked from VSCodium) with integrated chat, code explanations, auto-generated commits, and PR summaries.
 
 **[Code to Flow](https://codetoflow.com)** - A tool to visualize, analyze, and understand code with interactive flowcharts generated by AI.
@@ -298,8 +276,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Co.dev](https://www.co.dev/)** - An AI-powered app development platform that helps build and deploy full-stack applications.
 
 **[CodeWP](https://codewp.ai/)** - AI tools specifically trained for WordPress developers, offering code generation for snippets and plugins.
-
-**[CodexAtlas](https://codedocumentation.app/)** - An automated code and API documentation tool that uses the latest AI models.
 
 **[CodexMonitor](https://github.com/Dimillian/CodexMonitor)** - Orchestrate multiple Codex agents across local workspaces.
 
@@ -314,8 +290,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Composio](https://composio.dev/)** - An open-source toolset designed for building and managing AI Agents and LLMs.
 
 **[Conductor](https://www.conductor.build/)** - A Mac app for running multiple Claude Code and Codex agents in parallel, each in an isolated git worktree, with review and merge from one interface.
-
-**[Conduit8](https://conduit8.dev)** - A CLI registry for discovering, installing, and managing Claude Code skills with one-command installation directly to ~/.claude/skills/.
 
 **[constellagent](https://github.com/owengretzinger/constellagent)** - macOS app for running multiple AI agents with their own terminal, editor, and git worktree.
 
@@ -361,8 +335,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[DeepSource](https://deepsource.com/)** - A code quality and security platform with static analysis, AI-powered autofixes, and code review for pull requests.
 
-**[DeepUnit](https://www.deepunit.ai/)** - An AI-powered tool for thoughtful test case generation and complete unit test files, available as a VS Code extension, npm package, CLI, or CI/CD pipeline.
-
 **[DeepWiki](https://deepwiki.com/)** - Cognition's AI-generated documentation for GitHub repositories, with architecture diagrams, a chat interface, and an MCP server.
 
 **[DemoGPT](https://github.com/melih-unsal/DemoGPT)** - An auto Gen-AI App Generator powered by Llama 2 for building applications.
@@ -375,15 +347,11 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)** - An AI-Driven Software Development Automation Solution.
 
-**[Dex](https://github.com/francescoalemanno/dex)** - Structured Ralph orchestrator with human-gated planning, programmatic task tracking, parallel multi-reviewer code review, automatic retries with backoff, and autonomous dead-end-aware research loops inspired by Karpathy's autoresearch; supports 7 CLI backends and ships cross-platform binaries.
-
 **[DiagramGPT](https://www.eraser.io/diagramgpt)** - A free AI-based web app that converts schemas, infrastructure definitions, code snippets, or plain language into various diagrams.
 
 **[DiffBlue Cover](https://www.diffblue.com/)** - An AI-powered tool that autonomously writes Java unit tests by analyzing code and generating comprehensive test coverage.
 
 **[dmux](https://github.com/standardagents/dmux)** - Parallel agents with tmux and worktrees.
-
-**[Docify](https://docify.ai4code.io/)** - A VS Code extension for generating docstrings and code documentation using AI.
 
 **[DocuWriter.ai](https://www.docuwriter.ai/)** - An AI-powered web app for generating automated code and API documentation from source code files.
 
@@ -405,11 +373,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Emergent](https://emergent.sh/)** - An agentic platform that builds and deploys full-stack web and mobile apps from natural language prompts.
 
-**[EntelligenceAI](https://entelligence.ai/pr)** - An AI-powered code review platform for GitHub and GitLab that learns and improves over time based on user comments.
-
 **[Explain Code](https://explain.dev/)** - An AI-powered tool for code explanation and documentation, making complex code easier to understand.
-
-**[Exponent](https://www.exponent.run/)** - An AI pair programming platform featuring filesystem integration, advanced models, and specialized task support.
 
 **[Factory](https://www.factory.ai/)** - An AI-powered platform for code generation agents, including Droid CLI for terminal-based development workflows, codebase understanding, automation, and CI/CD integration.
 
@@ -461,7 +425,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[GitHub Copilot Agent Mode](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)** - An advanced feature of GitHub Copilot that enables autonomous execution of complex coding tasks, including error detection and self-healing.
 
-**[GitHub Copilot CLI](https://github.com/cli/cli/blob/trunk/docs/gh_copilot.md)** - Uses AI to translate natural language commands into shell commands.
+**[GitHub Copilot CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli)** - Uses AI to translate natural language commands into shell commands.
 
 **[GitHub Copilot Code Review](https://docs.github.com/copilot/concepts/code-review)** - GitHub Copilot's AI-powered code review feature for pull requests and IDE workflows, providing contextual feedback and applicable suggestions.
 
@@ -499,7 +463,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Goose](https://github.com/aaif-goose/goose)** - An open-source, extensible AI agent by Block/AAIF that runs locally as a CLI or desktop app, automating coding tasks with support for 100+ LLM providers and MCP extensions for GitHub, databases, and other services.
 
-**[gptcomet](https://github.com/beuluis/gptcomet)** - An AI-powered CLI tool for generating commit messages and reviewing changes.
+**[gptcomet](https://github.com/belingud/gptcomet)** - An AI-powered CLI tool for generating commit messages and reviewing changes.
 
 **[GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer)** - An open-source CLI agent that aims to generate entire codebases from a high-level prompt, asking clarifying questions as needed.
 
@@ -548,8 +512,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[ironclaw](https://github.com/nearai/ironclaw)** - OpenClaw-inspired implementation in Rust focused on privacy and security.
 
 **[ivy-tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** - Open-source AI coding orchestrator that manages Claude Code, Codex, Antigravity, Copilot, and OpenCode through a plan-based lifecycle with verification gates, self-improving memory, and human-in-the-loop checkpoints. ([tendril.ivy.app](https://tendril.ivy.app))
-
-**[jat](https://github.com/joewinke/jat)** - The World's First Agentic IDE.
 
 **[jean](https://github.com/coollabsio/jean)** - Desktop & web app for orchestrating coding agents (Claude, Codex, OpenCode) across projects and git worktrees.
 
@@ -600,8 +562,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Linear](https://linear.app/)** - A project management tool with AI-powered features for issue tracking and automated task organization.
 
 **[LionClaw](https://github.com/moshthepitt/lionclaw)** - Secure-first local AI assistant with durable sessions and installable skills.
-
-**[Literally anything](https://literallyanything.io)** - An HTML and JavaScript web app generator.
 
 **[LlamaCoder](https://llamacoder.together.ai/)** - An open-source code generation model for building applications using Open Source LLMs.
 
@@ -665,8 +625,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Mintlify](https://mintlify.com/)** - An AI-powered documentation generation and maintenance platform for creating beautiful and functional documentation.
 
-**[Mintlify Writer](https://writer.mintlify.com/)** - A VS Code extension focused specifically on generating documentation for code, such as docstrings for functions and classes.
-
 **[MiroShark](https://github.com/aaronjmars/MiroShark)** - Swarm-intelligence engine where hundreds of grounded LLM personas coordinate across simulated Twitter, Reddit, and a prediction market to model how a population reacts to a scenario hour-by-hour. Neo4j-grounded personas, per-agent belief state, counterfactual branching, and per-agent MCP tools.
 
 **[Mistral Vibe](https://mistral.ai/products/vibe)** - Mistral AI's terminal-native coding agent powered by Devstral models, with multi-file context, autonomous command execution, IDE integration, offline support, and custom subagents.
@@ -677,17 +635,9 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Momentic](https://momentic.ai/)** - An AI testing platform that writes, runs, and self-heals end-to-end tests from natural-language steps.
 
-**[Morph Rift](https://github.com/morph-labs/rift)** - A VS Code extension that leverages an edge language model to assist with code and merge AI-generated code.
-
 **[multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun)** - Samurai-inspired tmux orchestrator with a shogun → karo → ashigaru hierarchy for running up to 10 parallel AI coding agents (Claude Code, Codex, Copilot, Kimi) with zero coordination API cost.
 
 **[multica](https://github.com/multica-ai/multica)** - Agent-first kanban board, multi-runtime support.
-
-**[Murphie](https://www.murphie.dev/)** - An autonomous QA agent that generates, runs, and self-heals tests in pull requests and CI pipelines, with evidence-backed failure reporting.
-
-**[Mutable](https://mutable.ai/)** - A web-based IDE and AI-powered platform focused on accelerating software development through prompt-driven development, test generation, and documentation.
-
-**[Mutahunter](https://mutahunter.ai)** - An open-source, AI-driven software testing and vulnerability detection tool that can find vulnerabilities and generate tests.
 
 **[mux](https://github.com/coder/mux)** - A desktop app for isolated, parallel agentic development.
 
@@ -714,8 +664,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Nova](https://www.trynova.ai/)** - A CI bot that adds actions like summaries and tests to new pull requests.
 
 **[nullclaw](https://github.com/nullclaw/nullclaw)** - Fastest, smallest, and fully autonomous AI assistant infrastructure.
-
-**[OctoMind](https://octomind.dev)** - An AI-powered platform for generating and maintaining browser-based end-to-end tests, integrated into CI/CD pipelines.
 
 **[Off the Wall](https://github.com/toranalytics/off-the-wall)** - An open-source plugin for Claude Code and Codex that quotes your own past corrections back to the agent before it answers, reports what you correct most, and gives the orchestrator model-selection guidance for subagent calls.
 
@@ -793,7 +741,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Pixee](https://pixee.ai/)** - Pixeebot automatically finds security and code quality issues, creating merge-ready pull requests with recommended fixes.
 
-**[Plandex](https://plandex.ai/)** - An open-source, terminal-based AI coding engine designed for complex projects, allowing for multi-step planning and execution.
+**[Plandex](https://github.com/plandex-ai/plandex)** - An open-source, terminal-based AI coding engine designed for complex projects, allowing for multi-step planning and execution.
 
 **[Polymet](https://polymet.ai)** - An AI-powered tool to create and iterate product designs and user interfaces, providing production-ready front-end code.
 
@@ -867,8 +815,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Rubberduck](https://github.com/rubberduck-ai/rubberduck-vscode)** - An open-source chat assistant for the Visual Studio Code sidebar.
 
-**[Safurai](https://www.safurai.com/)** - An AI coding assistant.
-
 **[Same](https://same.new/)** - An AI app builder that clones existing websites or builds new full-stack web apps from prompts.
 
 **[scion](https://github.com/GoogleCloudPlatform/scion)** - Multi-agent orchestration testbed that runs AI agents in parallel isolated containers with separate workspaces, dynamic coordination, and normalized telemetry.
@@ -881,7 +827,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Semgrep](https://semgrep.dev/)** - A static analysis platform for code, dependencies, and secrets, with an AI assistant that triages findings and suggests fixes.
 
-**[Sentry AI Autofix](https://sentry.io/features/ai-autofix/)** - A feature of the Sentry error tracking platform that uses AI to analyze production errors and suggest code patches.
+**[Sentry AI Autofix](https://sentry.io/product/seer/)** - A feature of the Sentry error tracking platform that uses AI to analyze production errors and suggest code patches.
 
 **[Serena](https://github.com/oraios/serena)** - An open-source coding agent toolkit that gives LLMs semantic, LSP-based code retrieval and editing tools through MCP.
 
@@ -933,8 +879,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[subtask](https://github.com/zippoxer/subtask)** - Claude Skill to do tasks with subagents in Git worktrees.
 
-**[sudocode](https://sudocode.ai/)** - A web-based chat assistant for generating projects, similar to Code Interpreter.
-
 **[supacode](https://github.com/supabitapp/supacode)** - Native macOS coding agent orchestrator.
 
 **[Supacodes](https://www.supacodes.com)** - An AI tool for automating GitHub code documentation.
@@ -953,7 +897,7 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** - A CLI agent from Princeton NLP that autonomously fixes GitHub issues and coding challenges using any LLM, featuring a specialized agent-computer interface and support for SWE-bench benchmarking.
 
-**[Sweep](https://sweep.dev/)** - An AI-powered coding assistant and GitHub integration that generates, tests, and self-reviews pull requests from issues.
+**[Sweep](https://github.com/sweepai/sweep)** - An AI-powered coding assistant and GitHub integration that generates, tests, and self-reviews pull requests from issues.
 
 **[SwePT](https://github.com/keerthanpg/SwePT)** - An open-source pull request generator written in Python.
 
@@ -996,8 +940,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Traceloop](https://traceloop.com/)** - A tool that uses OpenTelemetry tracing data with generative AI to improve system reliability.
 
 **[Trae](https://www.trae.ai/)** - ByteDance's AI-powered IDE with GPT-4 and Claude integration, featuring Builder and Chat modes.
-
-**[Trag](https://usetrag.com/)** - An AI-powered code review tool with customizable patterns and pre-defined instructions.
 
 **[Traycer](https://traycer.ai/)** - Open-source desktop app that runs Claude Code, Codex and more than a dozen other coding agents in parallel, with shared context, agent-to-agent loops and team boards.
 
@@ -1103,7 +1045,6 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [aizen](https://github.com/vivy-company/aizen) - macOS workspace for managing git worktrees with integrated agent sessions.
 - [amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents.
 - [Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding.
-- [ariana](https://github.com/ariana-dot-dev/ariana) - The IDE of the future.
 - [automaker](https://github.com/AutoMaker-Org/automaker) - Autonomous AI development studio.
 - [bernstein](https://github.com/chernistry/bernstein) - Deterministic orchestrator that spawns parallel AI coding agents, verifies with tests, and auto-commits.
 - [Claude Command Center](https://github.com/amirfish1/claude-command-center) - Local dashboard for spawning, monitoring, and resuming parallel Claude Code, Codex, Cursor, Antigravity, and Kilo Code sessions.
@@ -1126,7 +1067,6 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [herdr](https://github.com/ogulcancelik/herdr) - Agent-aware terminal multiplexer with persistent workspaces, tabs, panes, and status detection for CLI coding agents.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Get AI coding agents to solve hard problems in complex codebases.
 - [ivy-tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source AI coding orchestrator that manages Claude Code, Codex, Antigravity, Copilot, and OpenCode through a plan-based lifecycle with verification gates, self-improving memory, and human-in-the-loop checkpoints.
-- [jat](https://github.com/joewinke/jat) - Agentic IDE.
 - [jean](https://github.com/coollabsio/jean) - Desktop and web app for orchestrating coding agents across projects and git worktrees.
 - [lalph](https://github.com/tim-smart/lalph) - LLM agent orchestrator driven by your chosen source of issues.
 - [mux](https://github.com/coder/mux) - Desktop app for isolated, parallel agentic development.
@@ -1195,7 +1135,6 @@ AI assistants that bridge to messaging platforms and other interfaces.
 Systems for coordinating multiple specialized agents working together.
 
 - [Agent Teams](https://github.com/777genius/agent-teams-ai) - Desktop app for giving high-level commands to autonomous AI agent teams across Claude, Codex, and OpenCode, with inter-agent messaging, Kanban task management, and built-in code review.
-- [agentsmesh](https://github.com/AgentsMesh/AgentsMesh) - AI agent workforce platform for spinning up remote workstations with PTY sandboxes and git worktree isolation, coordinating collaboration across channels, and managing tasks with a built-in Kanban.
 - [antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command.
 - [automata](https://github.com/sentientwave/automata) - Agent swarming organization system.
 - [BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD) - Agile framework of specialized agent personas (analyst, architect, developer, QA) for planning and building with coding agents.
@@ -1237,7 +1176,6 @@ Projects implementing the "keep running until done" pattern.
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Hat-based orchestration that keeps agents in a loop until done.
 - [ralph-tui](https://github.com/subsy/ralph-tui) - Orchestrate AI coding agents to work through task lists autonomously.
 - [ralphy](https://github.com/michaelshimeles/ralphy) - Runs AI agents on tasks until done.
-- [Dex](https://github.com/francescoalemanno/dex) - Structured Ralph orchestrator with human-gated planning, programmatic task tracking, parallel multi-reviewer code review, automatic retries, and autonomous dead-end-aware research loops.
 - [toryo](https://github.com/JesseRWeigel/toryo) - Intelligent agent orchestrator with trust-based delegation, quality ratcheting, and Ralph Loop retries.
 - [wreckit](https://github.com/mikehostetler/wreckit) - Run Ralph Wiggum Loop over your roadmap.
 
