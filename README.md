@@ -245,6 +245,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[CodeAct](https://codeact.ai/)** - An AI-powered tool for advanced debugging, including multi-threading and concurrency analysis.
 
+**[Codealong](https://github.com/codealong/codealong)** - Open-source desktop app for macOS and Linux that tracks every Claude Code, Codex, OpenCode, Antigravity and Cursor session on your machine, grouped by repo, worktree and PR, with a floating bar for approvals and replies and plan usage per account.
+
 **[CodeAnt AI](https://www.codeant.ai/)** - An AI tool that automatically creates pull requests to fix code issues.
 
 **[Codebuff](https://www.codebuff.com/)** - A terminal-based coding assistant that uses natural language to modify codebases across 11 languages.
