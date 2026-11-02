@@ -14,6 +14,7 @@
 - [AI Coding Tools](#ai-coding-tools)
 - [Agent Orchestrators](#agent-orchestrators)
 - [Agent Sandboxes](#agent-sandboxes)
+- [Agent Memory](#agent-memory)
 - [More AI Development Tools](#more-ai-development-tools)
 - [Contributing](#contributing)
 - [License](#license)
@@ -25,6 +26,7 @@ This repository merges several formerly separate lists into one. Entries are alp
 - **AI Coding Tools**: Coding agents, CLIs, AI-enhanced editors and IDEs, and code assistants
 - **Agent Orchestrators**: Tools for running, coordinating, and supervising multiple AI coding agents
 - **Agent Sandboxes**: Sandboxes, runtimes, and isolation technologies for running agents and AI-generated code safely
+- **Agent Memory**: Memory layers, MCP memory servers, and benchmarks for giving agents persistent memory
 - **More AI Development Tools**: Personal assistants, agent extensions, app builders, code review and testing tools, and other utilities
 
 ## AI Coding Tools
@@ -1376,6 +1378,418 @@ Unified APIs that run the same code across several sandbox providers.
 
 **[VibeKit](https://docs.vibekit.sh/)** - SDK that runs coding agents on providers such as E2B, Daytona, and Modal.
 
+## Agent Memory
+
+Memory layers, servers, and benchmarks for giving AI agents persistent memory. Merged from [cxxz/awesome-agent-memory](https://github.com/cxxz/awesome-agent-memory), [tfatykhov/awesome-agent-memory](https://github.com/tfatykhov/awesome-agent-memory), and [TeleAI-UAGI/Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory). Research papers and surveys are left in those lists.
+
+### Memory Layers and Frameworks
+
+**[A-Mem](https://github.com/agiresearch/A-mem)** - Zettelkasten-style create/link/revise operations with ChromaDB indexing and automatic memory evolution.
+
+**[A3M Router](https://github.com/Das-rebel/a3m-router)** - Multi-model LLM router with persistent memory (MemoryTree), cross-session context-window management, conversation memory with semantic recall, and ObsidianVault integration.
+
+**[ActiveMemoryIndex](https://github.com/linxuhao/ActiveMemoryIndex)** - Dual store of verbatim timestamped turns and atomic first-person facts, retrieved in the same register; #3, Agent Memory Leaderboard (academic textual, 2026-08).
+
+**[Agent Knowledge Cycle](https://github.com/shimo4228/agent-knowledge-cycle)** - Six-phase knowledge cycle specification (ADRs, JSON schemas, reference implementation) that turns coding-agent sessions into persistent skills, rules, and memory.
+
+**[agent-memory-doctor](https://github.com/chenhz01/agent-memory-doctor)** - Boot-time integrity checker for agent memory files and SQLite session stores: fingerprint and hash checks, size and freshness limits, archive verification; CLI and GitHub Action.
+
+**[agent-memory-recall](https://github.com/gujing-hub/agent-memory-recall)** - Read-only Python CLI searching Hermes Agent's conversation store and notes, wiki, memory and skill files; --home or --roots target other layouts or artifact folders.
+
+**[Agentic Task System](https://github.com/renezander030/agentic-task-system)** - Agent-native context layer over your existing task app (TickTick; Notion/Obsidian planned), exposing hybrid retrieval over tasks/notes to agents via a CLI with pluggable storage adapters.
+
+**[Agno](https://github.com/agno-agi/agno)** - Full-stack multi-agent framework with built-in Storage/Memory drivers, small footprint, and fast stateful agents.
+
+**[alethech](https://alethech.alicelabs.site/)** - Verifiable agent continuity in Python: Ed25519-signed memory commits in a hash-linked DAG, identity-preserving key rotation, encrypted portable history; local-first, zero-LLM.
+
+**[AML Memory MVP](https://github.com/0xboyu/aml-memory-mvp)** - Evidence-only, typo-tolerant retriever over English and CJK text using SQLite FTS5, character n-grams, and conversation-neighbor expansion; #10, Agent Memory Leaderboard (academic textual, 2026-08).
+
+**[archon-memory-core](https://github.com/atw4757-byte/archon-memory-core)** - Local-first agent memory with nightly consolidation, active forgetting, and salience scoring.
+
+**[AtMem](https://github.com/aetna000/atmem)** - Local-first agent memory with governed retrieval, provenance, lifecycle controls, delegated context delivery, execution evidence, SQLite storage, MCP, and an audit dashboard.
+
+**[Belief Context Graph](https://bigai-nlco.github.io/belief-context-graph/)** - Confidence-aware belief graph organizing long-horizon agent context into trackable, updatable belief states; includes SDK, graph-building tools, visualization UI, and agent benchmark.
+
+**[Big Agentic Brain](https://github.com/enhesa/big-agentic-brain)** - Self-hosted shared memory for an organization's agents: one container on SQLite, BM25 search boosted by agents' reactions, and agent-to-agent messages; MCP or HTTP API.
+
+**[birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne)** - Stdlib-only Python memory for agents: Markdown vault with BM25, Korean bigrams and usage decay; model curation passes through a deterministic safety-clamping executor; optional MCP server.
+
+**[chamnan](https://github.com/ArcticFox2029/chamnan)** - Repository-local context for coding agents: an architecture index, impact map, and decision records committed beside the code.
+
+**[Chronicle Memory](https://github.com/simple-boy/Chronicle-Memory)** - Evidence-only memory over SQLite with a hybrid lexical scorer adding phrase, temporal, and session-diversity bonuses; #7, Agent Memory Leaderboard (academic textual, 2026-08).
+
+**[ChronoHybridMem](https://github.com/Tin11Mn/chrono-hybrid-mem)** - Evidence-only textual memory over SQLite FTS5 with optional LLM fact extraction and multi-route candidate recall; #5, Agent Memory Leaderboard (academic textual, 2026-08).
+
+**[claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy)** - Maintenance layer for always-loaded agent memory files: deterministic budget guard, orphan-note coverage, and verbatim folding into warm sub-indexes, guarding against silent truncation.
+
+**[CodeAlmanac](https://github.com/AlmanacCode/codealmanac)** - Repo-local Markdown wiki for AI coding agents that preserves project conversations, decisions, and implementation context.
+
+**[Cognee](https://github.com/topoteretes/cognee)** - Extract-Cognify-Load pipeline that turns conversations/files into graph + vector memory to replace/augment RAG with relationship-aware recall.
+
+**[CommonGround Kernel](https://github.com/Intelligent-Internet/CommonGround)** - PostgreSQL-backed shared work-record substrate for human-agent and multi-agent systems, with durable handoff facts, causal lineage, and pull-first recovery across runtimes.
+
+**[Compartment](https://github.com/MaxFreedomPollard/Compartment)** - Offline, encrypted-at-rest vector memory for agents via MCP server, Python, or CLI; AEAD-encrypted embeddings, hybrid recall, per-record crypto-shred deletion, hash-chained audit log.
+
+**[daimon](https://daily-nerd.github.io/daimon/)** - Session-continuity memory for coding agents: session-end checkpoints become next-session briefings with items tagged verbatim or inferred; human-ratified rules can block shell commands.
+
+**[Data Olympus](https://github.com/knaisoma/data-olympus)** - Governed project memory for AI coding agents: agents propose learnings, humans promote them, and MCP retrieval serves only in-force knowledge after validity and supersession checks.
+
+**[elephant](https://github.com/tonone-ai/elephant)** - Claude Code plugin keeping per-repo memory in a committed `ELEPHANT.md` plus a global cross-repo file; hooks load both at session start and prompt saves.
+
+**[engram (by FBISiri)](https://github.com/FBISiri/engram)** - Go memory service on Qdrant with write-time dedup and importance gating, type-based TTL decay, reflection into insights, and MCP plus REST interfaces.
+
+**[Engramory](https://github.com/tinqiao-oss/engramory)** - General-purpose long-term memory layer for AI agents: one markdown file per memory, a size-capped pointer index read every session, and a read-only validator.
+
+**[EverOS (part of EverMind)](https://evermind-ai.com/)** - Toolkit for building, evaluating, and integrating long-term memory in self-evolving agents.
+
+**[ExperienceNet](https://github.com/cu-min/experiencenet)** - Self-hosted experience network for agents: search and write real technical attempts (problem/conditions/action/outcome), lexical + semantic hybrid retrieval over PostgreSQL/pgvector, gap capture, reuse feedback.
+
+**[FeedRecall](https://github.com/Paoladev45/feedrecall)** - Local-first MCP memory for saved social discoveries, with source dates, project relevance, evidence lifecycle, timelines, and bounded recall for coding agents.
+
+**[Fidelis Memory](https://hermes-labs.ai/fidelis)** - Local-first memory for coding agents: MCP recall returns original passages verbatim via vector search, with an explicit BM25/RRF hybrid mode; no generative LLM in retrieval.
+
+**[FlowGrid AML Retriever](https://github.com/dlxeva/flowgrid-aml-retriever)** - Deterministic, evidence-first Add/Search retriever that stores every original message and returns ranked, traceable source evidence; #8, Agent Memory Leaderboard (academic textual, 2026-08).
+
+**[FluctlightDB](https://github.com/voxmastery/FluctlightDB)** - Embedded database engine for AI agents with `experience()`/`activate()` API and reproducible LoCoMo evaluation.
+
+**[Fraise](https://getfraise.dev)** - In-memory temporal graph database for agents, queried with remember/recall verbs over HTTP or MCP; hybrid text, graph and optional vector retrieval; no persistence yet (2026-10).
+
+**[gbrain](https://github.com/garrytan/gbrain)** - Garry's opinionated OpenClaw/Hermes agent brain.
+
+**[GoodMemory](https://github.com/hjqcan/GoodMemory)** - Local-first, auditable memory layer for AI agents and coding hosts, with durable SQLite, embedding-free recall, MCP access, and opt-in governed writeback.
+
+**[Graphiti](https://github.com/getzep/graphiti)** - Bi-temporal knowledge graph: edges carry validity intervals and are *invalidated*, not overwritten, so superseded facts remain queryable with time bounds. The closest production analogue to [Memory Transactions, Versioning & Recovery](#memory-transactions-versioning--recovery).
+
+**[Graphmem](https://github.com/sonic182/graphmem)** - Local-first memory for coding agents in Rust: scoped memories and an entity graph in SQLite, recalled via local embeddings plus Personalized PageRank; MCP server.
+
+**[hermeneutic](https://hermes-labs.ai/hermeneutic)** - Turns corrections from AI agent logs into guidance for similar tasks: local semantic memory with prompt-context hooks and response checks.
+
+**[Hindsight](https://github.com/vectorize-io/hindsight)** - Consolidation as an explicit policy layer over four levers — importance, merge, decay, eviction — instead of an unbounded append log. Industry framing already cited in [Adjacent Research](#adjacent-research); paper: [arXiv:2512.12818](https://arxiv.org/abs/2512.12818).
+
+**[HMS (Holographic Memory System)](https://github.com/Shadow-Weave/HMS)** - Long-term memory QA framework that wraps OpenAI clients with automatic recall and retain, PostgreSQL-backed, evaluated on LongMemEval.
+
+**[Honcho](https://github.com/plastic-labs/honcho)** - Memory as a representation of a person, not a transcript: background reasoning maintains per-peer models, queried through a dialectic API rather than similarity search.
+
+**[Hybrid Memory Search](https://github.com/cydd-1972/hybrid_search)** - Local hybrid-retrieval memory service with per-user isolation, synchronous embedding on write, and fused BM25/dense ranking; #4, Agent Memory Leaderboard (academic textual, 2026-08).
+
+**[IHMT](https://github.com/gonzaroman/IHMT-MEMORY)** - Local MCP memory for coding agents: a tree of plain-text leaves and JSON summaries, with dated facts and OUTDATED/AMBIGUOUS notices, shared across agents.
+
+**[inspeximus (formerly mnemo)](https://dancenitra.github.io/inspeximus/)** - Zero-dependency memory layer and MCP server with value-ranked recall, per-type decay, keyed supersession, revert-based correction, signed provenance, tamper-evident receipts, and cross-store erasure.
+
+**[InvMem](https://github.com/wenxiaof345-ctrl/vanilla-rag-memory)** - Vanilla RAG baseline (chunking, embeddings, FAISS/SQLite vector store) behind a synchronous Add/Search API; #1, Agent Memory Leaderboard (academic textual, 2026-08).
+
+**[kannaka-memory](https://github.com/kannaka-labs/kannaka-memory)** - Rust agent memory as a wave-interference medium: phase-coded wavefronts, bilateral hemispheres, dream consolidation and forgetting, NATS swarm sync; CLI and MCP plugin.
+
+**[kith](https://github.com/theNamek/kith)** - Relationship memory between agents on SQLite: append-only observations derive trust, reliability, and sentiment views with per-entry visibility scopes.
+
+**[Lians agent memory](https://www.lians.ai/)** - Bitemporal agent memory with deterministic supersession, point-in-time recall, MCP access, audit trails, and local SQLite or PostgreSQL storage.
+
+**[Lint-AI](https://github.com/RooAGI/Lint-AI)** - Agent memory and semantic review engine with lexical, temporal, and graph-aware retrieval across conversations, documents, code, and agent sessions.
+
+**[LLMSlim](https://www.llmslim.app)** - Context-compression library whose no-LLM memory stores turns verbatim in SQLite or Postgres and recalls them, whole where they fit, within a token budget; stdio MCP.
+
+**[LWC](https://janyork.github.io/llm-wiki-cli/)** - Agent-operated persistent memory CLI with source-cited Wiki pages, full-text search, document graphs, and CodeGraph indexes for cross-session project recall.
+
+**[Mem0](https://github.com/mem0ai/mem0)** - “Universal memory layer” for short/long-term + semantic/episodic memory, with a local-first dashboard and broad framework integrations.
+
+**[Mem9](https://mem9.ai/)** - Local private memory hub for OpenClaw and similar coding agents.
+
+**[Memanto](https://memanto.ai/)** - Typed semantic memory with `remember`/`recall`/`answer` operations and information-theoretic retrieval.
+
+**[Memary](https://github.com/kingjulio8238/Memary)** - Human-memory-inspired layer with persona-aware graphs and multi-graph support (FalkorDB/Neo4j; local or hosted LLMs).
+
+**[memclaw (Felo)](https://memclaw.me)** - Persistent project memory for AI coding agents — isolated per-project workspaces, a web dashboard to review what the agent remembers, and team collaboration.
+
+**[MemEngine](https://github.com/nuster1128/MemEngine)** - Unified, modular library with many pluggable memory models and automatic config selection for local/remote runs.
+
+**[memgres](https://github.com/mozgsml/memgres)** - Versioned document memory for AI agents over one Postgres; lexical or semantic recall, diff-based history, git-blame line attribution, GDPR-erasable, multi-tenant via MCP/HTTP.
+
+**[MemMachine](https://github.com/MemMachine/MemMachine)** - Universal memory layer that lets agents learn/store/recall user data across sessions, building evolving user profiles. Supports Working (Short-Term), Persistent (Long-Term), and Personalized (Profile) memories with developer-friendly APIs (Python SDK, REST, and MCP). Persists episodic memory in a graph DB and profile memory in an SQL DB.
+
+**[Memobase](https://docs.memobase.io/)** - User profile-based long-term memory for AI chatbot applications.
+
+**[memonto](https://github.com/shihanwan/memonto)** - Ontology/knowledge-graph memory that extracts entities/relations and exposes graph queries; can run ephemeral or persist to triple/vector stores.
+
+**[Memori](https://github.com/GibsonAI/memori)** - Open-source memory engine for LLMs and agents with *entity extraction, auto-categorization, memory promotion, and multi-agent sync.* Supports temporal retention policies, retrieval tuning, and cross-agent context exchange.
+
+**[Memorix](https://github.com/AVIDS2/memorix)** - Local-first cross-agent memory layer for coding agents via MCP — SQLite-backed project memory with observation, reasoning, and git-derived fact types, plus task-lensed context briefs.
+
+**[memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro)** - Enhanced [LanceDB](https://lancedb.com/) memory plugin for [OpenClaw](https://openclaw.ai/).
+
+**[MemoryAgent](https://github.com/llLAlisa/memory-agent-submission)** - FastAPI + ChromaDB memory system with local sentence-transformers embeddings and similarity-based write deduplication; #9 as LLLMemoryAgent, Agent Memory Leaderboard (academic textual, 2026-08).
+
+**[MemoryBear](https://www.memorybear.ai/)** - Memory framework providing human-like episodic and semantic recall to AI agents.
+
+**[MemoryOS](https://github.com/BAI-LAB/MemoryOS)** - OS-like memory stack with short/mid/long-term layers and plug-and-play storage/retrieval; exportable via tools.
+
+**[MemOS](https://github.com/MemTensor/MemOS)** - "Memory OS": a MemCube abstraction unifying plaintext, activation (KV), and parameter memory, with scheduling and cross-task reuse between them. Rare in treating KV-cache and long-term store as one substrate.
+
+**[Memov](https://www.memov.ai/)** - Git-based, traceable memory layer for Claude Code.
+
+**[MemTether](https://github.com/MemTether/MemTether)** - Shared SQLite memory hub for AI clients over MCP, CLI and REST: corrections supersede rather than delete, bi-temporal timestamps, hash-anchored audit log, human conflict adjudication.
+
+**[MemU](https://github.com/NevaMind-AI/memU)** - Companion-focused memory that organizes/links/evolves memories, adds adaptive forgetting, and emphasizes accuracy + cost efficiency.
+
+**[Mi-Memory](https://darwin-agent.github.io/Mi-Memory/)** - Lifecycle memory framework for personal assistant agents from Xiaomi's Darwin Agent team; multi-source user state with provenance, editable correction and forgetting, device-adaptive deployment.
+
+**[MIRIX](https://mirix.io/)** - Multi-agent personal assistant that captures on-screen activity and consolidates it into structured memory.
+
+**[MisakaNet](https://github.com/Ikalus1988/MisakaNet)** - Git-based distributed swarm memory; agents share lessons across nodes via GitHub Issues.
+
+**[Mnemory](https://github.com/fpytloun/mnemory)** - Multi-type agent memory (facts, preferences, episodic) with TTLs, user/agent scoping, and an MCP server.
+
+**[Mnemosyne (by 28naem-del)](https://mnemosy.ai)** - Local-first TypeScript agent memory in one SQLite file; memories keep source evidence, corrections retire recorded dependents, exact replay and bisect in 3.0 pre-release; MCP, CLI.
+
+**[Mnemosyne (by ElonAug7)](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes)** - Memory engine for OpenClaw and Hermes: JSONL and Markdown layers ranked by weighted importance, recency, keyword and hit-frequency scoring; offline by default, DashScope embeddings opt-in.
+
+**[Mnemoverse](https://mnemoverse.com)** - Hosted long-term memory for agents over MCP and REST; rating a recalled memory as helpful or misleading re-ranks what comes back next; MIT-licensed MCP server.
+
+**[MoobFS](https://studiomoob.github.io/llmoobfs/)** - Experimental Linux filesystem for agent-memory storage, with typed extended attributes and permission-scoped queries; developed with AI assistance, for disposable-VM evaluation.
+
+**[myc](https://aistastudio.github.io/myc/)** - Local task-and-memory layer for coding agents: decision oplog with hybrid search, session/repo-scoped recall, PreCompact hook saving the episode before compaction; Bun + SQLite.
+
+**[Nemori](https://github.com/nemori-ai/nemori)** - Self-organising long-term memory substrate for agentic LLM workflows. Nemori segments multi-turn conversations into topic-consistent episodes, distils durable semantic knowledge, and exposes a unified search surface for downstream reasoning. The system uses insights from Event Segmentation Theory and predictive processing and provides production-ready concurrency, caching and pluggable storage options.
+
+**[notebook.py](https://github.com/minjimindypark/llmcompressor)** - Single-file Python tool for Claude Code transcript memory, stored as editable Markdown with source references and retained history of retired entries.
+
+**[O-Mem](https://github.com/OPPO-PersonalAI/O-Mem)** - *Omni memory system for personalized, long‑horizon, self‑evolving agents.* It views memory as an active user‑modelling process: it continually extracts and updates user persona attributes, event records, and topic‑indexed messages. This enables dynamic user profiling, a three‑layer hierarchical memory (persona, event and message), user‑centric retrieval, and interaction‑time scaling. O‑Mem includes an evaluation suite and exposes modular APIs under the Apache‑2.0 license.
+
+**[OMEGA](https://omegamax.co)** - MCP server exposing 25 memory tools for AI coding agents.
+
+**[Omnigraph](https://github.com/ModernRelay/omnigraph)** - Object-storage-native graph engine for agent memory with git-style branch/merge workflows.
+
+**[OpenMemory Engine](https://github.com/CaviraOSS/OpenMemory)** - Self-hosted, sectorized semantic memory engine with hierarchical storage, auto decay, and explainable recall graphs; integrates with LangGraph, Mem0, and MCP tools.
+
+**[OpenViking](https://github.com/volcengine/OpenViking)** - Memory, knowledge, and skills in one virtual filesystem (`viking://`): scoped search over a directory subtree instead of a flat vector pool, and L0 abstract / L1 overview / L2 source tiers so agents judge relevance before opening content. Committing a session archives it and extracts memories as inspectable, editable Markdown. Backed by the peer-reviewed [VikingMem](https://arxiv.org/abs/2605.29640) Memory Base Management System (VLDB 2026 ). Headline LoCoMo / τ²-bench gains are vendor-run with Doubao models.
+
+**[PackRat](https://github.com/kevdogg102396-afk/packrat)** - Auto-learning codebook compression that shrinks agent context files while keeping them LLM-readable.
+
+**[Panella](https://panella.tech)** - Self-hosted governed memory over MCP; agent writes become durable only after human approval with verifiable receipts; Apache-2.0.
+
+**[Persistent AI Memory System](https://github.com/Savantskie/persistent-ai-memory)** - Persistent, searchable memory plus tool-usage logs, deduping/self-reflection, and cross-conversation sync.
+
+**[PowerMem](https://www.powermem.ai)** - Persistent, self-evolving memory for AI agents — hybrid vector/full-text/graph retrieval with LLM-driven extraction, Ebbinghaus-style decay, and two-layer Experience + Skill distillation; from the OceanBase team.
+
+**[projectmem](https://projectmem.dev)** - Local-first, event-sourced memory for AI coding agents: an append-only event log served via MCP, plus a pre-commit gate that warns before repeating a failed fix.
+
+**[Puppyone](https://www.puppyone.ai)** - Filesystem-shaped agent memory with auto-versioning, per-agent ACLs, and data connectors; accessible via MCP/REST/CLI.
+
+**[RCLL](https://rcll.ai)** - Self-hosted shared memory for a fleet of agents: topic rooms, L0–L3 depth, Postgres/pgvector; the read path invokes no language model. Fork of Hindsight.
+
+**[ReFind](https://github.com/imlrz/ReFind)** - Memory retriever that plans iterative searches over a conversation-level BM25 index and returns contextual evidence blocks; #2, Agent Memory Leaderboard (academic textual, 2026-08).
+
+**[ReMe](https://github.com/agentscope-ai/ReMe)** - *Remember Me, Refine Me.* A modular memory management kit that unifies personal, task, and tool memories for agents. Features refinement cycles, temporal prioritization, and Pydantic-backed schemas to ensure memory coherence and relevance.
+
+**[Remnic](https://remnic.ai/)** - Local-first Markdown memory shared across coding agents and MCP clients, with per-result provenance, correction workflows, and the MemCorrect benchmark.
+
+**[RetainDB](https://retaindb.com)** - Local-first agent memory with noise filtering, typed facts, reuse-based reinforcement, and BM25 + vector + graph retrieval with RRF and reranking; Apache-2.0 core, BSL-1.1 server.
+
+**[Second Me](https://home.second.me/)** - Personal AI trained on the user to represent them across applications.
+
+**[Selvedge](https://selvedge.sh)** - Local decision memory for coding agents: records code decisions, rejected approaches and revisit conditions in SQLite; retrieved through MCP or CLI.
+
+**[skillmem](https://skillmem.dev)** - Skill memory for Claude Code and Codex agents: records how tasks were solved, recalls them, reinforces what works, decays the rest; SQLite + FTS5 MCP server.
+
+**[sqlite-graph-memory](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)** - Graph RAG memory for agents over a markdown vault: dense retrieval, hand-curated wikilink 1-hop expansion, cross-encoder rerank, per-turn SQLite ledger.
+
+**[Statewave](https://statewave.ai/)** - Open-source memory runtime for AI agents serving reproducible, provenance-tagged context bundles instead of query-time retrieval; self-hosted on Postgres + pgvector with Python/TypeScript SDKs.
+
+**[Synap](https://maximem.ai)** - Long-term memory layer that extracts facts, preferences, episodes, and temporal events from conversations; integrates with most major agent frameworks.
+
+**[Talamus](https://ampres-ai.github.io/talamus/)** - Local-first agent memory that stores source-grounded Markdown, preserves bitemporal history and provenance, and exposes search, recall, and review-gated correction through MCP.
+
+**[taOSmd](https://github.com/jaylfc/taosmd)** - Local-first, offline agent memory: an append-only transcript yields a typed temporal knowledge graph with source-grounded, verifier-checked facts and hybrid retrieval, tuned for small local models.
+
+**[Task Memory Engine](https://github.com/biubiutomato/TME-Agent)** - Structured task-level memory engine combining hierarchical trees and rollback-aware buffers to track multi-step reasoning; enables state reconstruction and planning with minimal context tokens.
+
+**[TeleMem](https://github.com/TeleAI-UAGI/TeleMem)** - API-compatible high-performance drop-in replacement for Mem0 (`import telemem as mem0`); listed as an unranked sub-item of Mem0 per the drop-in replacement convention. Maintainer-affiliated.
+
+**[TencentDB Agent Memory](https://github.com/Tencent/TencentDB-Agent-Memory)** - Fully local long-term memory for AI agents via a 4-tier progressive pipeline, with zero external API dependencies.
+
+**[Verified Memory Vault](https://github.com/secondbrainstarter/verified-memory-vault)** - Obsidian vault doubling as Claude Code memory: deterministic health-score linter (undated entries, duplicates, dead links) plus a git pre-commit hook refusing mass deletions.
+
+**[Wenlan](https://wenlan.app/)** - Local-first AI knowledge base and LLM wiki that distills agent work into source-cited pages and serves them to MCP clients.
+
+**[widemem-ai](https://widemem.ai)** - Lightweight memory layer with importance scoring, temporal decay, and 3-tier hierarchy.
+
+**[YYLO Ledger](https://github.com/yylo-dev/yylo-ledger)** - Git-native task and Record store for coding-agent workflows: reviewable current state, append-only history, dependency-aware work, and bounded queries.
+
+**[ZenBrain](https://zensation.ai/en)** - Neuroscience-inspired 7-layer memory architecture for autonomous agents in zero-dependency TypeScript, with FSRS spaced repetition, Hebbian learning, and sleep-cycle consolidation.
+
+**[Zep](https://github.com/getzep/zep)** - Temporal knowledge graph memory (Graphiti engine) with bi-temporal facts and hybrid retrieval (graph + semantic + keyword).
+
+**[溯忆 (Suyi)](https://github.com/xiaofanliu525-ctrl/suyi-memory)** - Dual-temporal memory engine for AI agents — SQLite-backed, zero-dependency, Ebbinghaus-decayed fact storage with skill crystallization.
+
+### Local-First and Coding-Agent Memory
+
+**[agentmemory](https://github.com/rohitg00/agentmemory)** - Full lifecycle memory for coding agents: confidence scoring, decay and consolidation, knowledge graph, hybrid search, ~20 agent adapters. Headline ranking claims are self-reported.
+
+**[Caura](https://github.com/caura-ai/caura)** - Governed shared memory for agent fleets: trust tiers, keystone policies, audit trails, multi-tenant scoping. The implementation counterpart to [Memory Trust & Integrity](#memory-trust--integrity) and [Multi-Agent Memory](#multi-agent-memory).
+
+**[causal-memory](https://github.com/JingxuanC/causal-memory)** - Local-first Rust MCP server (also CLI + PyO3 bindings) where the store is one SQLite file holding facts, temporal state, and typed decision→outcome edges (caused / enabled / prevented). Spreading activation runs both ways — `prevented` edges carry negative activation, a GABA analogue — alongside Hebbian co-occurrence, Q-value dynamics, write-time gating, and immutable SWR-style consolidation. Reproducible benchmark harnesses (CausalEval, LoCoMo, LongMemEval) live in-repo; Hermes Agent provider plugin included.
+
+**[deja-vu](https://github.com/vshulcz/deja-vu)** - No write path: indexes the session transcripts 34 coding agents already write locally (lexical by default; optional `deja embed` may send text to an external embedding API) and serves them to any of the others — including pre-install history, so no cold start. Read-side mechanisms: outcome-aware ranking (a session that ended in a fix outranks one that gave up), redaction at ingest, per-project trust policy, `forget`/`unforget`. LoCoMo/LongMemEval drivers in-repo.
+
+**[Engram](https://github.com/Gentleman-Programming/engram)** - Agent-agnostic Go binary — SQLite + FTS5, MCP/HTTP/CLI/TUI, explicit conflict handling. Deterministic lexical recall as a deliberate counter-position to embedding everything (cf. ReFind in [Retrieval & Recall](#retrieval--recall)).
+
+**[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** - Rust knowledge store with signed, encrypted append-only records and scoped, expiring grants for MCP access. Delegated grants cannot widen scope, add actions, or outlive their parent. Governance at the retrieval boundary; does not sandbox processes running as the owner. Developer alpha; no independent security audit.
+
+**[kgai](https://github.com/kgaidev/kgai)** - Append-only, content-addressed decision log for dev teams: every change is a new event that supersedes the prior one through an explicit link with a reason, rejected paths stay queryable (temporal versioning), recall returns only decisions in force. Deterministic graph projection, lexical recall with no embeddings, and per-writer shard sync over the team's own S3 bucket (no server). Repo-supplied config is gated behind an explicit trust approval (governance). Claude Code plugin plus a Go CLI.
+
+**[Lemmalog](https://github.com/JordyZomer/lemmalog)** - Memory as a deductive database: a Rust stratified-Datalog engine in which LLM-extracted base facts are bi-temporal and carry confidence × provenance semiring annotations. Rules derive closures, temporal projections, and contradiction candidates incrementally per turn; `why()` returns proof trees, retraction recomputes only dependents, and `what_if` runs hypotheticals with byte-identical restore. Ships as an MCP server.
+
+**[Lockstep](https://github.com/lockstep-team-agent/lockstep)** - Shared decision memory for teams of coding agents and product managers: an append-only, CAS-versioned decision ledger where decisions are drafted, reviewed and ratified before agents receive them, with rationale and rejected options kept. Briefs each agent over MCP before it acts. Optional opt-in check flags changed code that may contradict an accepted decision. Hosted service ([getlockstep.dev](https://www.getlockstep.dev)) by default; self-hostable via Docker.
+
+**[memsearch](https://github.com/zilliztech/memsearch)** - Markdown files as the source of truth, Milvus for hybrid retrieval, typed episodic/procedural memory. Human-readable store = auditable memory.
+
+**[mengram](https://github.com/alibaizhanov/mengram)** - Typed semantic / episodic / procedural memory where procedures are derived from recorded failures — one of the few OSS systems implementing the failure → procedure loop from [Skill & Procedural Memory](#skill--procedural-memory).
+
+**[Mnemon](https://github.com/mnemon-dev/mnemon)** - Single Go binary, four-graph knowledge store with intent-aware recall, importance decay, and automatic deduplication. No API keys, one setup command.
+
+**[Nocturne Memory](https://github.com/Dataojitori/nocturne_memory)** - Rollbackable, visually inspectable graph memory server for MCP agents — edits are reversible operations, not blind writes. The practical counterpart to MemTX/ChronoMem-style recovery.
+
+**[Synapse](https://github.com/anshulyadav1976/synapse)** - Markdown-authoritative local memory with write-once imports and provenance-bearing agent note proposals that require human approval. SQLite FTS5 and the linked-page graph are disposable indexes; MCP exposes selective retrieval instead of injecting the whole vault.
+
+**[Vestige](https://github.com/samvallad33/vestige)** - Local-first Rust MCP server combining FSRS-6 decay, spreading activation, contradiction inspection, active suppression, Receipt Lock, and an inspectable dashboard. Built for causal recall — the quiet change that broke today, not the lookalike.
+
+### Memory Modules for Agent Frameworks
+
+**[Ars Contexta](https://github.com/agenticnotetaking/arscontexta)** - A second brain for your agent. A Claude Code plugin that generates complete knowledge systems from conversation — you describe how you think and work, and the engine derives a cognitive architecture (folder structure, context files, processing pipeline, hooks, navigation maps, and note templates) tailored to your domain and backed by 249 research claims. No templates, no configuration — just conversation.
+
+**[AutoGen - Memory](https://microsoft.github.io/autogen/stable//user-guide/agentchat-user-guide/memory.html)** - Provides a Memory protocol (e.g., `ListMemory`) and official notebooks showing long-term memory with Zep and Mem0 in conversational agents.
+
+**[CrewAI - Memory](https://docs.crewai.com/concepts/memory)** - Adds short-term (RAG) and long-term stores (e.g., SQLite backed) so crews retain insights across executions and reuse them later.
+
+**[LangGraph + MongoDB Store](https://www.mongodb.com/company/blog/product-release-announcements/powering-long-term-memory-for-agents-langgraph)** - Introduces a persistent document memory layer for LangGraph, combining vector and document stores for scalable long-term retention.
+
+**[LangMem](https://github.com/langchain-ai/langmem)** - SDK that gives agents long-term, semantic memory with tools to store/search memories in LangGraph stores, plus a managed service and templates.
+
+**[LlamaIndex - Agent Memory](https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/memory/)** - Unified APIs for short- and long-term memory, including composable memory so agents can combine multiple sources. Recent updates improve long/short-term blocks.
+
+**[Semantic Kernel - Memory Plugin](https://www.nuget.org/packages/Microsoft.SemanticKernel.Plugins.Memory)** - Embeddings-based memory plugin (e.g., `TextMemoryPlugin`) to save/recall short/long-term info across agents in.NET/JS/py SK apps.
+
+**[smolagents - Memory](https://huggingface.co/docs/smolagents/en/tutorials/memory)** - Exposes a first-class agent memory you can inspect/replay/modify; supports step callbacks for dynamic memory policies.
+
+### MCP Memory Servers and Tools
+
+**[Basic Memory](https://github.com/basicmachines-co/basic-memory)** - Local-first Markdown knowledge base exposed via MCP; bi-directional human/LLM editing with simple, file-backed persistence.
+
+**[MCP Memory Service (doobidoo)](https://github.com/doobidoo/mcp-memory-service)** - Universal MCP memory with semantic search, natural-language time filters, and storage options (SQLite-vec/Chroma/Cloudflare).
+
+**[mcp-memory (Puliczek)](https://github.com/Puliczek/mcp-memory)** - Cloudflare-backed MCP memory with D1 + vector search, namespaces, and rate-limited, TLS-secured endpoints.
+
+**[MCP-Titan](https://github.com/henryhawke/mcp-titan)** - Experimental neural memory engine integrating online vector processing and TensorFlow.js learning loops, enabling live memory update and auto-retention control.
+
+**[memory (HamzaFarhan)](https://github.com/HamzaFarhan/memory)** - Minimal knowledge-graph MCP server (entities/relations/observations) with JSON persistence and flexible search modes.
+
+**[Memory MCP Server (Swift)](https://github.com/okooo5km/memory-mcp-server)** - Lightweight MCP server for entity/relation memory graphs with JSON storage and a simple CLI.
+
+**[memory-mcp (JamesANZ)](https://github.com/JamesANZ/memory-mcp)** - MCP memory for conversation logging, context-window caching, relevance scoring, and MongoDB storage.
+
+**[OpenMemory MCP](https://mem0.dev/openmemory)** - Mem0’s local-only MCP server that centralizes cross-tool memory with a unified dashboard.
+
+**[Redis Agent Memory Server](https://github.com/redis/agent-memory-server)** - Redis-powered memory with REST + MCP, two-tier memory (session/long-term), configurable extraction, and pluggable vector backends.
+
+**[Supermemory MCP](https://supermemory.ai/blog/how-to-make-your-mcp-clients-share-context-with-supermemory-mcp/)** - Graph memory service implementing MCP context sharing, cross-app recall, and relationship graphs for multi-agent sessions.
+
+### Reinforcement-Learning Training for Memory
+
+**[Mem-α](https://arxiv.org/abs/2509.25911)** - RL framework that teaches agents how to build and manage complex memory systems through interaction and feedback. Agents process sequential information, learn to extract and store relevant content, and update core/episodic/semantic memory components; rewards derive from downstream question-answering accuracy.
+
+**[MEM1](https://github.com/MIT-MI/MEM1)** - End-to-end RL that learns a compact internal state for constant-memory long-horizon agents; integrates new observations while discarding redundancy to improve efficiency.
+
+**[MemAgent](https://github.com/BytedTsinghua-SIA/MemAgent)** - RL-trained long-context agent with a memory mechanism that enables arbitrarily long inputs within fixed windows; RLVR-based training and linear-time scaling, shown to extrapolate to multi-million-token tasks with minimal loss.
+
+**[Memento](https://github.com/Agent-on-the-Fly/Memento)** - Memory-based online RL over a memory-augmented MDP with a neural case-selection policy; planner–executor loop reuses past trajectories so agents learn without fine-tuning the base LLM.
+
+**[MemEvolve](https://github.com/bingreeky/MemEvolve)** - Meta-evolution framework that jointly evolves an agent’s memory base and memory architecture via a dual-loop process, enabling the memory system itself (not just contents) to improve over time. Includes automated multi-round tournament evolution with candidate generation, evaluation, and selection; supports optional Pareto multi-objective selection.
+
+**[Memory-R1](https://arxiv.org/abs/2508.19828)** - the paper (*code not yet publicly available*) proposes an RL framework where a Memory Manager learns to add, update or delete memory entries and an Answer Agent learns to select relevant entries. Both agents are trained with PPO and GRPO to actively manage and utilise an external memory bank.
+
+**[MemSearcher](https://github.com/icip-cas/MemSearcher)** - RL-driven search agent that maintains a compact memory, fusing each query with memory to generate reasoning traces, perform search actions, and update memory to keep only task-relevant information (stabilizing context length across long multi-turn runs). Uses multi-context GRPO end-to-end RL to jointly optimize reasoning, search, and memory management.
+
+### Benchmarks and Evaluation Harnesses
+
+**[DolphinBench](https://github.com/mem0ai/dolphinbench)** - Memory measured through task completion over ~500k-token persona histories. Every task is verified to succeed with the history and fail without it, and submissions must report cost and latency with accuracy. Built by a memory vendor.
+
+**[GateMem](https://github.com/rzhub/GateMem)** - Memory governance under multiple principals sharing one store: utility, access control, and active forgetting measured together instead of accuracy alone.
+
+**[HaluMem](https://github.com/MemTensor/HaluMem)** - Operation-level hallucination benchmark: scores extraction, updating, and answering separately, exposing errors that end-to-end QA accuracy hides. License is declared by README badge only — no LICENSE file in the repo; NC-ND terms forbid commercial use and derivatives, so treat it as read-only unless you clear it with the authors.
+
+**[LoCoMo](https://github.com/snap-research/locomo)** - Very long-term conversation benchmark (ACL 2024 ). Widely used dataset; frozen — last push Aug 2024, cite the data, don't expect maintenance.
+
+**[LongMemEval](https://github.com/xiaowu0162/LongMemEval)** - ICLR 2025. 500 questions across five long-term memory abilities over long interactive histories. The de-facto standard — and the number most vendor claims cite.
+
+**[LongMemEval-V2](https://github.com/xiaowu0162/LongMemEval-V2)** - Official successor, released 2026, addressing saturation and contamination in the original.
+
+**[Mem-Gallery](https://github.com/YuanchenBei/Mem-Gallery)** - ACL 2026 Main. Multimodal long-term conversational memory for MLLM agents. Last push Jan 2026.
+
+**[MemoryData](https://github.com/OpenDataBox/MemoryData)** - Unified harness — 4 benchmark families, 22 method presets, one runtime — built specifically to make heterogeneous memory systems comparable. Directly attacks the fragmentation problem [Evaluation & Benchmarks](#evaluation--benchmarks) documents.
+
+**[STATE-Bench](https://github.com/microsoft/STATE-Bench)** - Microsoft. Memory-agnostic enterprise workflows measuring whether an agent improves with experience, not whether it recalls a fact. Blog write-up in [Adjacent Research](#adjacent-research).
+
+### Hosted and Closed-Source Memory Products
+
+**[AccInt](https://accint.xyz)** - Local-first MCP Work Model for coding agents that retrieves scored memory, records actions, and credits real outcomes; engine is a closed-source binary.
+
+**[Agent QA](https://vostride.com/docs/agent-qa)** - QA agent that retains persistent test memory to reuse prior runs and self-heal natural-language web and mobile tests.
+
+**[Agentage Memory](https://memory.agentage.io)** - Remote MCP memory server (OAuth 2.1 + PKCE + DCR) giving Claude, Cursor, and ChatGPT one shared markdown memory mirrored locally as files you own.
+
+**[brethof-brain](https://brethof.ai/brain/)** - Memory for 20 coding-agent harnesses via hooks: session-start brief, per-prompt recall, archived turns, decisions with date and reason; local or hosted store, vendor-side processing.
+
+**[ByteRover](https://www.byterover.dev/)** - LLM-curated hierarchical context tree for coding agents, with git-like branching, cloud sync, and MCP; formerly Cipher.
+
+**[Context Mode](https://context-mode.com/)** - Context-window optimization for AI coding agents: diverts large tool outputs into a locally searchable store and persists session memory across platforms via MCP and hooks.
+
+**[ContextStream](https://contextstream.io)** - Hosted MCP context layer for coding agents: persistent decisions and lessons, semantic code search, post-compaction recovery; MIT-licensed Rust client, hosted backend closed-source.
+
+**[Firekeep](https://firekeep.ai/)** - Self-hosted shared memory, working context, coordination, and evidence for Claude Code, Codex, Kiro, OpenCode, and other MCP clients.
+
+**[Marvnor](https://wendelxia.github.io/marvnor/)** - Hosted structured memory API for AI agents, with answers grounded in stored records, conflict detection, in-place correction, and targeted deletion.
+
+**[Membase](https://membase.com/)** - Memory layer shared by Claude, ChatGPT, Cursor and custom agents via MCP or MIT-licensed Python/TypeScript SDKs; hosted, or local on a compiled engine.
+
+**[MemoraX](https://memorax.ai/)** - Memory layer for long-horizon agents from MemoraX AI; core system is API-only; #1, Agent Memory Leaderboard (industry textual, 2026-08).
+
+**[MemoraX Code](https://code.memorax.net/)** - Coding-agent memory product—not a text-chatbot memory layer—that carries engineering experience, repository knowledge, preferences, and procedures across tasks and sessions.
+
+**[MemorySync](https://memorysync.io/)** - Hosted memory API for AI apps: stores, searches and deletes memories per end user via REST, Python and Node.js SDKs, or remote MCP server.
+
+**[Mnemosyne OS](https://mnemosyne-os.io/)** - Desktop memory app (Windows, macOS, Linux); watched folders feed separate vaults; vector and local BM25 search; MIT MCP server; BEAM 49.2% at 10M, self-reported.
+
+**[Monolithos](https://monolithos.ai/)** - Personal agent app (macOS, iOS, Windows); memory is a local Markdown vault; vendor servers route model calls; opt-in cloud copy enables read-only MCP recall.
+
+**[Monolithos Robot Brain](https://robot-brain.monolithos.ai/)** - Long-term memory and experience layer for embodied AI; public Alpha under an evaluation license, core ships as a compiled package; HTTP API and Python SDK.
+
+**[Moraine Home](https://github.com/ceniran/moraine-home)** - Local-first memory workbench for personal agents and companions: hybrid keyword/vector retrieval, human-and-agent review of candidates, reversible consolidation, timelines, and MCP/HTTP interfaces.
+
+**[Okto Neuron](https://oktolabs.ai/platform/neuron/)** - Local-first knowledge graph memory from Markdown notes and agent writes; a user-configured LLM extracts claims; MCP answers can cite file path, byte range, content hash.
+
+**[ORANO](https://oranoai.com/)** - Consumer app that distills saved Reels, videos, articles, and PDFs into projects and memory facts that the user's agent reads over a read-only MCP server.
+
+**[past.dev](https://past.dev/)** - Temporal memory API: stores timestamped text with its source; recall returns facts current at a given time and what each replaced; REST and remote MCP.
+
+**[Perseus Vault (formerly Mimir)](https://perseus.observer/vault/)** - Local MCP memory server as a single Rust binary: SQLite FTS5 plus vector hybrid search, AES-256-GCM at rest; GitHub source repository not publicly accessible (2026-09).
+
+**[RE-call](https://github.com/GiulioDER/RE-call)** - Postgres plus pgvector memory retrieval for AI agents, with provenance, trust verdicts, tenant isolation, MCP access, and abstention when evidence is insufficient.
+
+**[Remio](https://remio.ai/)** - Local-first personal knowledge base that indexes files, webpages, recordings, notes, emails, and messages for agent retrieval via search and RAG.
+
+**[Remnant](https://remnant.dedale-bi.com/)** - Hosted collective memory over MCP: agents search other agents' published technical experience, inspect provenance, record outcomes, and contribute lessons through a separately authorized connection.
+
+**[screenpipe](https://screenpipe.com)** - Local-first work memory that captures screen, audio, input, browser, and meeting context for search and agent retrieval.
+
+**[Sentra](https://www.sentra.app/)** - Organization-wide memory layer for teams and agents: ingests meetings, mail, tickets, and repositories into a bi-temporal fact graph served over REST and MCP.
+
+**[Supermemory](https://supermemory.ai/)** - Memory API, hosted or free self-hosted; SDKs, MCP server, and dashboard are MIT, but the memory engine ships only as a prebuilt binary.
+
+**[TokenRip](https://tokenrip.com)** - Hosted MCP workspace shared by Claude, ChatGPT, Codex and Cursor: versioned files, tasks and pinned decisions, each change recording which agent made it; MIT CLI.
+
+**[Wontopos (Tablet 2)](https://wontopos.com/)** - Memory API with no language model in the retrieval path; paper-reported 95.7% LongMemEval-S, 95.2% recall@5 over 70 language pairs, and BEAM-1M 67.5% with published harness.
+
+**[Zambo](https://zambo.dev)** - Hosted MCP tool gateway with saved-fact recall across AI clients, session handover between them, and a public SHA-256 receipt per call.
+
 ## More AI Development Tools
 
 Tools outside the main lists above. Format: `- [Tool Name](https://example.com/) - Brief description.`
@@ -1794,14 +2208,6 @@ SQL and database assistants, shell and Git helpers, agent-building frameworks, p
 - [TinyTools](https://tinytools-smoky.vercel.app/) - A collection of free browser-based developer utilities including an AI Cost Calculator for comparing LLM pricing, an AI Robots.txt Generator for LLM crawlers, an AI Content Disclosure Generator (EU AI Act Article 50 compliant), an AI Background Remover that runs locally via WebAssembly, plus OG image, favicon, color palette, and SEO meta tag generators. No signup, open source.
 - [WhoDB](https://github.com/clidey/whodb) - An AI-powered data explorer for various databases.
 - [Wren AI](https://getwren.ai/oss) - An open-source SQL AI Agent that allows users to get results and insights by asking questions without writing SQL.
-
-### Agent Memory Lists
-
-Curated lists on memory systems for AI agents.
-
-- [Awesome Agent Memory (cxxz)](https://github.com/cxxz/awesome-agent-memory) - A curated list of projects on memory systems of AI agents, from standalone libraries and frameworks to design comparisons.
-- [Awesome Agent Memory (tfatykhov)](https://github.com/tfatykhov/awesome-agent-memory) - Curated research on memory systems for LLM agents.
-- [Awesome-Agent-Memory (TeleAI-UAGI)](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - Curated systems, benchmarks, and papers on memory for LLMs and MLLMs, covering long-term context, retrieval, and reasoning.
 
 ---
 

@@ -9,6 +9,7 @@ This list covers AI tools for developers, grouped into sections:
 - **AI Coding Tools**: coding agents and CLIs, AI-enhanced editors and IDEs, code completion and generation assistants, self-hosted and local-model coding tools, and codebase chat/search tools
 - **Agent Orchestrators**: tools that run, coordinate, or supervise multiple AI coding agents (parallel runners, swarms, loop and task runners)
 - **Agent Sandboxes**: sandboxes, runtimes, and isolation technologies for running agents and AI-generated code safely
+- **Agent Memory**: memory layers, MCP memory servers, and memory benchmarks for AI agents
 - **More AI Development Tools**: personal assistants, agent extensions (MCP servers, skills, plugins), app builders, code review/testing/security/docs tools, and other developer utilities
 
 Generic AI products without a clear developer use case are out of scope.
