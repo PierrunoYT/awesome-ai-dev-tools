@@ -991,6 +991,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Void](https://voideditor.com/)** - An open-source AI-powered code editor with local model hosting support.
 
+**[Volt](https://github.com/LeulAria/volt)** - An open-source agentic workspace built on the VS Code core that runs Claude Code, Codex, and other ACP agents or local Ollama models, with plan mode, subagents, MCP, Git checkpoints, and hunk-level review of agent edits.
+
 **[vx.dev](https://github.com/Yuyz0112/vx.dev)** - A GitHub integration focused on UI generation with built-in support for shadcn, lucide, and nivo charts.
 
 **[Warp](https://www.warp.dev/)** - A modern terminal emulator with AI command assistance, block-based organization, and team collaboration features.
