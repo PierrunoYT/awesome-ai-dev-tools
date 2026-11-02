@@ -1795,9 +1795,13 @@ SQL and database assistants, shell and Git helpers, agent-building frameworks, p
 - [WhoDB](https://github.com/clidey/whodb) - An AI-powered data explorer for various databases.
 - [Wren AI](https://getwren.ai/oss) - An open-source SQL AI Agent that allows users to get results and insights by asking questions without writing SQL.
 
----
+### Agent Memory Lists
 
-*Back to the main list: [Awesome AI Coding Tools](README.md)*
+Curated lists on memory systems for AI agents.
+
+- [Awesome Agent Memory (cxxz)](https://github.com/cxxz/awesome-agent-memory) - A curated list of projects on memory systems of AI agents, from standalone libraries and frameworks to design comparisons.
+- [Awesome Agent Memory (tfatykhov)](https://github.com/tfatykhov/awesome-agent-memory) - Curated research on memory systems for LLM agents.
+- [Awesome-Agent-Memory (TeleAI-UAGI)](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - Curated systems, benchmarks, and papers on memory for LLMs and MLLMs, covering long-term context, retrieval, and reasoning.
 
 ---
 
