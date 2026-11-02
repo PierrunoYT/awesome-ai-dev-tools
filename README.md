@@ -200,7 +200,7 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[MiMo Code](https://mimo.xiaomi.com/)** - Xiaomi MiMo's long-horizon coding agent initiative, focused on computation, memory, and evolution for coding workflows.
 
-**[MiniMax Code](https://code.minimax.io/)** - MiniMax's coding harness for building agent teams, learning developer habits, and turning repetitive engineering tasks into reusable skills.
+**[MiniMax Code](https://github.com/MiniMax-AI/minimax-code)** - MiniMax's open-source terminal coding agent, powered by MiniMax models.
 
 **[Mistral Vibe](https://mistral.ai/products/vibe)** - Mistral AI's terminal-native coding agent powered by Devstral models, with multi-file context, autonomous command execution, IDE integration, offline support, and custom subagents.
 
