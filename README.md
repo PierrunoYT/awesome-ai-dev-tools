@@ -703,6 +703,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Ogoron](https://www.everydev.ai/tools/ogoron)** - An AI testing platform that analyzes code changes and application architecture to generate and maintain API, UI, and mobile tests.
 
+**[Oh My Android](https://github.com/ateymoori/oh-my-android)** - An open-source macOS app with a built-in MCP server that lets AI coding agents see and drive the Android Emulator and adb devices: screenshots and UI tree in dp, taps and swipes, logcat, dark mode, font scale, and RTL.
+
 **[Onboard](https://www.getonboardai.com)** - An AI chat platform that allows users to chat with AI about public and private codebases.
 
 **[OneCompiler](https://onecompiler.com/)** - A free AI-powered online compiler supporting over 70 languages for writing, running, and sharing code.
