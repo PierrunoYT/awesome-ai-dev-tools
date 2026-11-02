@@ -64,6 +64,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Cline](https://cline.bot/)** - A VS Code extension and open-source AI coding assistant, with Cline CLI for terminal-based interactive and headless workflows that can execute commands, manage files, interact with browsers, automate CI/CD, and support multiple AI models.
 
+**[Cloudroom](https://github.com/davidondrej/cloudroom)** - Open-source (Apache-2.0) desktop app that runs Claude Code, Codex, Pi, and other coding agents on your computer or in cloud sandboxes, with a separate sandbox and Git branch per thread.
+
 **[Codebuff](https://www.codebuff.com/)** - A terminal-based coding assistant that uses natural language to modify codebases across 11 languages.
 
 **[CodeComplete](https://codecomplete.ai/)** - A self-hosted enterprise code completion assistant.
@@ -222,6 +224,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** - An open-source AI development assistant with multi-language support.
 
+**[Open-Inspect](https://github.com/ColeMurray/background-agents)** - Open-source (MIT) background coding agent system inspired by Ramp's Inspect, with Slack, Linear, and GitHub triggers.
+
 **[Open Interpreter](https://openinterpreter.com/)** - An open-source coding agent for open models.
 
 **[PearAI](https://trypear.ai/)** - An open-source fork of VS Code with integrated chat and inline code generation capabilities.
@@ -254,13 +258,15 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Refact.ai](https://refact.ai/)** - An open-source AI coding assistant using the Qwen2.5-Coder model with Retrieval-Augmented Generation (RAG) for context-aware code completion and refactoring.
 
+**[Replicas](https://replicas.dev/)** - Cloud coding-agent platform that runs Claude Code, Codex, and other agents in isolated VMs and returns pull requests from Linear, Slack, GitHub, or a dashboard.
+
 **[Replit](https://replit.com/)** - A cloud-based IDE with AI-powered coding assistance (Ghostwriter), real-time collaboration, and instant deployment features.
 
 **[Replit Agent](https://replit.com/ai)** - Replit's multi-agent system for building applications through natural language, featuring automated environment setup and deployment.
 
 **[Replit Ghostwriter](https://replit.com/ghostwriter)** - Replit's integrated AI coding assistant, offering code completion, generation, transformation, and explanation within the online IDE.
 
-**[Roo Code](https://github.com/RooVetGit/Roo-Code)** - A VS Code extension with natural language interaction, multi-provider support, and specialized coding modes.
+**[Roomote](https://roomote.dev/)** - Cloud coding agent from the Roo Code team that runs tasks end to end from Slack, GitHub, and Linear and returns pull requests. Source-available and self-hostable.
 
 **[Rovo Dev CLI](https://support.atlassian.com/rovo/docs/use-rovo-dev-cli)** - Atlassian's terminal-based AI coding agent for code generation, review, refactoring, debugging, documentation, unit tests, Jira work items, Confluence content, and MCP-powered workflows.
 
