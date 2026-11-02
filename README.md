@@ -286,6 +286,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[SwePT](https://github.com/keerthanpg/SwePT)** - An open-source pull request generator written in Python.
 
+**[T3 Code](https://github.com/pingdotgg/t3code)** - Open-source control plane for coding agents, with desktop and mobile apps that drive your existing Claude Code, Codex, Cursor, Grok Build, OpenCode, and Antigravity setups.
+
 **[Tabby](https://tabbyml.github.io/tabby/)** - An open-source, self-hosted code completion assistant.
 
 **[Tabnine](https://www.tabnine.com/)** - An AI code completion assistant that emphasizes privacy, offering local models and custom training on your codebase.
