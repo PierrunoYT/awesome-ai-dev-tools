@@ -1,4 +1,4 @@
-# 🚀 Awesome AI Dev Tools
+# Awesome AI Dev Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Awesome-AI%20Dev%20Tools-blue?style=for-the-badge&logo=artificial-intelligence" alt="Awesome AI Dev Tools">
@@ -6,19 +6,19 @@
   <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of AI coding agents, editors, agent orchestrators, sandboxes, and developer tools to supercharge your workflow 🔥
+> A curated collection of AI coding agents, editors, agent orchestrators, sandboxes, and developer tools to supercharge your workflow
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [🎯 About](#-about)
-- [💻 AI Coding Tools](#-ai-coding-tools)
-- [🎼 Agent Orchestrators](#-agent-orchestrators)
-- [🔒 Agent Sandboxes](#-agent-sandboxes)
-- [🧰 More AI Development Tools](#-more-ai-development-tools)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+- [About](#about)
+- [AI Coding Tools](#ai-coding-tools)
+- [Agent Orchestrators](#agent-orchestrators)
+- [Agent Sandboxes](#agent-sandboxes)
+- [More AI Development Tools](#more-ai-development-tools)
+- [Contributing](#contributing)
+- [License](#license)
 
-## 🎯 About
+## About
 
 This repository merges several formerly separate lists into one. Entries are alphabetical within each section.
 
@@ -27,9 +27,9 @@ This repository merges several formerly separate lists into one. Entries are alp
 - **Agent Sandboxes**: Sandboxes, runtimes, and isolation technologies for running agents and AI-generated code safely
 - **More AI Development Tools**: Personal assistants, agent extensions, app builders, code review and testing tools, and other utilities
 
-## 💻 AI Coding Tools
+## AI Coding Tools
 
-> **📝 Note**: All tools are organized alphabetically for easy navigation. Each entry includes a brief description and key features.
+> **Note**: All tools are organized alphabetically for easy navigation. Each entry includes a brief description and key features.
 
 **[16x Prompt](https://prompt.16x.engineer/)** - An AI assistant designed to help developers throughout the software development lifecycle.
 
@@ -341,9 +341,9 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[ZZZ Code AI](https://zzzcode.ai/)** - An AI code assistant.
 
-## 🎼 Agent Orchestrators
+## Agent Orchestrators
 
-> **📝 Note**: All tools are organized alphabetically for easy navigation. Each entry includes a brief description and key features. Entries ending in a `last commit` note have had no recent activity.
+> **Note**: All tools are organized alphabetically for easy navigation. Each entry includes a brief description and key features. Entries ending in a `last commit` note have had no recent activity.
 
 **[1code](https://github.com/21st-dev/1code)** - Orchestration layer for Claude Code and Codex. _(last commit 2026-03; archived)_
 
@@ -1025,16 +1025,16 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[zuse](https://github.com/swarajbachu/zuse)** - Chat-first desktop app wrapping Claude Code, Codex, Grok, Gemini, Cursor, and OpenCode in persistent sessions. macOS and Linux.
 
-## 🔒 Agent Sandboxes
+## Agent Sandboxes
 
-### 🎯 Why Sandbox Agents
+### Why Sandbox Agents
 
 - **Untrusted code.** Model-generated code can be wrong or malicious, and may be steered by prompt injection.
 - **Blast radius.** Limit filesystem, network, credential, and process access to what the task needs.
 - **Reproducibility.** Fresh, disposable environments make agent runs repeatable and easy to discard.
 - **Parallelism.** Many agents can run concurrently without stepping on each other.
 
-### 🧭 Choosing an Isolation Level
+### Choosing an Isolation Level
 
 | Level | Mechanism | Boundary | Typical startup | Trade-off |
 | --- | --- | --- | --- | --- |
@@ -1046,7 +1046,7 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 Pick the weakest boundary you can defend against your threat model. Code from untrusted users or multi-tenant workloads generally calls for a microVM or user-space kernel; a single developer running their own agent often does fine with a container or a process-level sandbox.
 
-### ☁️ Hosted Sandbox Platforms
+### Hosted Sandbox Platforms
 
 Managed services that give agents on-demand isolated environments through an API or SDK.
 
@@ -1112,7 +1112,7 @@ Managed services that give agents on-demand isolated environments through an API
 
 **[YepCode Run](https://yepcode.io/run)** - Serverless JavaScript and Python execution in sandboxes.
 
-### 🏗️ Self-Hosted Sandbox Runtimes
+### Self-Hosted Sandbox Runtimes
 
 Open-source runtimes you operate on your own hardware or cloud.
 
@@ -1206,7 +1206,7 @@ Open-source runtimes you operate on your own hardware or cloud.
 
 **[zapcode](https://github.com/TheUncharted/zapcode)** - Sandboxed TypeScript execution engine for AI tools.
 
-### 💻 Local Sandboxes for Coding Agents
+### Local Sandboxes for Coding Agents
 
 Tools that confine a coding agent running on your own machine.
 
@@ -1320,7 +1320,7 @@ Tools that confine a coding agent running on your own machine.
 
 **[Yolobox](https://github.com/finbarr/yolobox)** - Runs coding agents in Docker containers that keep them away from your home directory.
 
-### 🧱 Isolation Primitives
+### Isolation Primitives
 
 Low-level building blocks used to build sandboxes.
 
@@ -1350,7 +1350,7 @@ Low-level building blocks used to build sandboxes.
 
 **[Wasmtime](https://github.com/bytecodealliance/wasmtime)** - Standalone WebAssembly runtime with WASI support, usable for sandboxing untrusted plugins and code.
 
-### 🌐 Browser Sandboxes
+### Browser Sandboxes
 
 Isolated browsers for agents that navigate and act on the web.
 
@@ -1358,7 +1358,7 @@ Isolated browsers for agents that navigate and act on the web.
 
 **[Playwright](https://github.com/microsoft/playwright)** - Browser automation library often run inside containers or VMs to isolate agent browsing.
 
-### 🔌 Sandbox Abstraction Layers
+### Sandbox Abstraction Layers
 
 Unified APIs that run the same code across several sandbox providers.
 
@@ -1366,7 +1366,7 @@ Unified APIs that run the same code across several sandbox providers.
 
 **[VibeKit](https://docs.vibekit.sh/)** - SDK that runs coding agents on providers such as E2B, Daytona, and Modal.
 
-## 🧰 More AI Development Tools
+## More AI Development Tools
 
 Tools outside the main lists above. Format: `- [Tool Name](https://example.com/) - Brief description.`
 
@@ -1785,7 +1785,7 @@ SQL and database assistants, shell and Git helpers, agent-building frameworks, p
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome. Please read the [contributing guidelines](CONTRIBUTING.md) before opening a pull request. In short:
 
@@ -1795,7 +1795,7 @@ Contributions are welcome. Please read the [contributing guidelines](CONTRIBUTIN
 - Avoid duplicate entries, generic AI products without a clear developer use case, and purely promotional language.
 - Open an issue or pull request with enough context to explain why the tool belongs in this list.
 
-## 📄 License
+## License
 
 This project is shared as a curated community resource. Please check the repository for license details before reusing the content.
 
