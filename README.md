@@ -695,6 +695,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[New Relic](https://newrelic.com/)** - A performance monitoring platform with intelligent alerting and AI-powered insights for application observability.
 
+**[Newly](https://newly.app/)** - AI app builder for creating native iOS and Android apps from natural-language prompts.
+
 **[Nimbalyst](https://nimbalyst.com/)** - An agent management environment for Claude Code and Codex. Interactive visual editing. Parallel session management.
 
 **[Northflank](https://northflank.com/)** - A platform for deploying and running applications and AI workloads, with support for isolated, ephemeral environments for executing code and agents.
