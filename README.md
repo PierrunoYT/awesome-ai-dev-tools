@@ -282,8 +282,6 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** - A Go coding agent distributed as a single binary, built for long unattended runs. Use it from the terminal, a desktop app, a browser, or an editor over ACP, with configurable providers, plan mode, MCP, a workspace sandbox, and per-turn checkpoints.
 
-**[Refact.ai](https://refact.ai/)** - An open-source AI coding assistant using the Qwen2.5-Coder model with Retrieval-Augmented Generation (RAG) for context-aware code completion and refactoring.
-
 **[Replicas](https://replicas.dev/)** - Cloud coding-agent platform that runs Claude Code, Codex, and other agents in isolated VMs and returns pull requests from Linear, Slack, GitHub, or a dashboard.
 
 **[Replit](https://replit.com/)** - A cloud-based IDE with AI-powered coding assistance (Ghostwriter), real-time collaboration, and instant deployment features.
