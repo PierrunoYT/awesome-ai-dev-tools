@@ -125,6 +125,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Applitools](https://applitools.com/)** - A visual AI testing platform that compares UI screenshots across environments, using AI to detect meaningful visual regressions.
 
+**[AppWizzy](https://appwizzy.com/)** - An AI web app builder with dedicated cloud development VMs, runtime templates, and Git-based source editing.
+
 **[Appypie](https://www.appypie.com/ai-app-generator)** - An AI-powered mobile app generator for creating iOS and Android applications without coding.
 
 **[ariana](https://github.com/ariana-dot-dev/ariana)** - The IDE of the future.
