@@ -58,6 +58,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Bloop](https://bloop.ai/)** - An AI-powered tool for natural language search across repositories and codebase understanding.
 
+**[Boxes.dev](https://boxes.dev/)** - Gives every Claude Code or Codex agent its own cloud computer on your existing subscription, with agents started from Slack or Linear and managed from desktop, phone, or terminal.
+
 **[Buildt](https://www.buildt.ai/)** - A tool for natural language search across repositories (currently waitlisted).
 
 **[ChatIDE](https://github.com/yagil/ChatIDE)** - A VSCode extension that allows you to chat with ChatGPT directly within the editor.
