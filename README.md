@@ -48,6 +48,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Augment Code](https://www.augmentcode.com)** - An AI-powered developer platform for professional engineers and large codebases, with Auggie CLI for terminal-based coding, semantic codebase understanding, resumable sessions, sub-agents, and CI/CD integration.
 
+**[AutoCodeRover](https://github.com/AutoCodeRoverSG/auto-code-rover)** - A project-structure-aware autonomous software engineer that resolves GitHub issues, reporting 46.2% pass@1 on SWE-bench Verified.
+
 **[Autohand AI](https://autohand.ai/?ref=terminaltrove)** - An adaptive continuous engineering platform for automating software development workflows with AI agents.
 
 **[Bito AI](https://bito.ai/)** - An AI assistant that integrates with IDEs and browsers to speed up development tasks, offering code generation, explanation, performance checks, security analysis, and more.
@@ -87,6 +89,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 **[Command Code](https://commandcode.ai/)** - A CLI-based AI coding agent that learns a developer's coding style, supports multiple LLM providers, and can build features, fix bugs, write tests, refactor code, and generate commits or pull requests.
 
 **[Cosine](https://cosine.sh/)** - Trains AI models and specialized coding agents for organizations that need frontier capability within secure environments.
+
+**[CoStrict](https://costrict.ai/)** - Open-source (Apache-2.0) enterprise-focused AI coder with an agent, code review, and code completion, built around quality-first output.
 
 **[Crush](https://github.com/charmbracelet/crush)** - A terminal-based AI coding assistant by Charmbracelet that brings agentic AI capabilities directly to your command line, supporting multiple LLMs, LSP integration, Model Context Protocol (MCP) servers, and cross-platform compatibility.
 
@@ -208,6 +212,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Nanocoder](https://github.com/Nano-Collective/nanocoder)** - A local-first, open-source terminal coding agent with interactive and non-interactive modes, multi-provider support, local model support, and community-driven development.
 
+**[Niteshift](https://niteshift.dev/)** - A cloud for coding agents that gives Claude Code, Codex, OpenCode, Pi, and others a real environment to run and verify work, and returns a pull request with evidence that it works.
+
 **[Ona](https://ona.com/)** - Runs background coding agents in the cloud as a team of AI software engineers, with orchestration, governance, and kernel-level isolation.
 
 **[Onuro AI](https://www.onuro.ai/)** - A leading AI-powered code editor.
@@ -306,9 +312,13 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Unblocked](https://getunblocked.com/)** - An AI-powered code context and chat assistant with integration across GitHub, Slack, and Jira.
 
+**[Verdent](https://www.verdent.ai/)** - An agentic coding suite with parallel agents, plan mode, and bring-your-own-key support for VS Code, JetBrains, Mac, and Windows.
+
 **[Void](https://voideditor.com/)** - An open-source AI-powered code editor with local model hosting support.
 
 **[Volt](https://github.com/LeulAria/volt)** - An open-source agentic workspace built on the VS Code core that runs Claude Code, Codex, and other ACP agents or local Ollama models, with plan mode, subagents, MCP, Git checkpoints, and hunk-level review of agent edits.
+
+**[Vorflux](https://vorflux.com/)** - Cloud agents that run the full software development lifecycle on dedicated machines and ship production code.
 
 **[Warp](https://www.warp.dev/)** - A modern terminal emulator with AI command assistance, block-based organization, and team collaboration features.
 
