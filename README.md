@@ -92,6 +92,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[CodeWP](https://codewp.ai/)** - AI tools specifically trained for WordPress developers, offering code generation for snippets and plugins.
 
+**[Coincide](https://coincide.dev/)** - Open-source (MIT) native macOS app that drives the official CLIs of Claude Code, Codex, Cursor, Grok Build, OpenCode and Antigravity with your existing logins, with one model picker and the ability to switch agents mid-thread.
+
 **[Command Code](https://commandcode.ai/)** - A CLI-based AI coding agent that learns a developer's coding style, supports multiple LLM providers, and can build features, fix bugs, write tests, refactor code, and generate commits or pull requests.
 
 **[Cosine](https://cosine.sh/)** - Trains AI models and specialized coding agents for organizations that need frontier capability within secure environments.
