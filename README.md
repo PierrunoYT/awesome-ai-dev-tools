@@ -881,6 +881,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[skillfold](https://github.com/byronxlg/skillfold)** - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into agent skills for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf.
 
+**[SkillHey](https://skillhey.com/)** - Curated directory of agent skills for Claude Code, Codex, and Cursor, browsable by category in nine languages.
+
 **[Smol Developer](https://github.com/smol-ai/developer)** - A CLI agent that generates entire repositories from a prompt, using OpenAI and Anthropic.
 
 **[Snyk](https://snyk.io/)** - A developer security platform that helps find and fix vulnerabilities in code, dependencies, and containers.
