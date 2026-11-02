@@ -697,6 +697,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[OctoMind](https://octomind.dev)** - An AI-powered platform for generating and maintaining browser-based end-to-end tests, integrated into CI/CD pipelines.
 
+**[Off the Wall](https://github.com/toranalytics/off-the-wall)** - An open-source plugin for Claude Code and Codex that quotes your own past corrections back to the agent before it answers, reports what you correct most, and gives the orchestrator model-selection guidance for subagent calls.
+
 **[Ogoron](https://www.everydev.ai/tools/ogoron)** - An AI testing platform that analyzes code changes and application architecture to generate and maintain API, UI, and mobile tests.
 
 **[Onboard](https://www.getonboardai.com)** - An AI chat platform that allows users to chat with AI about public and private codebases.
