@@ -52,6 +52,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 
 **[Autohand AI](https://autohand.ai/?ref=terminaltrove)** - An adaptive continuous engineering platform for automating software development workflows with AI agents.
 
+**[Baidu Comate](https://comate.baidu.com/en)** - Baidu's AI coding assistant built on its ERNIE models, offering code generation, unit test and comment generation, and codebase Q&A across 100+ programming languages.
+
 **[Bito AI](https://bito.ai/)** - An AI assistant that integrates with IDEs and browsers to speed up development tasks, offering code generation, explanation, performance checks, security analysis, and more.
 
 **[Blackbox AI](https://www.blackbox.ai/)** - An AI coding assistant available as a VS Code extension and web interface, offering autocomplete, chat, and links to online coding references.
@@ -305,6 +307,8 @@ This list focuses on AI tools that write, edit, and reason about code with you: 
 **[Tembo](https://www.tembo.io/)** - Runs any coding agent in the cloud, giving each change its own computer and tracking agent work and merged results with Tembo Insights.
 
 **[Theia IDE](https://theia-ide.org/#theiaide)** - An extensible open-source IDE (web and desktop) with Theia Coder, an AI-powered coding agent that can browse workspaces, propose code changes, and automatically detect and fix issues, with Edit Mode and Agent Mode options.
+
+**[Tongyi Lingma](https://lingma.aliyun.com/)** - Alibaba Cloud's AI coding assistant with inline code completion, multi-file editing, and an agent mode that plans tasks and uses search and terminal tools. Available as a plugin for VS Code, Visual Studio, and JetBrains IDEs, and as the standalone Lingma IDE; free for individuals.
 
 **[Trae](https://www.trae.ai/)** - ByteDance's AI-powered IDE with GPT-4 and Claude integration, featuring Builder and Chat modes.
 
