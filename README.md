@@ -901,6 +901,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Stenography.dev](https://stenography.dev/)** - An AI-powered tool for generating code documentation.
 
+**[subagent-tuner](https://github.com/Kruhlikau/subagent-tuner)** - Claude Code mod that lets developers choose the model and reasoning effort of each subagent, by asking first, by task-kind recommendation, or from a saved default.
+
 **[subtask](https://github.com/zippoxer/subtask)** - Claude Skill to do tasks with subagents in Git worktrees.
 
 **[sudocode](https://sudocode.ai/)** - A web-based chat assistant for generating projects, similar to Code Interpreter.
