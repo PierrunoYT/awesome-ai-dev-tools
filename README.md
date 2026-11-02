@@ -1,12 +1,12 @@
-# 🚀 Awesome AI Development Tools
+# 🚀 Awesome AI Coding Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Awesome-AI%20Dev%20Tools-blue?style=for-the-badge&logo=artificial-intelligence" alt="Awesome AI Dev Tools">
-  <img src="https://img.shields.io/github/stars/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=github" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-dev-tools?style=for-the-badge&logo=git" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Awesome-AI%20Coding%20Tools-blue?style=for-the-badge&logo=artificial-intelligence" alt="Awesome AI Coding Tools">
+  <img src="https://img.shields.io/github/stars/PierrunoYT/awesome-ai-coding-tools?style=for-the-badge&logo=github" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/last-commit/PierrunoYT/awesome-ai-coding-tools?style=for-the-badge&logo=git" alt="Last Commit">
 </div>
 
-> A curated collection of **150+** AI coding agents, editors, and IDEs to supercharge your coding workflow 🔥
+> A curated collection of **140+** AI coding agents, editors, and IDEs to supercharge your coding workflow 🔥
 
 ## 📋 Table of Contents
 
@@ -34,8 +34,6 @@ Looking for orchestrators, MCP servers and skills, app builders, code review and
 
 **[16x Prompt](https://prompt.16x.engineer/)** - An AI assistant designed to help developers throughout the software development lifecycle.
 
-**[aGiTrack](https://github.com/core-aix/agitrack)** - Terminal wrapper for Claude Code, Codex, and OpenCode that turns each agent turn into a git commit, recording the prompt, model, and token cost in the commit message, with a local dashboard over the resulting history.
-
 **[Aider](https://aider.chat/)** - An open-source AI pair programming tool that works directly in your terminal, offering Git integration, multi-file editing, and natural language commands for code generation, debugging, refactoring, and automated commits.
 
 **[aiXcoder](https://www.aixcoder.com/en/#/)** - An intelligent programming assistant available as local or cloud-based service, offering predictive coding and extensions for various IDEs.
@@ -45,8 +43,6 @@ Looking for orchestrators, MCP servers and skills, app builders, code review and
 **[Amp](https://ampcode.com)** - An advanced AI coding agent by Sourcegraph available as a VS Code extension and command-line tool, offering multiplayer functionality and cloud-synchronized threads.
 
 **[Android Studio Bot](https://developer.android.com/studio/preview/studio-bot)** - An AI assistant tightly integrated into Android Studio, designed to help Android developers generate code, find resources, and learn best practices.
-
-**[Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension)** - VS Code extension that bridges mobile devices to Google's Antigravity IDE (a Claude-powered VS Code fork). Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
 
 **[AskCodi](https://www.askcodi.com/)** - An AI coding assistant with extensions for VS Code, JetBrains, and Sublime Text, offering code generation, explanation, documentation, and test creation features.
 
@@ -125,8 +121,6 @@ Looking for orchestrators, MCP servers and skills, app builders, code review and
 **[Firebender](https://firebender.com/)** - An AI coding agent built for Android Studio and IntelliJ, focused on Kotlin and Android development.
 
 **[ForgeCode](https://forgecode.dev/)** - A CLI-based AI coding harness with multi-agent workflows, flexible model selection, custom agents, and codebase context tools for terminal-driven development.
-
-**[fractal](https://github.com/plasma-ai/fractal)** - Open-source runtime for bounded hierarchical coding-agent loops with recursive delegation, isolated Git worktrees, persistent SQLite state, and live operator controls.
 
 **[Fynix](https://fynix.ai)** - An AI coding assistant designed to help developers throughout the SDLC.
 
@@ -232,8 +226,6 @@ Looking for orchestrators, MCP servers and skills, app builders, code review and
 
 **[Open Interpreter](https://openinterpreter.com/)** - An open-source coding agent for open models.
 
-**[outsourcerer](https://github.com/alexgreensh/outsourcerer)** - Delegate coding grunt-work to other harnesses and models while your main session stays the orchestrator.
-
 **[PearAI](https://trypear.ai/)** - An open-source fork of VS Code with integrated chat and inline code generation capabilities.
 
 **[Phind](https://www.phind.com/)** - An AI search engine specifically designed for developers, providing direct answers to technical questions with code examples.
@@ -250,8 +242,6 @@ Looking for orchestrators, MCP servers and skills, app builders, code review and
 
 **[PoorCoder](https://github.com/vgrichina/poorcoder)** - A collection of Bash scripts that assist coding using AI apps like Claude and ChatGPT, by extracting code context and generating AI commit messages.
 
-**[Potpie](https://potpie.ai)** - An open-source platform for creating AI Agents for your codebase in minutes, with pre-built agents for Q&A, Testing, Debugging, and System Design.
-
 **[Project IDX](https://idx.dev)** - Google's cloud-based IDE with Gemini AI integration, built on VS Code core, offering multi-framework and multiplatform support.
 
 **[PromptMate](https://github.com/MateusZitelli/PromptMate)** - A VSCode extension that embeds ChatGPT for coding assistance.
@@ -263,8 +253,6 @@ Looking for orchestrators, MCP servers and skills, app builders, code review and
 **[Qoder](https://qoder.com/)** - An agentic coding platform with Quest Mode for autonomous task execution, available as an AI-native IDE, JetBrains plugin, and CLI, featuring deep codebase analysis, automated documentation (RepoWiki), and Model Context Protocol (MCP) support.
 
 **[Qodo AI](https://www.qodo.ai)** - A quality-focused generative AI coding platform (formerly Codium) with specialized agents for code generation, test coverage, and merge assistance.
-
-**[Quack AI](https://www.quack-ai.com/)** - A VS Code extension for adhering to project coding guidelines and enforcing standards.
 
 **[Qwen Code](https://github.com/QwenLM/qwen-code)** - An open-source terminal AI coding agent optimized for Qwen models, with multi-provider support, built-in tools, skills, sub-agents, and IDE integrations.
 
