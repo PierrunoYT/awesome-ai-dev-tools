@@ -1031,8 +1031,6 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[ZeroPath](https://zeropath.com/)** - An AI-native application security scanner that finds logic flaws, auth issues, and vulnerabilities, and generates patches.
 
-**[Zite](https://zite.com/)** - An AI builder for creating apps, workflows, and databases for teams from a plain-language description.
-
 **[ZZZ Code AI](https://zzzcode.ai/)** - An AI code assistant.
 
 ---
