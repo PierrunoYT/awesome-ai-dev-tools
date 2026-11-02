@@ -457,6 +457,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[Borg](https://github.com/adelphidata/borg)** - Security-first assistant in Rust built to run unattended, with a sandbox on by default, self-healing, long-term memory, schedules, and sub-agents, reachable over Telegram, Slack, Discord, Signal, WhatsApp, iMessage, a TUI, or a desktop app.
 
+**[Boxes.dev](https://boxes.dev/)** - Gives every Claude Code or Codex agent its own cloud computer on your existing subscription, with agents started from Slack or Linear and managed from desktop, phone, or terminal.
+
 **[Brow](https://github.com/efim0v/brow)** - GPL-3.0 macOS app for running parallel Claude Code sessions on a multi-repo project: its menu-bar Workspaces gives each feature one folder holding a git worktree of every chosen repository, all on one branch, and moves a session to another Claude account, while the MacBook notch shows every account's 5-hour and weekly limits. Requires macOS 26+ on Apple silicon.
 
 **[buzz](https://github.com/block/buzz)** - Agents are first-class members of shared channels on a Nostr relay you own, with their own keys and audit trails. Claude Code, Codex, Goose.
@@ -508,6 +510,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 **[codex-action](https://github.com/openai/codex-action)** - OpenAI's official GitHub Action, running Codex CLI headlessly under drop-sudo, unprivileged-user, or fully read-only sandboxes.
 
 **[CodexMonitor](https://github.com/Dimillian/CodexMonitor)** - Orchestrate multiple Codex agents across local workspaces. _(last commit 2026-03)_
+
+**[Coincide](https://coincide.dev/)** - Open-source (MIT) native macOS app that drives the official CLIs of Claude Code, Codex, Cursor, Grok Build, OpenCode and Antigravity with your existing logins, with one model picker and the ability to switch agents mid-thread.
 
 **[collaborator](https://github.com/collabs-inc/collab-public)** - Arranges terminals, editors, and files as tiles on an infinite pan-and-zoom canvas instead of tabs.
 
@@ -739,6 +743,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[nimbalyst](https://github.com/nimbalyst/nimbalyst)** - Visual workspace pairing parallel worktree sessions with kanban and direct visual editing. Claude Code, Codex, OpenCode.
 
+**[Niteshift](https://niteshift.dev/)** - A cloud for coding agents that gives Claude Code, Codex, OpenCode, Pi, and others a real environment to run and verify work, and returns a pull request with evidence that it works.
+
 **[no_human](https://github.com/no-human-ai/no_human)** - Takes a ticket (Jira, Linear, monday.com, GitHub/GitLab issues) to a reviewed pull request on your own machine: a second model in a fresh session reviews each diff and is told to refute "done", a tamper guard blocks net test reductions before that review, and merging stays human. Claude Code as the coder; Codex and local backends optional. MIT.
 
 **[nullclaw](https://github.com/nullclaw/nullclaw)** - Fully autonomous assistant infrastructure written in Zig.
@@ -871,6 +877,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[remote-swe-agents](https://github.com/aws-samples/remote-swe-agents)** - Serverless control plane on Lambda with a dedicated EC2 worker per session, triggered by issue comments, assignments, and PR reviews.
 
+**[Replicas](https://replicas.dev/)** - Cloud coding-agent platform that runs Claude Code, Codex, and other agents in isolated VMs and returns pull requests from Linear, Slack, GitHub, or a dashboard.
+
 **[repomon](https://github.com/AliHamzaAzam/repomon)** - Rust TUI that supervises a fleet across many repositories at once, in durable tmux sessions you can approve from your phone.
 
 **[rho](https://github.com/mikeyobrien/rho)** - Stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android.
@@ -958,6 +966,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 **[TaskHandoff](https://github.com/edgestorage/task-handoff)** - Self-hosted web control plane that runs Codex sessions in isolated Docker workspaces on local and remote machines, with per-task checkouts, a diff review gate, and planner/executor/human handoff.
 
 **[Taskuary](https://github.com/ldbumble/taskuary)** - Local-first work inbox that triages email, chat, issue trackers, and scheduled reports into supervised Claude Code, Codex, Gemini, Cursor, or Copilot CLI runs, with conflict-aware queuing, live terminals, and approval-gated replies.
+
+**[Tembo](https://www.tembo.io/)** - Runs any coding agent in the cloud, giving each change its own computer and tracking agent work and merged results with Tembo Insights.
 
 **[Tempest](https://github.com/tempestai-dev/tempest)** - Tauri desktop ADE running CLI agents in parallel isolated worktrees, with a shared local code-knowledge graph that cuts token use across sessions, plus live status and built-in diff/PR review.
 
@@ -1545,6 +1555,7 @@ MCP servers, skills, plugins, context tools, and workflow frameworks that extend
 - [CocoIndex Code](https://github.com/cocoindex-io/cocoindex-code) - An Apache-2.0 code-search CLI and MCP server that uses Tree-sitter-based chunking and semantic search to retrieve code snippets for coding agents.
 - [code2prompt](https://github.com/mufeedvh/code2prompt) - An open-source CLI that converts a codebase into a single LLM prompt with a source tree, templating, and token counting.
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) - An open-source MIT Bash CLI helper for switching OpenAI Codex CLI/Desktop accounts using isolated `CODEX_HOME` profiles, with Homebrew install and no token copying.
+- [Conduit8](https://conduit8.dev) - A CLI registry for discovering, installing, and managing Claude Code skills with one-command installation directly to ~/.claude/skills/.
 - [Constitution Lint Action](https://github.com/joeyycli/constitution-lint-action) - A GitHub Action and pre-commit hook that lints CLAUDE.md-style AI agent constitution files for missing operational guardrails (authority order, injection-defense, spend limits, escalation path, secrets handling), catching gaps in CI before an unattended coding agent runs into them.
 - [Context7](https://github.com/upstash/context7) - An MCP server from Upstash that supplies coding agents with up-to-date, version-specific library documentation and code examples.
 - [CurlShot](https://curlshot.com/) - A screenshot API with a remote MCP server (`take_screenshot`, `list_devices`) so coding agents can capture web pages as PNG, JPEG, WebP, PDF or scrolling video; also exposes an OpenAPI 3.1 spec and llms.txt. Free tier available.
@@ -1568,6 +1579,7 @@ MCP servers, skills, plugins, context tools, and workflow frameworks that extend
 - [Repowise](https://github.com/repowise-dev/repowise) - An open-source codebase intelligence tool for AI coding agents that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
 - [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) - A local semantic codebase search tool that uses vector embeddings for context-aware code search.
 - [Serena](https://github.com/oraios/serena) - An open-source coding agent toolkit that gives LLMs semantic, LSP-based code retrieval and editing tools through MCP.
+- [sharable.link](https://sharable.link) - A free Claude skill that publishes HTML outputs to clean, shareable public URLs. One `/share` command turns dashboards, reports, and landing pages into links anyone can open — no account needed.
 - [SkillHey](https://skillhey.com/) - Curated directory of agent skills for Claude Code, Codex, and Cursor, browsable by category in nine languages.
 - [Spec Kit](https://github.com/github/spec-kit) - GitHub's open-source toolkit for spec-driven development, guiding coding agents from specification to plan, tasks, and implementation.
 - [Stagehand](https://stagehand.dev/) - An open-source SDK from Browserbase for extracting data and interacting with websites using AI and code.
@@ -1577,6 +1589,7 @@ MCP servers, skills, plugins, context tools, and workflow frameworks that extend
 - [Superpowers](https://github.com/obra/superpowers) - An agentic skills framework and software development methodology for coding agents.
 - [Tessl](https://tessl.io/) - A spec-driven development platform and registry of usage specs that help coding agents use libraries correctly.
 - [token-optimizer](https://github.com/alexgreensh/token-optimizer) - Context and token-cost optimizer for coding agents that finds wasted tokens, survives compaction, and fights context-quality decay across Claude Code, Codex, OpenCode, and OpenClaw.
+- [toprank](https://github.com/nowork-studio/toprank) - An open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.
 - [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first memory lifecycle framework for AI coding agents with Rust CLI/TUI, SQLite/FTS recall, forgetting, audit, and adapter hooks.
 - [UI Verify](https://uiverify.ai/) - Visual testing for coding agents: the agent sees screenshot diffs of its UI changes over MCP, from your existing Storybook, Playwright or Vitest tests.
 - [usage](https://github.com/aqua5230/usage) - A macOS menu bar and Windows system tray app that monitors Claude Code, Codex, and Antigravity quota, with burn rate estimates and locally generated usage reports.
@@ -1634,6 +1647,7 @@ Prompt-to-app and prompt-to-site builders, plus design-to-code and UI generators
 - [Modaal](https://modaal.dev/) - A Mac app that builds native iOS and Android apps in SwiftUI and Jetpack Compose with your own AI coding agent, starting from a PRD and a per-feature spec you approve.
 - [Newly](https://newly.app/) - AI app builder for creating native iOS and Android apps from natural-language prompts.
 - [Onlook](https://github.com/onlook-dev/onlook) - An open-source visual editor for React and Tailwind apps where you design in the browser and AI writes the code.
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - An AI-powered coding toolbar for any web app that captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [Pico](https://picoapps.xyz) - An end-to-end micro app generator with instant deployment.
 - [Polymet](https://polymet.ai) - An AI-powered tool to create and iterate product designs and user interfaces, providing production-ready front-end code.
 - [Rapidpages](https://www.rapidpages.io/) - An open-source UI generator for rapid web interface creation.
@@ -1722,6 +1736,7 @@ AI code review, test generation, QA, security scanning, documentation, debugging
 - [Nova](https://www.trynova.ai/) - A CI bot that adds actions like summaries and tests to new pull requests.
 - [Ogoron](https://www.everydev.ai/tools/ogoron) - An AI testing platform that analyzes code changes and application architecture to generate and maintain API, UI, and mobile tests.
 - [OrcaCode Review](https://github.com/Continuum-AI-Corp/orca-code-review) - A GitHub Action that reviews each pull request against a P0-P3 severity rubric, posts findings inline on the affected lines, and fails the check on P0/P1 so it acts as a merge gate. The reviewing model, the rubric, and the merge policy are configured outside the workflow YAML.
+- [PitchDocs](https://github.com/littlebearapps/pitchdocs) - A Claude Code plugin that generates professional, marketing-ready repository documentation — README, CHANGELOG, CONTRIBUTING, AI context files, and 15+ more files with evidence-based feature extraction and quality scoring.
 - [Pixee](https://pixee.ai/) - Pixeebot automatically finds security and code quality issues, creating merge-ready pull requests with recommended fixes.
 - [PR-Agent](https://github.com/The-PR-Agent/pr-agent) - An open-source AI pull request reviewer, maintained by the community as the original Qodo project.
 - [PR Explainer Bot](https://pr-explainer-bot.web.app/) - A GitHub integration that adds explanatory comments to newly created pull requests.
@@ -1776,6 +1791,7 @@ SQL and database assistants, shell and Git helpers, agent-building frameworks, p
 - [SQLAI.ai](https://www.sqlai.ai/) - An AI tool for SQL query generation, optimization, and explanation, with the ability to train on database schemas.
 - [SuperAGI](https://superagi.com/) - An open-source platform for building and managing LLM-based agents.
 - [TEXT2SQL.AI](https://www.text2sql.ai/) - An AI tool for SQL query translation and explanation.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - A collection of free browser-based developer utilities including an AI Cost Calculator for comparing LLM pricing, an AI Robots.txt Generator for LLM crawlers, an AI Content Disclosure Generator (EU AI Act Article 50 compliant), an AI Background Remover that runs locally via WebAssembly, plus OG image, favicon, color palette, and SEO meta tag generators. No signup, open source.
 - [WhoDB](https://github.com/clidey/whodb) - An AI-powered data explorer for various databases.
 - [Wren AI](https://getwren.ai/oss) - An open-source SQL AI Agent that allows users to get results and insights by asking questions without writing SQL.
 
