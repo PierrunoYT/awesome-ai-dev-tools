@@ -197,6 +197,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Chef](https://chef.convex.dev/)** - Convex's AI app builder that generates full-stack web apps with a reactive database, authentication, and file storage built in.
 
+**[Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)** - An MCP server that gives coding agents Chrome DevTools access for debugging, performance traces, network inspection, and browser automation.
+
 **[Claude Code](https://code.claude.com/)** - Anthropic's official agentic CLI coding tool that runs in your terminal, understands your codebase, and executes multi-step tasks through natural language. Supports VS Code and JetBrains IDE integration, GitHub/GitLab workflows, MCP servers, and multi-agent orchestration.
 
 **[Claude Task Master](https://github.com/eyaltoledano/claude-task-master)** - An open-source AI task management system that turns a PRD into dependency-aware tasks for coding agents in Cursor, Claude Code, Windsurf, and other MCP clients.
@@ -206,6 +208,10 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Claude Command Center (CCC)](https://github.com/amirfish1/claude-command-center)** - Local dashboard for spawning, monitoring, and resuming parallel Claude Code, Codex, Cursor, Antigravity, and Kilo Code sessions.
 
 **[claude-flow](https://github.com/ruvnet/claude-flow)** - Deploy multi-agent swarms with coordinated workflows.
+
+**[claude-mem](https://github.com/thedotmack/claude-mem)** - A plugin that captures what your coding agent does across sessions and injects relevant context back into future sessions.
+
+**[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** - Anthropic's official, managed directory of high-quality Claude Code plugins.
 
 **[claude-squad](https://github.com/smtg-ai/claude-squad)** - Manage multiple AI terminal agents in background.
 
@@ -333,6 +339,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[DeepCode](https://www.deepcode.ai/)** - An AI-based static analysis tool for finding bugs, security vulnerabilities, and offering refactoring suggestions.
 
+**[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)** - DeepSeek's open-source, MIT-licensed terminal coding agent (`dsh`) where everything is a plugin.
+
 **[DeepSource](https://deepsource.com/)** - A code quality and security platform with static analysis, AI-powered autofixes, and code review for pull requests.
 
 **[DeepWiki](https://deepwiki.com/)** - Cognition's AI-generated documentation for GitHub repositories, with architecture diagrams, a chat interface, and an MCP server.
@@ -340,6 +348,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[DemoGPT](https://github.com/melih-unsal/DemoGPT)** - An auto Gen-AI App Generator powered by Llama 2 for building applications.
 
 **[denchclaw](https://github.com/DenchHQ/denchclaw)** - Managed OpenClaw framework for CRM, sales automation, and outreach agents.
+
+**[Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP)** - An MCP server that gives Claude and other agents terminal control, file system search, and diff-based file editing.
 
 **[DevAssure](https://devassure.io/)** - A code-aware autonomous testing agent that maps code changes to impacted tests and runs targeted validation from VS Code, Cursor, CLI, and CI workflows.
 
@@ -431,6 +441,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace)** - An AI-enhanced development environment that streamlines the software development process by generating development plans and enabling integrated code execution from GitHub issues.
 
+**[GitHub MCP Server](https://github.com/github/github-mcp-server)** - GitHub's official MCP server for letting coding agents work with repositories, issues, pull requests, and Actions.
+
 **[GitHub Spark](https://githubnext.com/projects/github-spark/)** - A platform for creating micro applications through natural language with instant deployment and AI integration.
 
 **[Gitingest](https://github.com/coderamp-labs/gitingest)** - Turns any Git repository into a prompt-friendly text digest for LLMs, available as a website, CLI, and Python package.
@@ -476,6 +488,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Greptile](https://greptile.com/)** - A tool for natural language search across repositories and an AI code review bot for GitHub/GitLab.
 
 **[Grit](https://app.grit.io)** - A GitHub-integrated agent for automating maintenance tasks and other development work.
+
+**[Grok Build](https://github.com/xai-org/grok-build)** - xAI's open-source (Apache-2.0) coding agent harness and fullscreen terminal UI with plan mode, subagents, and MCP support.
 
 **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)** - An open-source, lightweight TypeScript CLI blueprint for building AI-powered coding agents with Groq's fast inference, slash commands, session memory, and customizable system prompts.
 
@@ -535,6 +549,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Kodu](https://github.com/kodu-ai)** - A privacy-focused VS Code extension that operates locally and supports multiple languages for AI coding assistance.
 
+**[Kodus](https://github.com/kodustech/kodus-ai)** - Open-source, self-hosted AI code review that works on pull requests with your own LLM.
+
 **[Kombai](https://kombai.com/)** - An AI tool for converting Figma designs into frontend code.
 
 **[Korbit](https://www.korbit.ai/)** - An AI code review tool that analyzes pull requests for bugs, security issues, and performance problems, with team insights.
@@ -582,6 +598,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Mabl](https://www.mabl.com/)** - An intelligent test automation platform with self-healing tests, designed to reduce test flakiness and maintenance effort.
 
 **[Macaly](https://www.macaly.com/)** - An AI platform that turns a prompt into a live website or web app, aimed at founders and small businesses.
+
+**[maestro-orchestrate](https://github.com/josstei/maestro-orchestrate)** - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code with specialist subagents, parallel execution, and persistent sessions.
 
 **[Mage](https://usemage.ai/)** - A full-stack web app generator that creates applications in Wasp, React, Node.js, and Prisma.
 
@@ -745,6 +763,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Plandex](https://github.com/plandex-ai/plandex)** - An open-source, terminal-based AI coding engine designed for complex projects, allowing for multi-step planning and execution.
 
+**[Playwright MCP](https://github.com/microsoft/playwright-mcp)** - Microsoft's MCP server that gives coding agents a real browser for testing and verifying their own work.
+
 **[Polymet](https://polymet.ai)** - An AI-powered tool to create and iterate product designs and user interfaces, providing production-ready front-end code.
 
 **[Poolside](https://poolside.ai/)** - A company focused on building advanced code generation models.
@@ -752,6 +772,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[PoorCoder](https://github.com/vgrichina/poorcoder)** - A collection of Bash scripts that assist coding using AI apps like Claude and ChatGPT, by extracting code context and generating AI commit messages.
 
 **[Potpie](https://potpie.ai)** - An open-source platform for creating AI Agents for your codebase in minutes, with pre-built agents for Q&A, Testing, Debugging, and System Design.
+
+**[PR-Agent](https://github.com/The-PR-Agent/pr-agent)** - An open-source AI pull request reviewer, maintained by the community as the original Qodo project.
 
 **[PR Explainer Bot](https://pr-explainer-bot.web.app/)** - A GitHub integration that adds explanatory comments to newly created pull requests.
 
@@ -896,6 +918,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework)** - A configuration framework that extends Claude Code with specialized commands, personas, and development workflows.
 
 **[Supermaven](https://supermaven.com/)** - A VS Code extension offering AI-powered autocomplete with a large 300,000-token context window.
+
+**[Superpowers](https://github.com/obra/superpowers)** - An agentic skills framework and software development methodology for coding agents.
 
 **[superset](https://github.com/superset-sh/superset)** - A terminal built for coding agents.
 
