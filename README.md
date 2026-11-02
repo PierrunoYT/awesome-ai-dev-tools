@@ -663,6 +663,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)** - MIT-licensed MCP server for agent memory, backed by a hosted engine that re-ranks recall from reported outcomes rather than similarity alone, with one key shared across Claude Code, Cursor, VS Code, and ChatGPT.
 
+**[Modaal](https://modaal.dev/)** - A Mac app that builds native iOS and Android apps in SwiftUI and Jetpack Compose with your own AI coding agent, starting from a PRD and a per-feature spec you approve.
+
 **[Momentic](https://momentic.ai/)** - An AI testing platform that writes, runs, and self-heals end-to-end tests from natural-language steps.
 
 **[Morph Rift](https://github.com/morph-labs/rift)** - A VS Code extension that leverages an edge language model to assist with code and merge AI-generated code.
