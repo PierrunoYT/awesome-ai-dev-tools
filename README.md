@@ -1023,6 +1023,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[wit](https://github.com/amaar-mc/wit)** - Coordination protocol that locks specific functions (not files) via Tree-sitter AST parsing. Agents declare intents, acquire symbol level locks, and get conflict warnings before writing code.
 
+**[workkit](https://github.com/ITW-Creative-Works/workkit)** - Claude Code plugin that runs GitHub Issues as the work pipeline: each issue moves through labeled stages from spec to ship, worker subagents write code and tests while a verifier reviews the diff blind, and hooks block a commit until the full test suite passes.
+
 **[Wrapif AI](https://wrapifai.com/)** - An AI tool focused on creating prototypes and website designs.
 
 **[wreckit](https://github.com/mikehostetler/wreckit)** - Run Ralph Wiggum Loop over your roadmap.
