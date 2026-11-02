@@ -985,6 +985,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Twinny](https://twinny.dev/)** - An Ollama-based AI code completion plugin.
 
+**[UI Verify](https://uiverify.ai/)** - Visual testing for coding agents: the agent sees screenshot diffs of its UI changes over MCP, from your existing Storybook, Playwright or Vitest tests.
+
 **[Uizard](https://uizard.io/)** - A multi-screen mockup generator and editor that creates designs from text prompts or by transforming screenshots/wireframes.
 
 **[Unblocked](https://getunblocked.com/)** - An AI-powered code context and chat assistant with integration across GitHub, Slack, and Jira.
