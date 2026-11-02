@@ -129,6 +129,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Appypie](https://www.appypie.com/ai-app-generator)** - An AI-powered mobile app generator for creating iOS and Android applications without coding.
 
+**[Archon](https://archon.diy/)** - An open-source harness builder for AI coding that makes agent workflows deterministic and repeatable.
+
 **[ariana](https://github.com/ariana-dot-dev/ariana)** - The IDE of the future.
 
 **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** - An open-source LLM observability and evaluation tool for tracing, debugging, and testing AI applications, built on OpenTelemetry.
@@ -184,6 +186,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[BoringUi](https://www.boringui.xyz/)** - A JSON-based UI generator that produces HTML and Tailwind CSS output for creating user interfaces.
 
 **[Braintrust](https://www.braintrust.dev/)** - A platform for evaluating, logging, and monitoring LLM applications, with prompt playgrounds, datasets, and CI-friendly evals.
+
+**[Browser Use](https://browser-use.com/)** - An open-source Python library for building AI browser agents, with a hosted cloud of stealth browsers and an agent API.
 
 **[Buildkite](https://buildkite.com/)** - A build automation platform with AI-enhanced pipeline optimization features.
 
@@ -601,6 +605,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[LlamaCoder](https://llamacoder.together.ai/)** - An open-source code generation model for building applications using Open Source LLMs.
 
+**[LM Studio](https://lmstudio.ai/)** - A desktop app for discovering and running local LLMs, with an OpenAI-compatible local server that coding agents can use.
+
 **[lobsterai](https://github.com/netease-youdao/lobsterai)** - Your 24/7 all-scenario AI agent that gets work done for you.
 
 **[Locofy](https://www.locofy.ai/)** - Converts Figma and Penpot designs into production-ready front-end code for React, Next.js, React Native, Flutter, and HTML.
@@ -743,7 +749,11 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** - An open-source AI development assistant with multi-language support.
 
+**[Open Interpreter](https://openinterpreter.com/)** - An open-source coding agent for open models.
+
 **[openkanban](https://github.com/techdufus/openkanban)** - TUI kanban board for orchestrating AI coding agents.
+
+**[OpenSpec](https://openspec.dev/)** - An open-source spec-driven development workflow that aligns humans and AI coding assistants on specs before code is written.
 
 **[Open Walnut](https://github.com/EvanZhang008/open-walnut)** - Self-hosted web console for Claude Code on your laptop and remote dev boxes; a daemon on each machine owns the `claude` processes, so sessions keep running when SSH drops (no tmux), and one browser page (phone too) shows every session and which ones wait for you, with a per-session diff. Also runs Codex, OpenCode, and Goose on the local machine over ACP. MIT.
 
@@ -914,6 +924,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 **[Srcbook](https://srcbook.com/)** - A TypeScript-centric app development platform with an AI app builder and TypeScript notebook.
 
 **[StackSpot AI](https://ai.stackspot.com/)** - An AI code assistant.
+
+**[Stagehand](https://stagehand.dev/)** - An open-source SDK from Browserbase for extracting data and interacting with websites using AI and code.
 
 **[Stenography.dev](https://stenography.dev/)** - An AI-powered tool for generating code documentation.
 
@@ -1110,6 +1122,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents with automations, Kanban management, and MCP servers.
 - [emdash](https://github.com/generalaction/emdash) - Run multiple coding agents in parallel.
 - [ghast](https://github.com/aidenybai/ghast) - Multitask with multiple terminals.
+- [happy](https://github.com/slopus/happy) - Open-source (MIT) app to orchestrate Claude Code, Codex and other agents from mobile and web, reusing the subscriptions you already pay for.
 - [herdr](https://github.com/ogulcancelik/herdr) - Agent-aware terminal multiplexer with persistent workspaces, tabs, panes, and status detection for CLI coding agents.
 - [humanlayer](https://github.com/humanlayer/humanlayer) - Get AI coding agents to solve hard problems in complex codebases.
 - [ivy-tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source AI coding orchestrator that manages Claude Code, Codex, Antigravity, Copilot, and OpenCode through a plan-based lifecycle with verification gates, self-improving memory, and human-in-the-loop checkpoints.
