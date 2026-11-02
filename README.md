@@ -345,6 +345,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Datadog](https://datadog.com/)** - An application monitoring platform with AI-powered insights and observability features.
 
+**[deed.page](https://deed.page/)** - A static-site host for coding agents: one HTTP PUT or the remote MCP server at `https://deed.page/mcp` publishes an HTML file or folder to a permanent `https://<slug>.deed.page` URL, with an open-source skill for Claude Code, Codex, Cursor, and Gemini CLI.
+
 **[Deep Agents CLI](https://docs.langchain.com/oss/python/deepagents/cli)** - LangChain's open-source terminal coding agent built on the Deep Agents SDK, with file editing, shell execution, task planning, persistent memory, sub-agents, MCP tools, and human-in-the-loop approvals.
 
 **[DeepCode](https://www.deepcode.ai/)** - An AI-based static analysis tool for finding bugs, security vulnerabilities, and offering refactoring suggestions.
