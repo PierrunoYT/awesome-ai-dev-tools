@@ -339,6 +339,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[cubic](https://www.cubic.dev/)** - An AI code review tool for GitHub pull requests that learns team conventions and posts inline comments with suggested fixes.
 
+**[CurlShot](https://curlshot.com/)** - A screenshot API with a remote MCP server (`take_screenshot`, `list_devices`) so coding agents can capture web pages as PNG, JPEG, WebP, PDF or scrolling video; also exposes an OpenAPI 3.1 spec and llms.txt. Free tier available.
+
 **[Cursor](https://cursor.sh/)** - An AI-first code editor and CLI built on a VS Code fork, deeply integrating AI features like codebase-aware chat, terminal agents, code generation, debugging assistance, and automated code migration.
 
 **[database.build](https://database.build/)** - An in-browser Postgres sandbox from Supabase where an AI assistant designs schemas, writes SQL, and generates migrations.
