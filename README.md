@@ -1648,6 +1648,8 @@ Memory layers, servers, and benchmarks for giving AI agents persistent memory. M
 
 **[Nocturne Memory](https://github.com/Dataojitori/nocturne_memory)** - Rollbackable, visually inspectable graph memory server for MCP agents — edits are reversible operations, not blind writes. The practical counterpart to MemTX/ChronoMem-style recovery.
 
+**[recall](https://github.com/fainir/recall)** - Reads and writes Claude Code's auto memory (Markdown files with wiki-links) over MCP or from code, so Codex, Cursor and other agents share the same memory. Zero dependencies.
+
 **[Synapse](https://github.com/anshulyadav1976/synapse)** - Markdown-authoritative local memory with write-once imports and provenance-bearing agent note proposals that require human approval. SQLite FTS5 and the linked-page graph are disposable indexes; MCP exposes selective retrieval instead of injecting the whole vault.
 
 **[Vestige](https://github.com/samvallad33/vestige)** - Local-first Rust MCP server combining FSRS-6 decay, spreading activation, contradiction inspection, active suppression, Receipt Lock, and an inspectable dashboard. Built for causal recall — the quiet change that broke today, not the lookalike.
