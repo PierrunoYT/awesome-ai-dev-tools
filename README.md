@@ -2100,6 +2100,7 @@ AI code review, test generation, QA, security scanning, documentation, debugging
 - [Atomist](https://atomist.com/) - A platform that enables automatic code modification and refactoring through "code transformations."
 - [Autodoc](https://github.com/context-labs/autodoc) - A tool for generating codebase documentation using large language models like OpenAI and Alpaca.
 - [Baz](https://baz.co/) - An AI code review platform that analyzes pull requests with codebase context, flags breaking changes, and posts review comments.
+- [Betterloop](https://betterloopai.com/) - A script tag that watches real sessions for rage clicks, dead buttons, JavaScript errors and slow pages, and returns one ranked list of fixes that coding agents can read through MCP.
 - [Blinky Debugging Agent](https://github.com/seahyinghang8/blinky) - A debugging agent for VS Code that helps identify and fix backend errors, inspired by SWE-agent.
 - [Braintrust](https://www.braintrust.dev/) - A platform for evaluating, logging, and monitoring LLM applications, with prompt playgrounds, datasets, and CI-friendly evals.
 - [Buildkite](https://buildkite.com/) - A build automation platform with AI-enhanced pipeline optimization features.
