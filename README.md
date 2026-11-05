@@ -2062,6 +2062,7 @@ Prompt-to-app and prompt-to-site builders, plus design-to-code and UI generators
 - [Newly](https://newly.app/) - AI app builder for creating native iOS and Android apps from natural-language prompts.
 - [Onlook](https://github.com/onlook-dev/onlook) - An open-source visual editor for React and Tailwind apps where you design in the browser and AI writes the code.
 - [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - An AI-powered coding toolbar for any web app that captures element context, previews diffs, and applies approved changes through a reverse proxy.
+- [OTF UI](https://github.com/otf-kit/sdk) - MIT component library with React Native components for iOS and Android alongside web components; shared component names and design tokens support cross-platform app development.
 - [Pico](https://picoapps.xyz) - An end-to-end micro app generator with instant deployment.
 - [Polymet](https://polymet.ai) - An AI-powered tool to create and iterate product designs and user interfaces, providing production-ready front-end code.
 - [Rapidpages](https://www.rapidpages.io/) - An open-source UI generator for rapid web interface creation.
