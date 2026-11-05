@@ -1954,6 +1954,7 @@ AI assistants that bridge to messaging platforms and other interfaces.
 MCP servers, skills, plugins, context tools, and workflow frameworks that extend coding agents.
 
 - [agent-qa](https://github.com/vostride/agent-qa) - A self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
+- [Agentik](https://www.agentik.cc) - A hosted MCP gateway that gives coding agents such as Claude, Codex, and Cursor 3,500+ third-party tools through one connection, with a price shown before each call.
 - [agentskill.sh](https://agentskill.sh) - A directory of 44k+ skills for Claude Code, Cursor, and Codex with two-layer security scanning and one-command installation via the `/learn` skill.
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - A local-first TUI for inspecting AI coding agent sessions across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, Hermes, OpenCode, Kimi, and Copilot-style logs, surfacing cost, cache usage, failures, latency, anomalies, health gates, and diffs.
 - [agy-powerline](https://github.com/wassim-azi/agy-powerline) - Fast, configurable statusline for Google Antigravity CLI (`agy`) with live Gemini 5h/7d quota meters, pace markers, context usage, and interactive TUI editor.
