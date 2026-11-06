@@ -1744,6 +1744,8 @@ Memory layers, servers, and benchmarks for giving AI agents persistent memory. M
 
 **[ContextStream](https://contextstream.io)** - Hosted MCP context layer for coding agents: persistent decisions and lessons, semantic code search, post-compaction recovery; MIT-licensed Rust client, hosted backend closed-source.
 
+**[Enhanciar](https://enhanciar.in/)** - Hosted company brain for teams and agents: reads Slack, Gmail, Drive, Notion, Jira, Linear, GitHub, Zendesk and Postgres, answers with a link to the source, and is reachable from Claude and Cursor over a remote MCP server; closed source, paid, bring your own AI key.
+
 **[Firekeep](https://firekeep.ai/)** - Self-hosted shared memory, working context, coordination, and evidence for Claude Code, Codex, Kiro, OpenCode, and other MCP clients.
 
 **[Marvnor](https://wendelxia.github.io/marvnor/)** - Hosted structured memory API for AI agents, with answers grounded in stored records, conflict detection, in-place correction, and targeted deletion.
