@@ -1979,6 +1979,7 @@ MCP servers, skills, plugins, context tools, and workflow frameworks that extend
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - GitHub's official MCP server for letting coding agents work with repositories, issues, pull requests, and Actions.
 - [Gitingest](https://github.com/coderamp-labs/gitingest) - Turns any Git repository into a prompt-friendly text digest for LLMs, available as a website, CLI, and Python package.
 - [gsd-pi](https://github.com/open-gsd/gsd-pi) - A meta-prompting, context engineering, and spec-driven development system that lets agents work autonomously for long periods without losing the big picture.
+- [looot](https://looot.ai/) - A pay-per-call business data API for AI agents, with a remote MCP server and agent skills for work email and phone lookup, company enrichment, Google SERP and web pages as markdown.
 - [MCP Config Doctor](https://mcpconfigdoctor.online/) - A browser-local diagnostic for supported Codex TOML, Gemini CLI JSON, and VS Code JSONC MCP client configurations; it checks static configuration shape and secret/env risks without claiming runtime server health.
 - [MCP Servers](https://github.com/modelcontextprotocol/servers) - The official collection of reference Model Context Protocol server implementations.
 - [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) - MIT-licensed MCP server for agent memory, backed by a hosted engine that re-ranks recall from reported outcomes rather than similarity alone, with one key shared across Claude Code, Cursor, VS Code, and ChatGPT.
