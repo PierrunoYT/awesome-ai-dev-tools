@@ -2185,6 +2185,7 @@ SQL and database assistants, shell and Git helpers, agent-building frameworks, p
 - [AutoRegex](https://www.autoregex.xyz/) - A web tool that uses OpenAI's GPT-3 to produce regular expressions from plain English descriptions.
 - [Butterfish](https://butterfi.sh) - A CLI tool that embeds ChatGPT directly into your shell for easy access and simple agentic capabilities.
 - [ChatWithGit](https://gitsearch.sdan.io/) - A ChatGPT plugin that enables searching GitHub repositories and returning relevant links.
+- [CodeI Lab](https://www.codeilab.com/) - A hosted, paid GPT API gateway for coding agents with OpenAI-compatible and Anthropic Messages endpoints, so Claude Code, Codex CLI, OpenCode and Cursor can use it through a base URL and API key.
 - [Composio](https://composio.dev/) - An open-source toolset designed for building and managing AI Agents and LLMs.
 - [CrewAI](https://crewai.com/) - A platform and framework for building, deploying, and managing multi-agent workflows with no-code tools, CLI support, and code-first APIs.
 - [database.build](https://database.build/) - An in-browser Postgres sandbox from Supabase where an AI assistant designs schemas, writes SQL, and generates migrations.
