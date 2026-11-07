@@ -371,8 +371,6 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)** - Pairs a TUI with a matching web view, so the same sessions stay reachable from a phone. Claude Code, Codex, OpenCode, Gemini, Mistral Vibe.
 
-**[agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator)** - Agentic orchestrator for parallel coding agents.
-
 **[agent-qa](https://github.com/vostride/agent-qa)** - Runs natural-language web and mobile test suites through a self-healing execution loop, persists memory between runs, and exposes a dashboard, CLI, MCP server, and coding-agent skills.
 
 **[agent-runbook](https://github.com/KnoxOps/agent-runbook)** - Compiles YAML runbooks with loops, branching, and parallelism into SKILL.md files for Claude Code and Codex.
@@ -1807,7 +1805,7 @@ Tools and frameworks for orchestrating AI coding agents.
 - [agent-kanban](https://github.com/saltbo/agent-kanban) - Agent-first kanban board with leader-worker model, cryptographic agent identity, and multi-runtime support for Claude Code, Codex, and Gemini CLI.
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI that runs coding-agent CLIs side by side in persistent tmux sessions, with optional per-session git worktrees and diff review.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Terminal session manager for AI coding agents on Linux and macOS.
-- [agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents.
+- [agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Agentic orchestrator for parallel coding agents.
 - [agenttier](https://github.com/agenttier/agenttier) - Kubernetes-native runtime that runs each AI coding agent in its own Pod and PVC sandbox, with default-deny NetworkPolicy and a streaming SSE invoke API.
 - [aGiTrack](https://github.com/core-aix/agitrack) - Terminal wrapper for Claude Code, Codex, and OpenCode that turns each agent turn into a git commit, recording the prompt, model, and token cost in the commit message, with a local dashboard over the resulting history.
 - [AGX](https://github.com/ramarlina/agx) - Local-first agent orchestrator with parallel execution, wake-work-sleep checkpointing, and human-in-the-loop gates.
