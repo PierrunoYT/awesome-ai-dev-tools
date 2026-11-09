@@ -2028,6 +2028,7 @@ Prompt-to-app and prompt-to-site builders, plus design-to-code and UI generators
 - [CodePlatform](https://codeplatform.com/) - A mobile app development platform with AI capabilities.
 - [Co.dev](https://www.co.dev/) - An AI-powered app development platform that helps build and deploy full-stack applications.
 - [Create.xyz](https://www.create.xyz/) - An AI tool focused on creating prototypes and website designs.
+- [Delta AI](https://app.delta-ai.dev/) - Architecture-first backend generator: describe a product, get a service architecture and one pull request per service in your GitHub org. Free first architecture.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - An auto Gen-AI App Generator powered by Llama 2 for building applications.
 - [DiagramGPT](https://www.eraser.io/diagramgpt) - A free AI-based web app that converts schemas, infrastructure definitions, code snippets, or plain language into various diagrams.
 - [Dyad](https://www.dyad.sh/) - A local, open-source AI app builder for creating full-stack applications with model choice, code export, Supabase integration, and MCP support.
