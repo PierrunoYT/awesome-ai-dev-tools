@@ -175,6 +175,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z)** - An AI-powered mainframe application modernization product with code generation, discovery, and automated refactoring (COBOL to Java conversion).
 
+**[Imagera Code](https://imagera.ai/code)** - A terminal AI coding agent built on OpenCode that edits your project and runs commands and tests, with Claude, GPT, Gemini and many other models on one subscription (paid).
+
 **[Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot)** - An open-source AI assistant with a built-in Python editor and interpreter.
 
 **[jcode](https://github.com/1jehuang/jcode)** - A high-performance coding agent harness written in Rust, built for heavy multi-agent development workflows.
