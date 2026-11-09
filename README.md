@@ -2037,6 +2037,7 @@ Prompt-to-app and prompt-to-site builders, plus design-to-code and UI generators
 - [Create.xyz](https://www.create.xyz/) - An AI tool focused on creating prototypes and website designs.
 - [Delta AI](https://app.delta-ai.dev/) - An architecture-first backend generator that designs domains, service boundaries, and contracts from a product description, writes a spec for each service, and opens one pull request per service in your GitHub org.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - An auto Gen-AI App Generator powered by Llama 2 for building applications.
+- [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) - A source-available (PolyForm Shield) desktop design studio where Claude Code, Codex or Gemini CLI edit .fig files through 39 MCP tools and generate React, Tailwind or SwiftUI code.
 - [DiagramGPT](https://www.eraser.io/diagramgpt) - A free AI-based web app that converts schemas, infrastructure definitions, code snippets, or plain language into various diagrams.
 - [Dyad](https://www.dyad.sh/) - A local, open-source AI app builder for creating full-stack applications with model choice, code export, Supabase integration, and MCP support.
 - [e2b_Fragments](https://fragments.e2b.dev/) - A platform for building and deploying AI-powered applications with sandboxed environments.
