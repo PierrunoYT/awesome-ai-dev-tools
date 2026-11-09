@@ -1966,6 +1966,7 @@ MCP servers, skills, plugins, context tools, and workflow frameworks that extend
 - [claude-mem](https://github.com/thedotmack/claude-mem) - A plugin that captures what your coding agent does across sessions and injects relevant context back into future sessions.
 - [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Anthropic's official, managed directory of high-quality Claude Code plugins.
 - [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) - An open-source AI task management system that turns a PRD into dependency-aware tasks for coding agents in Cursor, Claude Code, Windsurf, and other MCP clients.
+- [Clogmeter](https://clogmeter.vercel.app/) - A free browser tool that weighs AGENTS.md, CLAUDE.md, Cursor rules and skill files in tokens, finds duplicates and conflicting rules, and exports a trimmed copy.
 - [CocoIndex Code](https://github.com/cocoindex-io/cocoindex-code) - An Apache-2.0 code-search CLI and MCP server that uses Tree-sitter-based chunking and semantic search to retrieve code snippets for coding agents.
 - [code2prompt](https://github.com/mufeedvh/code2prompt) - An open-source CLI that converts a codebase into a single LLM prompt with a source tree, templating, and token counting.
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) - An open-source MIT Bash CLI helper for switching OpenAI Codex CLI/Desktop accounts using isolated `CODEX_HOME` profiles, with Homebrew install and no token copying.
