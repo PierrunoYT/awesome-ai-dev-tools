@@ -729,6 +729,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[muxel](https://github.com/ProjectHax/muxel)** - GPU-accelerated native desktop multiplexer (not a TUI) where every pane embeds a real terminal running a coding agent, with first-class git worktrees, live agent status, scheduled runs, and notifications.
 
+**[Muxflow](https://github.com/gal064/muxflow)** - Remote-first tmux IDE for Claude Code, Codex, and pi on local or SSH hosts, with agent notifications on desktop and Android, voice replies, screenshot paste over SSH, and per-host ports, files, and Git.
+
 **[nanobot](https://github.com/HKUDS/nanobot)** - Ultra-lightweight self-hosted assistant in Python with WebUI, tools, memory, MCP, and multi-agent workflows.
 
 **[nanoclaw](https://github.com/nanocoai/nanoclaw)** - Lightweight OpenClaw alternative running in containers, connecting to WhatsApp, Telegram, Slack, Discord, and Gmail.
