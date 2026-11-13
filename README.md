@@ -2209,6 +2209,7 @@ SQL and database assistants, shell and Git helpers, agent-building frameworks, p
 - [Linear](https://linear.app/) - A project management tool with AI-powered features for issue tracking and automated task organization.
 - [LM Studio](https://lmstudio.ai/) - A desktop app for discovering and running local LLMs, with an OpenAI-compatible local server that coding agents can use.
 - [Microsoft AutoGen](https://microsoft.github.io/autogen/stable/) - A framework and Studio UI for building, prototyping, and orchestrating single-agent and multi-agent AI applications.
+- [Muster](https://github.com/oliveralerubio/muster) - Local-first Rust CLI, web UI, and stdio MCP server for syncing AI coding agent configurations, Agent Skills, MCP servers, and `age`-encrypted secrets across machines.
 - [OneCompiler](https://onecompiler.com/) - A free AI-powered online compiler supporting over 70 languages for writing, running, and sharing code.
 - [Potpie](https://potpie.ai) - An open-source platform for creating AI Agents for your codebase in minutes, with pre-built agents for Q&A, Testing, Debugging, and System Design.
 - [Shell GPT](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool that uses LLMs to generate shell commands, code snippets, and answers from the terminal.
