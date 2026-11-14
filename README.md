@@ -427,6 +427,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[Alook](https://github.com/alookai/alook)** - Shared rooms where people and agents collaborate: local coding agents get persistent identities with handles, inboxes, and memberships, while agents keep running on your own machine.
 
+**[Althar](https://github.com/AltharIDE/althar)** - Desktop ADE that turns requests into tasks, assigns coding agents, and has another model review the changes. Supports Claude Code, Codex, and OpenCode.
+
 **[amux](https://github.com/andyrewlee/amux)** - Minimal TUI for spawning parallel coding agents in git worktrees.
 
 **[antfarm](https://github.com/snarktank/antfarm)** - Build your agent team in OpenClaw with one command. _(last commit 2026-02)_
