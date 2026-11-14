@@ -149,6 +149,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[GitLab Duo](https://about.gitlab.com/gitlab-duo/)** - GitLab's suite of AI capabilities integrated across the software development lifecycle, including code suggestions, issue summarization, and vulnerability explanation.
 
+**[Golder](https://github.com/getan/golder)** - An open-source Go coding agent with desktop and terminal interfaces, multiple model providers, and a workspace for the agent, shell, and browser.
+
 **[Google Antigravity](https://antigravity.google/)** - Google's agent-first IDE where coding agents plan, execute, and verify tasks across the editor, terminal, and browser.
 
 **[Google Cloud Code AI (Duet AI)](https://cloud.google.com/products/duet-ai)** - Google's AI-powered collaborator integrated into Google Cloud services and IDEs, providing code assistance, chat support for Google Cloud queries, and smart actions.
