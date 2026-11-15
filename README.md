@@ -1969,6 +1969,7 @@ MCP servers, skills, plugins, context tools, and workflow frameworks that extend
 - [BurnRate](https://getburnrate.io) - Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
 - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - An MCP server that gives coding agents Chrome DevTools access for debugging, performance traces, network inspection, and browser automation.
 - [claude-mem](https://github.com/thedotmack/claude-mem) - A plugin that captures what your coding agent does across sessions and injects relevant context back into future sessions.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for searching 2,200+ North American live-music venues, load-in stairs, drive-time routing, and talent buyer contacts.
 - [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Anthropic's official, managed directory of high-quality Claude Code plugins.
 - [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) - An open-source AI task management system that turns a PRD into dependency-aware tasks for coding agents in Cursor, Claude Code, Windsurf, and other MCP clients.
 - [Clogmeter](https://clogmeter.vercel.app/) - A free browser tool that weighs AGENTS.md, CLAUDE.md, Cursor rules and skill files in tokens, finds duplicates and conflicting rules, and exports a trimmed copy.
