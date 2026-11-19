@@ -2015,6 +2015,7 @@ MCP servers, skills, plugins, context tools, and workflow frameworks that extend
 - [UI Verify](https://uiverify.ai/) - Visual testing for coding agents: the agent sees screenshot diffs of its UI changes over MCP, from your existing Storybook, Playwright or Vitest tests.
 - [usage](https://github.com/aqua5230/usage) - A macOS menu bar and Windows system tray app that monitors Claude Code, Codex, and Antigravity quota, with burn rate estimates and locally generated usage reports.
 - [workkit](https://github.com/ITW-Creative-Works/workkit) - Claude Code plugin that runs GitHub Issues as the work pipeline: each issue moves through labeled stages from spec to ship, worker subagents write code and tests while a verifier reviews the diff blind, and hooks block a commit until the full test suite passes.
+- [YouTube Transcript MCP](https://github.com/tubeagentkit/youtube-mcp) - A remote MCP server that gives coding agents YouTube video transcripts with timestamps in any caption language, plus YouTube search and channel and playlist browsing; uses a GetYouTubeTranscript API key (100 free credits, then paid).
 
 ### App and UI Builders
 
