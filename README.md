@@ -1001,6 +1001,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[vibecraft](https://github.com/rayzhudev/vibecraft)** - RTS-style workspace for commanding coding agents.
 
+**[Valo](https://getvalo.dev/)** - Desktop workspace that runs Claude Code, Codex, Gemini, Cursor and GLM side by side on Windows, macOS and Linux, with per-tool permissions and a free plan.
+
 **[Vicoa](https://github.com/vicoa-ai/vicoa)** - Agentic IDE and AI orchestrator for running a team of coding agents from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, Hermes.
 
 **[Vigil](https://github.com/butterlatte-zhang/vigil)** - Native macOS terminal where a manager agent runs the tree — spawning workers and sub-managers, detail flowing down, summaries rolling up — while every node stays the CLI's own TUI you can take over. Claude Code, Codex, OpenCode.
