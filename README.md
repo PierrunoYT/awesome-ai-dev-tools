@@ -2222,6 +2222,8 @@ SQL and database assistants, shell and Git helpers, agent-building frameworks, p
 
 ---
 
+- [FlashData](https://flashdata.dev) - Managed Google Search API, YouTube Data & Transcripts API, and cloud video downloads with hosted Remote MCP (`https://data.flashdata.dev/mcp`) and MIT stdio server ([flashdatadev/flashdata-mcp](https://github.com/flashdatadev/flashdata-mcp)) for AI coding agents (free trial, no credit card required).
+
 ## Contributing
 
 Contributions are welcome. Please read the [contributing guidelines](CONTRIBUTING.md) before opening a pull request. In short:
