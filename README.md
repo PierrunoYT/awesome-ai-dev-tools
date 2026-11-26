@@ -995,13 +995,13 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[UpComputer](https://github.com/krl-gr/upcomputer)** - Desktop, web, and PWA app for task-based self-orchestration: task tags and statuses trigger agents that run on a schedule or from a webhook, in parallel or as a queue. Claude Code, Codex, Grok, OpenCode, Cursor, and more.
 
+**[Valo](https://getvalo.dev/)** - Workspace that runs Claude Code, Codex, Gemini, Cursor and GLM side by side on Windows, macOS and Linux, with per-tool permissions. Closed source; free plan available.
+
 **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)** - Kanban board for managing AI coding agents. _(last commit 2026-04)_
 
 **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** - One git worktree per agent, delivered as desktop, web, and CLI.
 
 **[vibecraft](https://github.com/rayzhudev/vibecraft)** - RTS-style workspace for commanding coding agents.
-
-**[Valo](https://getvalo.dev/)** - Desktop workspace that runs Claude Code, Codex, Gemini, Cursor and GLM side by side on Windows, macOS and Linux, with per-tool permissions and a free plan.
 
 **[Vicoa](https://github.com/vicoa-ai/vicoa)** - Agentic IDE and AI orchestrator for running a team of coding agents from desktop, web, or mobile, with real-time sync, parallel git worktrees, and push notifications. Claude Code, Codex, OpenCode, Gemini, Cursor, GitHub Copilot, Kimi, Hermes.
 
