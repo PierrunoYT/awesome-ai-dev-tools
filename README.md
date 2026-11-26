@@ -2208,6 +2208,7 @@ SQL and database assistants, shell and Git helpers, agent-building frameworks, p
 - [Composio](https://composio.dev/) - An open-source toolset designed for building and managing AI Agents and LLMs.
 - [CrewAI](https://crewai.com/) - A platform and framework for building, deploying, and managing multi-agent workflows with no-code tools, CLI support, and code-first APIs.
 - [database.build](https://database.build/) - An in-browser Postgres sandbox from Supabase where an AI assistant designs schemas, writes SQL, and generates migrations.
+- [Excellent for Mac](https://www.excellent.so/) - Native macOS app that reviews recorded activity from supported coding agents, shows supporting examples, and can ask the user's Claude Code or Codex to explain a finding.
 - [GitBrain](https://gitbrain.dev/) - A Git client that uses AI to simplify the Git workflow by splitting code changes, generating summaries, and writing commit messages.
 - [GitButler](https://gitbutler.com/) - A Git client that allows for simultaneous branches on top of existing workflows, with AI assistance for generating conventional commit messages.
 - [GitFluence](https://www.gitfluence.com/) - A web-based tool that uses AI to automatically generate Git commands from text descriptions.
