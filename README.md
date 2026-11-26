@@ -2193,6 +2193,7 @@ AI code review, test generation, QA, security scanning, documentation, debugging
 - [Traceloop](https://traceloop.com/) - A tool that uses OpenTelemetry tracing data with generative AI to improve system reliability.
 - [Trelent](https://trelent.net/) - A VS Code extension for generating docstrings using proprietary AI models.
 - [Tusk](https://usetusk.ai/) - An AI test generation tool that writes unit and integration tests for pull requests and catches edge cases before merge.
+- [VibeShield](https://github.com/zColdWater/vibeshield-cli) - A zero-dependency CLI and web security scanner that checks AI-built web apps for exposed client secrets, Supabase and Firebase misconfigurations, and missing security headers.
 - [What The Diff](https://whatthediff.ai/) - An AI-powered app that reviews pull request diffs and writes descriptive comments about the changes in plain English.
 - [ZeroPath](https://zeropath.com/) - An AI-native application security scanner that finds logic flaws, auth issues, and vulnerabilities, and generates patches.
 
