@@ -2062,6 +2062,7 @@ Prompt-to-app and prompt-to-site builders, plus design-to-code and UI generators
 - [Google Stitch](https://stitch.withgoogle.com/) - Google's AI UI design tool that generates web and mobile interfaces from prompts or images and exports to Figma or front-end code.
 - [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/) - A full-stack app generator that creates React/Node.js/Prisma/Wasp applications from a short description.
 - [Hostinger Horizons](https://www.hostinger.com/horizons/) - An AI app and website builder that turns prompts into hosted web apps with code editing, backend features, integrations, and one-click launch.
+- [Kite](https://kite.new) - A design canvas that Claude Code, Cursor, Codex and ChatGPT draw into through a hosted MCP server, creating editable frames and components that can be copied as HTML, React or Tailwind.
 - [Kombai](https://kombai.com/) - An AI tool for converting Figma designs into frontend code.
 - [Lazy AI](https://getlazy.ai/) - An AI coding tool for building full-stack web applications and MVPs with complex integrations.
 - [LlamaCoder](https://llamacoder.together.ai/) - An open-source code generation model for building applications using Open Source LLMs.
