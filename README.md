@@ -209,6 +209,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[Mastra Code](https://code.mastra.ai/)** - A terminal-based AI coding agent built on Mastra's agent and memory primitives, supporting thousands of AI models with Build, Plan, and Fast modes, MCP servers, and project-scoped thread persistence.
 
+**[Mel](https://www.openmel.dev)** - A terminal for macOS, Windows and Linux with a team of AI coding agents and configurable approvals, plus a VS Code extension. Paid, with a free bring-your-own-key tier. Proprietary.
+
 **[Melty](https://melty.sh/)** - An open-source VS Code fork with built-in chat, change previews, and the ability to write AI-powered commit messages.
 
 **[Mentat](https://www.mentat.codes/)** - A CLI assistant and agent that makes changes to repositories based on AI understanding.
