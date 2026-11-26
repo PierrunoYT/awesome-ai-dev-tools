@@ -1001,6 +1001,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[UpComputer](https://github.com/krl-gr/upcomputer)** - Desktop, web, and PWA app for task-based self-orchestration: task tags and statuses trigger agents that run on a schedule or from a webhook, in parallel or as a queue. Claude Code, Codex, Grok, OpenCode, Cursor, and more.
 
+**[Valo](https://getvalo.dev/)** - Workspace for AI that runs the leading AI models and local models side by side. Context control per tool, skill, agent and model. Keyguard lets the AI use your passwords without ever seeing them. Custom Guards and off-limits folders stop risky actions before they run. Valo Search, human-like memory, a live project map and Streamer Mode. Built-in support: the AI inside knows Valo, so you never learn how it works, you just ask. Windows, macOS, Linux. Closed source; free plan available.
+
 **[vibe-kanban](https://github.com/BloopAI/vibe-kanban)** - Kanban board for managing AI coding agents. _(last commit 2026-04)_
 
 **[vibe-tree](https://github.com/sahithvibudhi/vibe-tree)** - One git worktree per agent, delivered as desktop, web, and CLI.
