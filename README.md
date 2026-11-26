@@ -2104,6 +2104,7 @@ Prompt-to-app and prompt-to-site builders, plus design-to-code and UI generators
 - [Webdraw](https://webdraw.com/) - An AI tool focused on creating prototypes and website designs.
 - [Wegic AI](https://wegic.ai/) - An AI tool focused on creating prototypes and website designs.
 - [WeInc](https://we.inc) - An AI website and app builder that generates React + Vite + Tailwind sites from natural language prompts using WebContainers, with visual editing and custom domains.
+- [Wishbar](https://wishbar.app/) - A Mac menu bar app where you type what you want in plain English or your own language, and your own AI (ChatGPT through Codex, or Claude) builds it as a live widget.
 - [Wrapif AI](https://wrapifai.com/) - An AI tool focused on creating prototypes and website designs.
 
 ### Code Review, Testing, Security and Docs
