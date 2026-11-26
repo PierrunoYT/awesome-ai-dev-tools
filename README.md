@@ -2147,6 +2147,7 @@ AI code review, test generation, QA, security scanning, documentation, debugging
 - [DiffBlue Cover](https://www.diffblue.com/) - An AI-powered tool that autonomously writes Java unit tests by analyzing code and generating comprehensive test coverage.
 - [DocuWriter.ai](https://www.docuwriter.ai/) - An AI-powered web app for generating automated code and API documentation from source code files.
 - [Ellipsis](https://www.ellipsis.dev/) - An AI code review bot that reviews pull requests, catches bugs, and can implement requested changes directly on GitHub.
+- [EvalShift](https://github.com/evalshift/evalshift-cli) - An open-source CLI and GitHub Action that runs the same test cases, or recorded agent runs, on the current and a candidate LLM and reports which outputs and tool calls regressed, with paired statistics.
 - [Explain Code](https://explain.dev/) - An AI-powered tool for code explanation and documentation, making complex code easier to understand.
 - [Functionize](https://www.functionize.com/) - An intelligent testing platform that uses AI/ML for creating, executing, and maintaining automated functional tests, particularly for web applications.
 - [GitHub Copilot Code Review](https://docs.github.com/copilot/concepts/code-review) - GitHub Copilot's AI-powered code review feature for pull requests and IDE workflows, providing contextual feedback and applicable suggestions.
