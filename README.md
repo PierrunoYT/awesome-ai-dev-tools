@@ -1998,7 +1998,7 @@ MCP servers, skills, plugins, context tools, and workflow frameworks that extend
 - [repo-forensics](https://github.com/alexgreensh/repo-forensics) - Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; flags prompt injection, credential theft, and manifest drift before install.
 - [Repomix](https://github.com/yamadashy/repomix) - An open-source tool that packs an entire repository into a single AI-friendly file, with token counts, secret scanning, and an MCP server.
 - [Repowise](https://github.com/repowise-dev/repowise) - An open-source codebase intelligence tool for AI coding agents that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
-- [Runheed](https://runheed.com/?ref=awesome-ai-dev-tools) - A remote MCP server and error tracker where Claude Code, Cursor, and Codex read production errors with stack traces, fix the code, and mark them resolved.
+- [Runheed](https://runheed.com/) - A remote MCP server and error tracker where Claude Code, Cursor, and Codex read production errors with stack traces, fix the code, and mark them resolved. Paid hosted service (7-day trial).
 - [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) - A local semantic codebase search tool that uses vector embeddings for context-aware code search.
 - [Serena](https://github.com/oraios/serena) - An open-source coding agent toolkit that gives LLMs semantic, LSP-based code retrieval and editing tools through MCP.
 - [sharable.link](https://sharable.link) - A free Claude skill that publishes HTML outputs to clean, shareable public URLs. One `/share` command turns dashboards, reports, and landing pages into links anyone can open — no account needed.
