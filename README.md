@@ -2128,6 +2128,7 @@ AI code review, test generation, QA, security scanning, documentation, debugging
 - [Codacy](https://www.codacy.com/) - An automated code quality and performance analysis platform that integrates with Git repositories.
 - [CodeAct](https://codeact.ai/) - An AI-powered tool for advanced debugging, including multi-threading and concurrency analysis.
 - [CodeAnt AI](https://www.codeant.ai/) - An AI tool that automatically creates pull requests to fix code issues.
+- [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) - Open-source skill and CLI that makes coding agents check formal properties and record second-model review evidence before reporting work done.
 - [CodeCanary](https://codecanary.sh/) - An open-source AI code review tool for GitHub Actions or local use, offering incremental reviews, conversational re-evaluation, anti-hallucination safeguards, and multi-LLM support.
 - [CodeClimate](https://codeclimate.com/) - A platform that provides code quality and maintainability insights through automated analysis.
 - [CodeFlash AI](https://www.codeflash.ai/) - A CLI and CI tool that uses AI for optimizing Python code.
