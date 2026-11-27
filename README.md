@@ -1931,6 +1931,7 @@ Tools and frameworks for orchestrating AI coding agents.
 AI assistants that bridge to messaging platforms and other interfaces.
 
 - [accomplish](https://github.com/accomplish-ai/accomplish) - Open-source AI coworker that lives on your desktop.
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 - [aeon](https://github.com/aaronjmars/aeon) - Autonomous agent framework that runs unattended on GitHub Actions, with skills, quality scoring, self-healing, persistent memory, and reactive triggers.
 - [assistant](https://github.com/kcosr/assistant) - Panel-based personal assistant with a plugin architecture for productivity workflows.
 - [babyagi3](https://github.com/yoheinakajima/babyagi3) - Minimal AI agent you configure once, then run through natural language.
