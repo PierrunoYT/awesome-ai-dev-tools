@@ -201,7 +201,7 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[Letta Code](https://docs.letta.com/letta-code)** - A memory-first AI coding agent with persistent agents that learn across sessions, portable memory across models, skills, and CLI, desktop, and chat integrations.
 
-**[littlebrain](https://smol-ninja.github.io/little-brain/)** - A tiny app that sits in your mac menu bar and keep an eye on all your codex sessions. Free.
+**[littlebrain](https://smol-ninja.github.io/little-brain/)** - macOS menu bar app that monitors running Codex sessions. Free.
 
 **[Magnet](https://magnet.run/)** - A web-based chatbot that provides context from repositories and issues for coding assistance.
 
