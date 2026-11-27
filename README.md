@@ -1118,7 +1118,7 @@ Managed services that give agents on-demand isolated environments through an API
 
 **[Sandbox as a Service](https://sandbox-as-a-service.com/)** - Full cloud VMs with 24-hour sessions, public preview URLs that open no inbound port on the sandbox, a REST API, and an MCP server.
 
-**[Sandscale](https://sandscale.dev/)** - Firecracker microVM sandboxes, workspaces and build hosts for coding agents, driven over a remote MCP server, CLI or TypeScript SDK, with per-tool allow/ask/deny policies, approvals and an audit log.
+**[Sandscale](https://sandscale.dev/)** - Firecracker microVM sandboxes, workspaces and build hosts for coding agents, driven over a remote MCP server, CLI or TypeScript SDK, with policy controls, approvals and an audit log.
 
 **[shellbox.dev](https://shellbox.dev/)** - SSH-accessible Linux boxes.
 
