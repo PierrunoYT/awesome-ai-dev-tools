@@ -243,6 +243,8 @@ This repository merges several formerly separate lists into one. Entries are alp
 
 **[Open Interpreter](https://openinterpreter.com/)** - An open-source coding agent for open models.
 
+**[Open Max](https://github.com/Max17190/open-max)** - A high-performance, self-extensible terminal coding agent harness in one Rust binary, optimized for prompt caching. The agent can write new tools and skills as files and call them on its next step. Supports interactive TUI, headless, stdio, and git-worktree subagents across OpenAI-compatible, Anthropic, and local models. MIT.
+
 **[OpenSquilla](https://github.com/opensquilla/opensquilla)** - A self-hostable agent runtime with a CLI (chat REPL and one-shot mode) that edits files, runs shell commands, and uses git tools. Includes tier-based model routing, sandboxing, persistent memory, and 20+ providers.
 
 **[PearAI](https://trypear.ai/)** - An open-source fork of VS Code with integrated chat and inline code generation capabilities.
